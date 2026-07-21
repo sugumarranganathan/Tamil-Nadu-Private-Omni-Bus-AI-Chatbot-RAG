@@ -1,12 +1,8 @@
 gradio==5.38.2
 sentence-transformers
 faiss-cpu
-torch
 numpy
 pandas
 scikit-learn
 rapidfuzz>=3.0.0
-huggingface_hub
-transformers
-safetensors
 requests
