@@ -4,7 +4,7 @@ An AI-powered chatbot for searching and recommending private omni buses across T
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The chatbot understands natural language queries and retrieves the most relevant private bus information using semantic search.
 
@@ -12,7 +12,7 @@ Instead of traditional keyword matching, the system converts user queries into v
 
 ---
 
-## 🚀 Features
+## Features
 
 - 🚌 AI-powered bus recommendation
 - 🔍 Semantic Search
