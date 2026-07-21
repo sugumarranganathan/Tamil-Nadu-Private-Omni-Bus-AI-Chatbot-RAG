@@ -465,13 +465,24 @@ def extract_time_period(query, filters):
 
     q = query.lower()
 
-    for key in TIME_PERIODS:
+    if "morning" in q:
 
-        if key in q:
+        filters["departure_after"] = 300
+        filters["departure_before"] = 720
 
-            filters["departure_period"] = key
-            return
+    elif "afternoon" in q:
 
+        filters["departure_after"] = 720
+        filters["departure_before"] = 1020
+
+    elif "evening" in q:
+
+        filters["departure_after"] = 1020
+        filters["departure_before"] = 1260
+
+    elif "night" in q:
+
+        filters["departure_after"] = 1260
 
 # ==========================================================
 # Detect Sort Preference
@@ -689,5 +700,111 @@ def filter_dataframe(query):
     result = sort_results(result, filters)
 
     return result, filters
+
+# Part 4- create_filters()
+
+
+def create_filters():
+
+    return {
+
+        # Route
+        "source": None,
+        "destination": None,
+
+        # Operator
+        "operator": None,
+
+        # Bus
+        "bus_name": None,
+        "bus_type": None,
+
+        # Boarding/Dropping
+        "boarding": None,
+        "dropping": None,
+
+        # Fare
+        "min_fare": None,
+        "max_fare": None,
+
+        # Rating
+        "min_rating": None,
+
+        # Duration
+        "max_duration": None,
+
+        # Seats
+        "min_available_seats": None,
+
+        # Departure Time
+        "departure_after": None,
+        "departure_before": None,
+
+        # Arrival Time
+        "arrival_after": None,
+        "arrival_before": None,
+
+        # Running Day
+        "running_day": None,
+
+        # Amenities
+        "amenities": [],
+
+        # Sorting
+        "sort_by": None,
+        "sort_order": "asc"
+
+    }
+
+# Step 2 — Time Utility
+
+from datetime import datetime
+
+
+def time_to_minutes(time_str):
+
+    if pd.isna(time_str):
+        return None
+
+    text = str(time_str).strip()
+
+    formats = [
+
+        "%H:%M",
+        "%I:%M %p",
+        "%H:%M:%S"
+
+    ]
+
+    for fmt in formats:
+
+        try:
+
+            t = datetime.strptime(text, fmt)
+
+            return t.hour * 60 + t.minute
+
+        except:
+
+            pass
+
+    return None
+
+# Step 3 — Duration Utility
+
+def duration_to_minutes(duration):
+
+    if pd.isna(duration):
+        return None
+
+    try:
+
+        h, m = str(duration).split(":")
+
+        return int(h) * 60 + int(m)
+
+    except:
+
+        return None
 
 
