@@ -1,7 +1,11 @@
-rapidfuzz>=3.0.0
-faiss-cpu
+gradio
 sentence-transformers
-pandas
-numpy
-scikit-learn
+faiss-cpu
 torch
+numpy
+pandas
+scikit-learn
+rapidfuzz>=3.0.0
+huggingface_hub
+transformers
+safetensors
