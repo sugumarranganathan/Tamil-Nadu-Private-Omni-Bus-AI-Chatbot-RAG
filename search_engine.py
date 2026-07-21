@@ -1,14 +1,31 @@
-import faiss
 import pickle
+import faiss
 from sentence_transformers import SentenceTransformer
 from config import MODEL_NAME, INDEX_FILE, CHUNKS_FILE
 
-# Load embedding model
 model = SentenceTransformer(MODEL_NAME)
 
-# Load FAISS index
 index = faiss.read_index(INDEX_FILE)
 
-# Load chunks
 with open(CHUNKS_FILE, "rb") as f:
     documents = pickle.load(f)
+
+
+def ai_search(query):
+
+    embedding = model.encode([query])
+
+    distances, indices = index.search(embedding, 5)
+
+    response = ""
+
+    for rank, idx in enumerate(indices[0], start=1):
+
+        if idx == -1:
+            continue
+
+        response += f"### Result {rank}\n"
+        response += documents[idx]
+        response += "\n\n"
+
+    return response
