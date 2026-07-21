@@ -6,7 +6,7 @@ Deployment : Railway
 =========================================================
 """
 
-import os
+
 import gradio as gr
 
 from search_engine import ai_search
