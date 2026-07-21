@@ -1,0 +1,1001 @@
+Bus_ID,Operator,Route_ID,From_City,To_City,Bus_Name,Bus_Type,Departure_Time,Arrival_Time,Duration,Distance_KM,Fare,Boarding_Point,Dropping_Point,Seats,Available_Seats,Amenities,Running_Days,Rating
+BUS0001,GreenLine Travels,R024,Bengaluru,Chennai,GreenLine Travels Express,Luxury Sleeper,04:00,07:30,3h 30m,345,1083,Electronic City,Koyambedu,45,33,"AC,WiFi,Charging",Weekdays,3.9
+BUS0002,Victory Travels,R001,Chennai,Madurai,Victory Travels Express,AC Sleeper,06:15,17:30,11h 15m,460,1355,Vandalur,Anna Nagar,36,5,"Charging,Reading Light",Weekends,4.2
+BUS0003,Express King,R010,Chennai,Thanjavur,Express King Express,Non AC Sleeper,16:30,05:15,12h 45m,350,921,Koyambedu,New Bus Stand,40,19,"Blanket,Pillow,Water",Daily,4.8
+BUS0004,Fast Wheels,R002,Chennai,Coimbatore,Fast Wheels Express,Semi Sleeper,08:30,12:30,4h 0m,510,1373,Vandalur,Ukkadam,40,18,"Luxury Seat,WiFi",Weekends,3.9
+BUS0005,Express King,R006,Chennai,Tiruppur,Express King Express,AC Seater,11:30,20:45,9h 15m,475,1196,Tambaram,New Bus Stand,45,15,"WiFi,Charging,Water",Weekdays,3.9
+BUS0006,Galaxy Bus,R008,Chennai,Nagercoil,Galaxy Bus Express,Non AC Sleeper,03:30,08:00,4h 30m,705,1740,Chengalpattu,Vadasery Bus Stand,36,2,"AC,Blanket,Pillow",Weekdays,4.9
+BUS0007,SkyBus,R012,Chennai,Karaikudi,SkyBus Express,Non AC Sleeper,20:30,00:00,3h 30m,410,1069,Tambaram,Bus Stand,45,4,"WiFi,Charging,Water",Weekends,4.2
+BUS0008,Galaxy Bus,R018,Coimbatore,Chennai,Galaxy Bus Express,Semi Sleeper,15:30,03:45,12h 15m,510,1444,Ukkadam,Vandalur,45,8,"Luxury Seat,WiFi",Daily,4.0
+BUS0009,Prime Bus,R018,Coimbatore,Chennai,Prime Bus Express,Non AC Sleeper,00:00,08:00,8h 0m,510,1368,Ukkadam,Guindy,36,10,"WiFi,Charging,Water",Weekends,4.1
+BUS0010,Victory Travels,R020,Trichy,Chennai,Victory Travels Express,Volvo Multi Axle,08:15,12:15,4h 0m,330,1097,Chathiram Bus Stand,Tambaram,40,34,"Luxury Seat,WiFi",Weekends,4.1
+BUS0011,Elite Travels,R024,Bengaluru,Chennai,Elite Travels Express,Volvo Multi Axle,12:00,15:45,3h 45m,345,910,Electronic City,Vandalur,40,14,"WiFi,Charging,Water",Weekdays,4.7
+BUS0012,Smart Coach,R003,Chennai,Trichy,Smart Coach Express,Luxury Sleeper,07:45,16:30,8h 45m,330,915,Koyambedu,Chathiram Bus Stand,40,35,"Luxury Seat,WiFi",Weekends,4.0
+BUS0013,City Link,R014,Chennai,Hosur,City Link Express,Non AC Seater,20:15,01:30,5h 15m,310,923,Chengalpattu,Bus Stand,45,1,"Luxury Seat,WiFi",Weekends,4.9
+BUS0014,Blue Bird,R002,Chennai,Coimbatore,Blue Bird Express,Non AC Seater,02:30,10:30,8h 0m,510,1393,Vandalur,Gandhipuram,36,7,"GPS,USB Charging",Daily,4.0
+BUS0015,Express King,R025,Tirupati,Chennai,Express King Express,AC Seater,05:00,13:15,8h 15m,150,631,Central Bus Stand,Perungalathur,36,30,"AC,WiFi,Charging",Weekdays,4.0
+BUS0016,Happy Journey,R001,Chennai,Madurai,Happy Journey Express,Semi Sleeper,00:45,13:30,12h 45m,460,1307,Tambaram,Mattuthavani Bus Stand,40,22,"WiFi,Charging,Water",Weekends,3.9
+BUS0017,Prime Bus,R024,Bengaluru,Chennai,Prime Bus Express,Volvo Multi Axle,21:45,09:15,11h 30m,345,1150,Kempegowda Bus Station,Guindy,36,14,"Luxury Seat,WiFi",Weekdays,4.7
+BUS0018,Elite Travels,R014,Chennai,Hosur,Elite Travels Express,Luxury Sleeper,07:00,12:15,5h 15m,310,802,Koyambedu,Bus Stand,40,6,"GPS,USB Charging",Weekends,4.5
+BUS0019,Elite Travels,R006,Chennai,Tiruppur,Elite Travels Express,Volvo Multi Axle,16:15,20:45,4h 30m,475,1332,Tambaram,Avinashi,36,21,"Luxury Seat,WiFi",Daily,4.1
+BUS0020,Southern Express,R018,Coimbatore,Chennai,Southern Express Express,AC Sleeper,19:00,00:00,5h 0m,510,1506,Ukkadam,Tambaram,40,23,"Luxury Seat,WiFi",Weekdays,4.0
+BUS0021,Fast Wheels,R001,Chennai,Madurai,Fast Wheels Express,Semi Sleeper,05:00,13:15,8h 15m,460,1256,Tambaram,Mattuthavani Bus Stand,40,21,"WiFi,Charging,Water",Weekdays,4.1
+BUS0022,Comfort Bus,R016,Chennai,Tirupati,Comfort Bus Express,Non AC Seater,04:30,08:45,4h 15m,150,450,Tambaram,Central Bus Stand,36,14,"AC,WiFi,Charging",Weekdays,5.0
+BUS0023,SkyBus,R019,Salem,Chennai,SkyBus Express,AC Sleeper,06:45,10:45,4h 0m,345,924,Old Bus Stand,Tambaram,40,1,"AC,Blanket,Pillow",Weekdays,4.2
+BUS0024,Blue Bird,R003,Chennai,Trichy,Blue Bird Express,Non AC Seater,05:45,16:30,10h 45m,330,1030,Vandalur,Central Bus Stand,40,13,"AC,Blanket,Pillow",Weekdays,3.9
+BUS0025,Victory Travels,R007,Chennai,Tirunelveli,Victory Travels Express,AC Sleeper,01:45,13:45,12h 0m,630,1705,Perungalathur,New Bus Stand,40,32,"AC,WiFi,Charging",Weekdays,4.5
+BUS0026,SkyBus,R005,Chennai,Erode,SkyBus Express,Luxury Sleeper,21:45,05:00,7h 15m,400,1078,Koyambedu,Central Bus Stand,45,31,"GPS,USB Charging",Daily,4.8
+BUS0027,Metro Connect,R002,Chennai,Coimbatore,Metro Connect Express,Non AC Sleeper,09:30,21:45,12h 15m,510,1291,Koyambedu,Ukkadam,36,24,"Blanket,Pillow,Water",Daily,4.4
+BUS0028,Blue Bird,R008,Chennai,Nagercoil,Blue Bird Express,BharatBenz Sleeper,23:00,02:30,3h 30m,705,1948,Vandalur,Vadasery Bus Stand,36,22,"AC,Live Tracking",Weekdays,4.7
+BUS0029,Fast Wheels,R006,Chennai,Tiruppur,Fast Wheels Express,Volvo Multi Axle,10:00,18:30,8h 30m,475,1153,Guindy,Avinashi,40,31,"GPS,USB Charging",Weekends,4.6
+BUS0030,Fast Wheels,R010,Chennai,Thanjavur,Fast Wheels Express,AC Sleeper,21:00,08:30,11h 30m,350,958,Perungalathur,New Bus Stand,45,33,"Charging,Reading Light",Daily,4.9
+BUS0031,Happy Journey,R013,Chennai,Puducherry,Happy Journey Express,BharatBenz Sleeper,06:30,14:45,8h 15m,170,682,Chengalpattu,New Bus Stand,45,7,"AC,Blanket,Pillow",Daily,4.3
+BUS0032,Sunrise Coaches,R003,Chennai,Trichy,Sunrise Coaches Express,Luxury Sleeper,22:30,01:45,3h 15m,330,1047,Chengalpattu,Chathiram Bus Stand,36,21,"AC,Blanket,Pillow",Weekdays,3.9
+BUS0033,Metro Connect,R005,Chennai,Erode,Metro Connect Express,AC Seater,05:00,12:45,7h 45m,400,1077,Guindy,Central Bus Stand,45,1,"Luxury Seat,WiFi",Weekends,4.2
+BUS0034,Sunrise Coaches,R011,Chennai,Dindigul,Sunrise Coaches Express,Semi Sleeper,05:30,17:45,12h 15m,420,1106,Guindy,Bus Stand,40,17,"AC,Blanket,Pillow",Daily,4.2
+BUS0035,Rainbow Coaches,R020,Trichy,Chennai,Rainbow Coaches Express,AC Sleeper,13:45,20:45,7h 0m,330,966,Central Bus Stand,Vandalur,45,21,"AC,Blanket,Pillow",Weekdays,3.8
+BUS0036,Royal Rider,R021,Tirunelveli,Chennai,Royal Rider Express,Non AC Sleeper,05:45,14:15,8h 30m,630,1678,New Bus Stand,Perungalathur,45,21,"Luxury Seat,WiFi",Weekdays,4.2
+BUS0037,Golden Route,R003,Chennai,Trichy,Golden Route Express,Non AC Seater,21:15,03:15,6h 0m,330,854,Vandalur,Central Bus Stand,40,4,"AC,Live Tracking",Daily,3.9
+BUS0038,Comfort Bus,R020,Trichy,Chennai,Comfort Bus Express,BharatBenz Sleeper,04:15,14:45,10h 30m,330,860,Central Bus Stand,Vandalur,40,9,"GPS,USB Charging",Weekdays,4.4
+BUS0039,Blue Bird,R008,Chennai,Nagercoil,Blue Bird Express,AC Seater,08:00,20:15,12h 15m,705,1747,Perungalathur,Vadasery Bus Stand,36,14,"GPS,USB Charging",Daily,4.1
+BUS0040,Happy Journey,R017,Madurai,Chennai,Happy Journey Express,Luxury Sleeper,04:30,11:00,6h 30m,460,1175,Periyar Bus Stand,Koyambedu,40,10,"AC,WiFi,Charging",Weekends,4.1
+BUS0041,Prime Bus,R017,Madurai,Chennai,Prime Bus Express,Volvo Multi Axle,21:00,02:30,5h 30m,460,1247,Mattuthavani,Koyambedu,45,13,"Blanket,Pillow,Water",Weekends,4.1
+BUS0042,Express King,R009,Chennai,Kanyakumari,Express King Express,Luxury Sleeper,17:30,00:00,6h 30m,710,1867,Koyambedu,Bus Stand,40,20,"Luxury Seat,WiFi",Weekends,4.7
+BUS0043,SkyBus,R017,Madurai,Chennai,SkyBus Express,Non AC Seater,16:45,03:30,10h 45m,460,1219,Mattuthavani,Tambaram,36,21,"Charging,Reading Light",Daily,4.6
+BUS0044,GreenLine Travels,R017,Madurai,Chennai,GreenLine Travels Express,Semi Sleeper,23:15,03:30,4h 15m,460,1412,Mattuthavani,Koyambedu,40,10,"GPS,USB Charging",Weekdays,5.0
+BUS0045,Rainbow Coaches,R004,Chennai,Salem,Rainbow Coaches Express,Semi Sleeper,00:45,10:45,10h 0m,345,1141,Perungalathur,Old Bus Stand,40,22,"AC,Blanket,Pillow",Weekdays,4.4
+BUS0046,Fast Wheels,R024,Bengaluru,Chennai,Fast Wheels Express,AC Sleeper,20:30,05:45,9h 15m,345,1099,Kempegowda Bus Station,Tambaram,40,33,"Luxury Seat,WiFi",Daily,4.0
+BUS0047,Sunrise Coaches,R021,Tirunelveli,Chennai,Sunrise Coaches Express,AC Sleeper,08:45,12:15,3h 30m,630,1512,New Bus Stand,Koyambedu,45,9,"AC,Blanket,Pillow",Weekends,4.7
+BUS0048,Southern Express,R008,Chennai,Nagercoil,Southern Express Express,Non AC Seater,14:15,19:45,5h 30m,705,1745,Guindy,Vadasery Bus Stand,36,33,"AC,Blanket,Pillow",Weekdays,4.6
+BUS0049,Victory Travels,R012,Chennai,Karaikudi,Victory Travels Express,AC Seater,10:30,15:15,4h 45m,410,1258,Perungalathur,Bus Stand,45,9,"GPS,USB Charging",Weekdays,4.4
+BUS0050,Comfort Bus,R019,Salem,Chennai,Comfort Bus Express,AC Sleeper,22:15,10:00,11h 45m,345,1134,New Bus Stand,Perungalathur,40,18,"Charging,Reading Light",Weekdays,3.8
+BUS0051,Comfort Bus,R005,Chennai,Erode,Comfort Bus Express,Semi Sleeper,17:15,23:00,5h 45m,400,1128,Guindy,Central Bus Stand,36,21,"AC,WiFi,Charging",Daily,5.0
+BUS0052,Galaxy Bus,R019,Salem,Chennai,Galaxy Bus Express,AC Sleeper,23:30,09:45,10h 15m,345,1116,New Bus Stand,Tambaram,36,31,"Charging,Reading Light",Daily,5.0
+BUS0053,Happy Journey,R005,Chennai,Erode,Happy Journey Express,AC Seater,13:30,20:45,7h 15m,400,1148,Koyambedu,Central Bus Stand,45,8,"Luxury Seat,WiFi",Daily,3.9
+BUS0054,City Link,R022,Nagercoil,Chennai,City Link Express,Non AC Seater,17:30,22:15,4h 45m,705,1691,Vadasery Bus Stand,Guindy,40,15,"WiFi,Charging,Water",Daily,4.9
+BUS0055,GreenLine Travels,R002,Chennai,Coimbatore,GreenLine Travels Express,Volvo Multi Axle,19:45,05:00,9h 15m,510,1279,Perungalathur,Ukkadam,36,10,"AC,Blanket,Pillow",Daily,4.5
+BUS0056,City Link,R010,Chennai,Thanjavur,City Link Express,Luxury Sleeper,20:15,05:00,8h 45m,350,1131,Perungalathur,New Bus Stand,45,27,"GPS,USB Charging",Daily,4.7
+BUS0057,Galaxy Bus,R016,Chennai,Tirupati,Galaxy Bus Express,AC Seater,07:45,11:45,4h 0m,150,618,Koyambedu,Central Bus Stand,45,15,"AC,Blanket,Pillow",Weekdays,4.6
+BUS0058,Royal Rider,R016,Chennai,Tirupati,Royal Rider Express,Semi Sleeper,06:45,12:30,5h 45m,150,563,Guindy,Central Bus Stand,40,18,"AC,Blanket,Pillow",Weekdays,4.5
+BUS0059,Metro Connect,R010,Chennai,Thanjavur,Metro Connect Express,AC Seater,10:45,16:00,5h 15m,350,920,Perungalathur,New Bus Stand,45,9,"AC,WiFi,Charging",Weekdays,4.3
+BUS0060,Golden Route,R010,Chennai,Thanjavur,Golden Route Express,AC Seater,19:00,06:45,11h 45m,350,957,Guindy,New Bus Stand,45,19,"Blanket,Pillow,Water",Weekdays,4.1
+BUS0061,GreenLine Travels,R005,Chennai,Erode,GreenLine Travels Express,AC Seater,06:15,10:30,4h 15m,400,1132,Perungalathur,Perundurai,40,35,"Blanket,Pillow,Water",Weekdays,3.8
+BUS0062,Happy Journey,R017,Madurai,Chennai,Happy Journey Express,BharatBenz Sleeper,11:30,20:30,9h 0m,460,1264,Periyar Bus Stand,Koyambedu,45,18,"GPS,USB Charging",Weekdays,4.5
+BUS0063,Prime Bus,R018,Coimbatore,Chennai,Prime Bus Express,BharatBenz Sleeper,04:15,13:15,9h 0m,510,1327,Gandhipuram,Perungalathur,40,19,"Luxury Seat,WiFi",Weekends,4.6
+BUS0064,Prime Bus,R021,Tirunelveli,Chennai,Prime Bus Express,Non AC Sleeper,02:00,11:00,9h 0m,630,1693,New Bus Stand,Koyambedu,45,22,"Luxury Seat,WiFi",Daily,4.7
+BUS0065,Blue Bird,R023,Puducherry,Chennai,Blue Bird Express,Non AC Sleeper,11:00,14:15,3h 15m,170,480,New Bus Stand,Guindy,36,26,"GPS,USB Charging",Daily,4.0
+BUS0066,Southern Express,R007,Chennai,Tirunelveli,Southern Express Express,AC Sleeper,22:30,06:45,8h 15m,630,1779,Tambaram,New Bus Stand,36,10,"AC,Live Tracking",Daily,4.4
+BUS0067,Sunrise Coaches,R018,Coimbatore,Chennai,Sunrise Coaches Express,Non AC Sleeper,13:45,18:00,4h 15m,510,1339,Gandhipuram,Tambaram,36,2,"Charging,Reading Light",Weekdays,4.4
+BUS0068,Express King,R004,Chennai,Salem,Express King Express,Luxury Sleeper,13:00,19:00,6h 0m,345,954,Perungalathur,New Bus Stand,45,18,"AC,Blanket,Pillow",Daily,5.0
+BUS0069,Royal Rider,R009,Chennai,Kanyakumari,Royal Rider Express,Non AC Sleeper,06:45,13:15,6h 30m,710,1896,Perungalathur,Bus Stand,45,4,"Luxury Seat,WiFi",Weekdays,4.4
+BUS0070,Rainbow Coaches,R024,Bengaluru,Chennai,Rainbow Coaches Express,BharatBenz Sleeper,01:00,06:00,5h 0m,345,1140,Kempegowda Bus Station,Tambaram,36,16,"AC,Live Tracking",Weekdays,4.8
+BUS0071,Galaxy Bus,R005,Chennai,Erode,Galaxy Bus Express,AC Seater,15:45,00:00,8h 15m,400,1238,Tambaram,Central Bus Stand,40,16,"WiFi,Charging,Water",Daily,4.1
+BUS0072,Galaxy Bus,R012,Chennai,Karaikudi,Galaxy Bus Express,AC Sleeper,10:30,14:45,4h 15m,410,1103,Koyambedu,Bus Stand,36,2,"Luxury Seat,WiFi",Weekends,4.6
+BUS0073,Prime Bus,R016,Chennai,Tirupati,Prime Bus Express,Semi Sleeper,22:30,09:45,11h 15m,150,606,Guindy,Central Bus Stand,36,33,"AC,Blanket,Pillow",Daily,3.8
+BUS0074,Southern Express,R012,Chennai,Karaikudi,Southern Express Express,BharatBenz Sleeper,16:15,03:00,10h 45m,410,1227,Tambaram,Bus Stand,40,26,"GPS,USB Charging",Weekdays,4.9
+BUS0075,Victory Travels,R011,Chennai,Dindigul,Victory Travels Express,Luxury Sleeper,10:45,18:00,7h 15m,420,1092,Koyambedu,Bus Stand,40,16,"Luxury Seat,WiFi",Weekdays,4.6
+BUS0076,Smart Coach,R013,Chennai,Puducherry,Smart Coach Express,Non AC Seater,02:15,10:45,8h 30m,170,653,Koyambedu,New Bus Stand,40,8,"Charging,Reading Light",Weekdays,3.9
+BUS0077,Southern Express,R020,Trichy,Chennai,Southern Express Express,Non AC Seater,11:45,20:45,9h 0m,330,1061,Central Bus Stand,Koyambedu,36,21,"Charging,Reading Light",Weekdays,4.1
+BUS0078,Blue Bird,R013,Chennai,Puducherry,Blue Bird Express,Semi Sleeper,15:00,00:15,9h 15m,170,485,Guindy,New Bus Stand,40,14,"WiFi,Charging,Water",Weekdays,4.8
+BUS0079,Comfort Bus,R015,Chennai,Bengaluru,Comfort Bus Express,Semi Sleeper,14:15,17:45,3h 30m,345,975,Koyambedu,Majestic,36,19,"GPS,USB Charging",Daily,4.9
+BUS0080,Blue Bird,R004,Chennai,Salem,Blue Bird Express,BharatBenz Sleeper,15:45,02:30,10h 45m,345,1074,Tambaram,Old Bus Stand,36,35,"GPS,USB Charging",Weekends,4.1
+BUS0081,Smart Coach,R018,Coimbatore,Chennai,Smart Coach Express,Volvo Multi Axle,10:45,16:00,5h 15m,510,1243,Ukkadam,Vandalur,36,16,"Blanket,Pillow,Water",Daily,4.2
+BUS0082,Smart Coach,R014,Chennai,Hosur,Smart Coach Express,Volvo Multi Axle,10:00,18:30,8h 30m,310,987,Perungalathur,Bus Stand,40,27,"Blanket,Pillow,Water",Daily,4.6
+BUS0083,Prime Bus,R010,Chennai,Thanjavur,Prime Bus Express,Non AC Sleeper,09:00,17:45,8h 45m,350,1112,Perungalathur,New Bus Stand,40,33,"Charging,Reading Light",Weekdays,4.0
+BUS0084,Galaxy Bus,R023,Puducherry,Chennai,Galaxy Bus Express,Luxury Sleeper,19:00,06:30,11h 30m,170,619,New Bus Stand,Tambaram,36,6,"Charging,Reading Light",Weekends,4.0
+BUS0085,Fast Wheels,R002,Chennai,Coimbatore,Fast Wheels Express,AC Sleeper,11:00,16:45,5h 45m,510,1414,Guindy,Gandhipuram,45,34,"Luxury Seat,WiFi",Weekends,4.4
+BUS0086,Fast Wheels,R022,Nagercoil,Chennai,Fast Wheels Express,AC Sleeper,05:00,14:45,9h 45m,705,1785,Vadasery Bus Stand,Guindy,40,35,"GPS,USB Charging",Daily,4.4
+BUS0087,Golden Route,R012,Chennai,Karaikudi,Golden Route Express,Semi Sleeper,17:00,03:15,10h 15m,410,1098,Vandalur,Bus Stand,45,27,"Luxury Seat,WiFi",Weekends,4.0
+BUS0088,Golden Route,R016,Chennai,Tirupati,Golden Route Express,Luxury Sleeper,00:45,06:30,5h 45m,150,468,Vandalur,Central Bus Stand,40,18,"Charging,Reading Light",Weekends,4.1
+BUS0089,Southern Express,R001,Chennai,Madurai,Southern Express Express,AC Seater,00:30,12:00,11h 30m,460,1381,Guindy,Mattuthavani Bus Stand,45,8,"AC,WiFi,Charging",Daily,4.2
+BUS0090,Galaxy Bus,R023,Puducherry,Chennai,Galaxy Bus Express,Volvo Multi Axle,18:30,22:00,3h 30m,170,557,New Bus Stand,Perungalathur,36,9,"Luxury Seat,WiFi",Weekdays,4.9
+BUS0091,Royal Rider,R004,Chennai,Salem,Royal Rider Express,Non AC Seater,08:30,14:45,6h 15m,345,942,Koyambedu,New Bus Stand,45,13,"AC,Blanket,Pillow",Daily,5.0
+BUS0092,Victory Travels,R004,Chennai,Salem,Victory Travels Express,Volvo Multi Axle,23:15,06:00,6h 45m,345,1001,Guindy,Old Bus Stand,40,19,"WiFi,Charging,Water",Weekends,4.0
+BUS0093,GreenLine Travels,R017,Madurai,Chennai,GreenLine Travels Express,Non AC Seater,00:00,03:30,3h 30m,460,1236,Mattuthavani,Koyambedu,40,17,"Luxury Seat,WiFi",Weekends,4.1
+BUS0094,Fast Wheels,R023,Puducherry,Chennai,Fast Wheels Express,BharatBenz Sleeper,04:15,08:30,4h 15m,170,670,New Bus Stand,Perungalathur,36,23,"AC,Blanket,Pillow",Daily,4.5
+BUS0095,Blue Bird,R004,Chennai,Salem,Blue Bird Express,Volvo Multi Axle,06:00,09:00,3h 0m,345,873,Vandalur,New Bus Stand,40,18,"AC,WiFi,Charging",Weekdays,4.3
+BUS0096,Rainbow Coaches,R022,Nagercoil,Chennai,Rainbow Coaches Express,BharatBenz Sleeper,16:15,00:30,8h 15m,705,1843,Vadasery Bus Stand,Guindy,36,36,"GPS,USB Charging",Weekdays,4.7
+BUS0097,Blue Bird,R002,Chennai,Coimbatore,Blue Bird Express,Semi Sleeper,22:30,01:45,3h 15m,510,1393,Tambaram,Ukkadam,36,3,"Blanket,Pillow,Water",Weekends,4.4
+BUS0098,Southern Express,R012,Chennai,Karaikudi,Southern Express Express,Luxury Sleeper,08:30,17:15,8h 45m,410,1270,Guindy,Bus Stand,36,35,"Luxury Seat,WiFi",Weekends,4.2
+BUS0099,Express King,R023,Puducherry,Chennai,Express King Express,Luxury Sleeper,00:45,07:45,7h 0m,170,587,New Bus Stand,Koyambedu,36,8,"AC,Blanket,Pillow",Weekends,4.8
+BUS0100,Smart Coach,R006,Chennai,Tiruppur,Smart Coach Express,Luxury Sleeper,20:45,00:30,3h 45m,475,1432,Vandalur,Avinashi,40,22,"Luxury Seat,WiFi",Weekends,4.7
+BUS0101,Golden Route,R014,Chennai,Hosur,Golden Route Express,Non AC Sleeper,15:45,22:15,6h 30m,310,968,Guindy,Bus Stand,45,30,"Charging,Reading Light",Daily,4.9
+BUS0102,Elite Travels,R021,Tirunelveli,Chennai,Elite Travels Express,Non AC Sleeper,13:30,01:15,11h 45m,630,1671,New Bus Stand,Perungalathur,40,32,"Charging,Reading Light",Weekdays,4.9
+BUS0103,Rainbow Coaches,R009,Chennai,Kanyakumari,Rainbow Coaches Express,Luxury Sleeper,10:15,17:00,6h 45m,710,1832,Chengalpattu,Bus Stand,40,35,"AC,Blanket,Pillow",Weekdays,4.8
+BUS0104,City Link,R018,Coimbatore,Chennai,City Link Express,BharatBenz Sleeper,11:15,15:00,3h 45m,510,1290,Gandhipuram,Guindy,45,36,"AC,WiFi,Charging",Daily,4.8
+BUS0105,Blue Bird,R018,Coimbatore,Chennai,Blue Bird Express,AC Sleeper,08:00,14:00,6h 0m,510,1323,Gandhipuram,Perungalathur,45,18,"GPS,USB Charging",Weekends,4.9
+BUS0106,Star Line,R007,Chennai,Tirunelveli,Star Line Express,Non AC Seater,23:45,09:45,10h 0m,630,1608,Vandalur,New Bus Stand,36,11,"AC,WiFi,Charging",Daily,4.2
+BUS0107,Comfort Bus,R001,Chennai,Madurai,Comfort Bus Express,Non AC Seater,17:15,20:15,3h 0m,460,1348,Tambaram,Anna Nagar,45,32,"Blanket,Pillow,Water",Weekdays,4.4
+BUS0108,Galaxy Bus,R011,Chennai,Dindigul,Galaxy Bus Express,AC Seater,15:30,22:00,6h 30m,420,1246,Vandalur,Bus Stand,36,21,"AC,Live Tracking",Weekdays,4.7
+BUS0109,Golden Route,R023,Puducherry,Chennai,Golden Route Express,AC Sleeper,21:45,01:00,3h 15m,170,618,New Bus Stand,Guindy,36,14,"WiFi,Charging,Water",Daily,4.7
+BUS0110,Golden Route,R015,Chennai,Bengaluru,Golden Route Express,Non AC Seater,19:15,04:30,9h 15m,345,1008,Guindy,Kempegowda Bus Station,45,33,"AC,WiFi,Charging",Daily,4.9
+BUS0111,Rainbow Coaches,R007,Chennai,Tirunelveli,Rainbow Coaches Express,Luxury Sleeper,17:00,00:30,7h 30m,630,1577,Tambaram,Junction,40,8,"Luxury Seat,WiFi",Weekends,4.7
+BUS0112,Smart Coach,R002,Chennai,Coimbatore,Smart Coach Express,BharatBenz Sleeper,19:00,07:45,12h 45m,510,1311,Perungalathur,Ukkadam,45,28,"Luxury Seat,WiFi",Daily,4.1
+BUS0113,Comfort Bus,R025,Tirupati,Chennai,Comfort Bus Express,Non AC Seater,01:00,11:15,10h 15m,150,482,Central Bus Stand,Tambaram,45,17,"AC,Blanket,Pillow",Weekdays,4.8
+BUS0114,Comfort Bus,R016,Chennai,Tirupati,Comfort Bus Express,BharatBenz Sleeper,18:45,02:15,7h 30m,150,501,Tambaram,Central Bus Stand,45,21,"AC,Blanket,Pillow",Weekends,4.4
+BUS0115,Golden Route,R017,Madurai,Chennai,Golden Route Express,BharatBenz Sleeper,04:30,13:45,9h 15m,460,1178,Mattuthavani,Koyambedu,36,8,"Luxury Seat,WiFi",Daily,4.5
+BUS0116,Fast Wheels,R018,Coimbatore,Chennai,Fast Wheels Express,Non AC Seater,03:00,09:15,6h 15m,510,1483,Ukkadam,Vandalur,36,4,"AC,Live Tracking",Weekends,5.0
+BUS0117,Happy Journey,R012,Chennai,Karaikudi,Happy Journey Express,Non AC Sleeper,07:45,14:00,6h 15m,410,1103,Perungalathur,Bus Stand,36,21,"Charging,Reading Light",Weekdays,4.8
+BUS0118,Happy Journey,R018,Coimbatore,Chennai,Happy Journey Express,Volvo Multi Axle,21:00,00:00,3h 0m,510,1453,Gandhipuram,Perungalathur,36,31,"AC,Blanket,Pillow",Weekends,4.4
+BUS0119,Royal Rider,R010,Chennai,Thanjavur,Royal Rider Express,BharatBenz Sleeper,19:00,07:45,12h 45m,350,947,Perungalathur,New Bus Stand,45,23,"GPS,USB Charging",Weekdays,4.2
+BUS0120,Comfort Bus,R004,Chennai,Salem,Comfort Bus Express,Luxury Sleeper,19:30,00:00,4h 30m,345,1058,Koyambedu,New Bus Stand,36,29,"AC,Live Tracking",Weekdays,4.0
+BUS0121,Metro Connect,R004,Chennai,Salem,Metro Connect Express,Non AC Sleeper,17:45,23:00,5h 15m,345,877,Chengalpattu,Old Bus Stand,40,26,"Blanket,Pillow,Water",Daily,4.0
+BUS0122,Express King,R005,Chennai,Erode,Express King Express,AC Seater,09:45,17:30,7h 45m,400,1105,Vandalur,Perundurai,40,33,"AC,Blanket,Pillow",Weekdays,4.0
+BUS0123,Comfort Bus,R023,Puducherry,Chennai,Comfort Bus Express,BharatBenz Sleeper,06:30,09:30,3h 0m,170,645,New Bus Stand,Koyambedu,40,2,"AC,WiFi,Charging",Weekends,4.4
+BUS0124,Rainbow Coaches,R014,Chennai,Hosur,Rainbow Coaches Express,AC Sleeper,04:30,09:45,5h 15m,310,848,Guindy,Bus Stand,45,35,"Luxury Seat,WiFi",Weekdays,3.9
+BUS0125,Blue Bird,R012,Chennai,Karaikudi,Blue Bird Express,Volvo Multi Axle,06:15,13:00,6h 45m,410,1300,Vandalur,Bus Stand,40,33,"Blanket,Pillow,Water",Daily,3.9
+BUS0126,Blue Bird,R003,Chennai,Trichy,Blue Bird Express,Non AC Sleeper,23:30,10:00,10h 30m,330,1019,Vandalur,Central Bus Stand,45,4,"GPS,USB Charging",Weekends,4.2
+BUS0127,City Link,R013,Chennai,Puducherry,City Link Express,Non AC Sleeper,11:15,16:30,5h 15m,170,728,Chengalpattu,New Bus Stand,40,25,"Charging,Reading Light",Weekends,4.7
+BUS0128,Blue Bird,R008,Chennai,Nagercoil,Blue Bird Express,AC Seater,14:45,23:00,8h 15m,705,1768,Tambaram,Vadasery Bus Stand,40,28,"AC,WiFi,Charging",Daily,4.6
+BUS0129,Galaxy Bus,R023,Puducherry,Chennai,Galaxy Bus Express,Semi Sleeper,06:45,12:30,5h 45m,170,526,New Bus Stand,Guindy,40,36,"Luxury Seat,WiFi",Weekends,4.9
+BUS0130,Galaxy Bus,R020,Trichy,Chennai,Galaxy Bus Express,Non AC Seater,11:00,20:45,9h 45m,330,1062,Chathiram Bus Stand,Guindy,40,22,"GPS,USB Charging",Daily,4.4
+BUS0131,Smart Coach,R012,Chennai,Karaikudi,Smart Coach Express,Non AC Seater,05:00,16:30,11h 30m,410,1095,Perungalathur,Bus Stand,36,13,"GPS,USB Charging",Weekends,4.9
+BUS0132,Sunrise Coaches,R020,Trichy,Chennai,Sunrise Coaches Express,Luxury Sleeper,11:00,22:00,11h 0m,330,1021,Chathiram Bus Stand,Guindy,45,17,"Charging,Reading Light",Daily,4.5
+BUS0133,Southern Express,R024,Bengaluru,Chennai,Southern Express Express,Volvo Multi Axle,11:15,14:15,3h 0m,345,882,Electronic City,Tambaram,45,14,"AC,Live Tracking",Daily,4.6
+BUS0134,Sunrise Coaches,R005,Chennai,Erode,Sunrise Coaches Express,Luxury Sleeper,16:45,22:00,5h 15m,400,1167,Tambaram,Perundurai,36,29,"AC,WiFi,Charging",Weekdays,4.1
+BUS0135,Sunrise Coaches,R003,Chennai,Trichy,Sunrise Coaches Express,BharatBenz Sleeper,21:15,00:45,3h 30m,330,946,Koyambedu,Srirangam,45,34,"GPS,USB Charging",Weekdays,3.9
+BUS0136,Metro Connect,R001,Chennai,Madurai,Metro Connect Express,BharatBenz Sleeper,21:45,01:15,3h 30m,460,1313,Chengalpattu,Mattuthavani Bus Stand,36,3,"AC,Live Tracking",Weekdays,4.5
+BUS0137,Southern Express,R021,Tirunelveli,Chennai,Southern Express Express,Luxury Sleeper,23:30,03:30,4h 0m,630,1588,New Bus Stand,Tambaram,40,3,"Luxury Seat,WiFi",Weekdays,4.8
+BUS0138,SkyBus,R012,Chennai,Karaikudi,SkyBus Express,AC Sleeper,13:30,02:00,12h 30m,410,1148,Perungalathur,Bus Stand,45,16,"Luxury Seat,WiFi",Daily,4.5
+BUS0139,GreenLine Travels,R011,Chennai,Dindigul,GreenLine Travels Express,Non AC Sleeper,22:30,01:45,3h 15m,420,1076,Guindy,Bus Stand,45,11,"AC,Blanket,Pillow",Weekends,4.5
+BUS0140,Rainbow Coaches,R024,Bengaluru,Chennai,Rainbow Coaches Express,Non AC Sleeper,08:45,15:00,6h 15m,345,1059,Majestic,Vandalur,36,25,"Luxury Seat,WiFi",Daily,4.7
+BUS0141,Star Line,R016,Chennai,Tirupati,Star Line Express,Volvo Multi Axle,00:30,04:15,3h 45m,150,712,Tambaram,Central Bus Stand,36,14,"WiFi,Charging,Water",Daily,4.4
+BUS0142,Golden Route,R025,Tirupati,Chennai,Golden Route Express,Semi Sleeper,11:30,15:00,3h 30m,150,510,Central Bus Stand,Perungalathur,45,30,"AC,Blanket,Pillow",Daily,3.9
+BUS0143,Metro Connect,R022,Nagercoil,Chennai,Metro Connect Express,Non AC Sleeper,15:15,23:45,8h 30m,705,1834,Vadasery Bus Stand,Perungalathur,45,14,"AC,Blanket,Pillow",Weekends,4.0
+BUS0144,Smart Coach,R021,Tirunelveli,Chennai,Smart Coach Express,Non AC Seater,09:30,12:30,3h 0m,630,1563,New Bus Stand,Guindy,36,27,"Luxury Seat,WiFi",Weekends,4.7
+BUS0145,Golden Route,R004,Chennai,Salem,Golden Route Express,AC Seater,08:15,17:45,9h 30m,345,940,Perungalathur,New Bus Stand,40,18,"AC,Live Tracking",Daily,4.8
+BUS0146,Express King,R022,Nagercoil,Chennai,Express King Express,Volvo Multi Axle,17:15,05:00,11h 45m,705,1736,Vadasery Bus Stand,Vandalur,36,26,"AC,Live Tracking",Weekends,4.1
+BUS0147,Smart Coach,R005,Chennai,Erode,Smart Coach Express,Volvo Multi Axle,11:30,14:30,3h 0m,400,1125,Guindy,Central Bus Stand,45,28,"WiFi,Charging,Water",Daily,4.5
+BUS0148,Galaxy Bus,R007,Chennai,Tirunelveli,Galaxy Bus Express,Luxury Sleeper,13:45,00:30,10h 45m,630,1671,Chengalpattu,New Bus Stand,40,36,"GPS,USB Charging",Weekdays,4.1
+BUS0149,Metro Connect,R018,Coimbatore,Chennai,Metro Connect Express,AC Sleeper,10:15,15:45,5h 30m,510,1445,Ukkadam,Vandalur,40,7,"Charging,Reading Light",Daily,4.6
+BUS0150,Sunrise Coaches,R005,Chennai,Erode,Sunrise Coaches Express,BharatBenz Sleeper,22:15,03:30,5h 15m,400,1080,Chengalpattu,Perundurai,45,11,"Luxury Seat,WiFi",Daily,4.3
+BUS0151,Golden Route,R013,Chennai,Puducherry,Golden Route Express,Semi Sleeper,03:15,15:00,11h 45m,170,516,Guindy,New Bus Stand,45,36,"GPS,USB Charging",Weekdays,4.3
+BUS0152,Blue Bird,R004,Chennai,Salem,Blue Bird Express,Semi Sleeper,11:30,16:30,5h 0m,345,966,Tambaram,Old Bus Stand,36,36,"AC,Blanket,Pillow",Weekends,4.5
+BUS0153,City Link,R017,Madurai,Chennai,City Link Express,Semi Sleeper,15:30,20:45,5h 15m,460,1280,Periyar Bus Stand,Perungalathur,45,8,"AC,WiFi,Charging",Weekends,5.0
+BUS0154,GreenLine Travels,R004,Chennai,Salem,GreenLine Travels Express,Luxury Sleeper,03:00,14:45,11h 45m,345,963,Perungalathur,Old Bus Stand,36,22,"AC,Blanket,Pillow",Daily,4.4
+BUS0155,Smart Coach,R022,Nagercoil,Chennai,Smart Coach Express,Semi Sleeper,21:15,04:15,7h 0m,705,1804,Vadasery Bus Stand,Koyambedu,36,22,"WiFi,Charging,Water",Weekdays,4.9
+BUS0156,Comfort Bus,R004,Chennai,Salem,Comfort Bus Express,BharatBenz Sleeper,04:00,16:15,12h 15m,345,1024,Vandalur,Old Bus Stand,40,15,"Charging,Reading Light",Weekends,4.7
+BUS0157,GreenLine Travels,R014,Chennai,Hosur,GreenLine Travels Express,Luxury Sleeper,16:30,05:15,12h 45m,310,1071,Tambaram,Bus Stand,40,29,"GPS,USB Charging",Weekdays,4.8
+BUS0158,Star Line,R002,Chennai,Coimbatore,Star Line Express,BharatBenz Sleeper,01:00,09:45,8h 45m,510,1262,Tambaram,Gandhipuram,40,21,"GPS,USB Charging",Weekdays,4.1
+BUS0159,SkyBus,R020,Trichy,Chennai,SkyBus Express,AC Seater,01:45,11:45,10h 0m,330,1068,Central Bus Stand,Perungalathur,45,36,"Charging,Reading Light",Weekdays,4.6
+BUS0160,City Link,R002,Chennai,Coimbatore,City Link Express,Non AC Sleeper,20:45,07:15,10h 30m,510,1494,Chengalpattu,Gandhipuram,45,32,"GPS,USB Charging",Weekends,4.9
+BUS0161,Elite Travels,R002,Chennai,Coimbatore,Elite Travels Express,Volvo Multi Axle,13:15,20:45,7h 30m,510,1255,Perungalathur,Ukkadam,40,11,"WiFi,Charging,Water",Daily,3.9
+BUS0162,Star Line,R007,Chennai,Tirunelveli,Star Line Express,Volvo Multi Axle,07:15,15:30,8h 15m,630,1721,Guindy,Junction,40,11,"Charging,Reading Light",Daily,4.7
+BUS0163,Golden Route,R012,Chennai,Karaikudi,Golden Route Express,AC Seater,05:45,16:15,10h 30m,410,1248,Perungalathur,Bus Stand,40,13,"AC,Blanket,Pillow",Weekends,4.7
+BUS0164,Royal Rider,R005,Chennai,Erode,Royal Rider Express,Semi Sleeper,23:15,07:00,7h 45m,400,1123,Perungalathur,Perundurai,40,35,"AC,WiFi,Charging",Weekends,4.2
+BUS0165,Southern Express,R012,Chennai,Karaikudi,Southern Express Express,Luxury Sleeper,01:00,13:45,12h 45m,410,1180,Guindy,Bus Stand,45,30,"AC,WiFi,Charging",Weekends,4.5
+BUS0166,Smart Coach,R015,Chennai,Bengaluru,Smart Coach Express,AC Seater,12:00,16:15,4h 15m,345,934,Chengalpattu,Electronic City,40,20,"AC,Blanket,Pillow",Daily,4.6
+BUS0167,SkyBus,R015,Chennai,Bengaluru,SkyBus Express,AC Seater,09:45,14:30,4h 45m,345,1022,Tambaram,Majestic,36,21,"AC,WiFi,Charging",Weekends,4.2
+BUS0168,Metro Connect,R023,Puducherry,Chennai,Metro Connect Express,Volvo Multi Axle,00:45,05:45,5h 0m,170,487,New Bus Stand,Tambaram,45,35,"Luxury Seat,WiFi",Weekdays,4.0
+BUS0169,Royal Rider,R019,Salem,Chennai,Royal Rider Express,Non AC Sleeper,23:15,08:45,9h 30m,345,944,Old Bus Stand,Tambaram,40,9,"Charging,Reading Light",Weekdays,4.9
+BUS0170,Comfort Bus,R008,Chennai,Nagercoil,Comfort Bus Express,Volvo Multi Axle,13:30,21:45,8h 15m,705,1739,Chengalpattu,Vadasery Bus Stand,40,31,"GPS,USB Charging",Weekends,4.4
+BUS0171,Elite Travels,R021,Tirunelveli,Chennai,Elite Travels Express,Non AC Seater,09:30,17:30,8h 0m,630,1640,New Bus Stand,Tambaram,36,22,"Blanket,Pillow,Water",Weekends,4.3
+BUS0172,Sunrise Coaches,R004,Chennai,Salem,Sunrise Coaches Express,AC Sleeper,11:30,15:45,4h 15m,345,906,Chengalpattu,New Bus Stand,45,29,"WiFi,Charging,Water",Weekends,4.1
+BUS0173,Express King,R018,Coimbatore,Chennai,Express King Express,AC Seater,20:00,03:15,7h 15m,510,1253,Gandhipuram,Vandalur,36,29,"AC,Live Tracking",Weekends,3.9
+BUS0174,SkyBus,R013,Chennai,Puducherry,SkyBus Express,AC Seater,22:00,10:15,12h 15m,170,477,Tambaram,New Bus Stand,36,17,"Luxury Seat,WiFi",Weekdays,4.7
+BUS0175,Express King,R017,Madurai,Chennai,Express King Express,BharatBenz Sleeper,19:15,23:15,4h 0m,460,1123,Periyar Bus Stand,Guindy,45,24,"AC,Blanket,Pillow",Daily,3.9
+BUS0176,Royal Rider,R005,Chennai,Erode,Royal Rider Express,BharatBenz Sleeper,08:00,20:45,12h 45m,400,1151,Koyambedu,Perundurai,45,13,"AC,Blanket,Pillow",Weekends,4.6
+BUS0177,Victory Travels,R014,Chennai,Hosur,Victory Travels Express,Non AC Sleeper,04:45,07:45,3h 0m,310,810,Koyambedu,Bus Stand,40,6,"Blanket,Pillow,Water",Weekends,4.9
+BUS0178,Metro Connect,R009,Chennai,Kanyakumari,Metro Connect Express,Non AC Sleeper,18:15,05:30,11h 15m,710,1847,Koyambedu,Bus Stand,40,6,"GPS,USB Charging",Daily,4.6
+BUS0179,Comfort Bus,R018,Coimbatore,Chennai,Comfort Bus Express,Semi Sleeper,15:45,23:00,7h 15m,510,1322,Gandhipuram,Vandalur,40,29,"AC,Live Tracking",Weekdays,3.9
+BUS0180,Victory Travels,R003,Chennai,Trichy,Victory Travels Express,BharatBenz Sleeper,11:30,15:30,4h 0m,330,951,Perungalathur,Chathiram Bus Stand,45,20,"Luxury Seat,WiFi",Weekends,4.5
+BUS0181,Galaxy Bus,R007,Chennai,Tirunelveli,Galaxy Bus Express,Luxury Sleeper,08:30,12:30,4h 0m,630,1775,Guindy,New Bus Stand,36,33,"Blanket,Pillow,Water",Weekdays,3.8
+BUS0182,Elite Travels,R012,Chennai,Karaikudi,Elite Travels Express,Non AC Sleeper,06:30,11:45,5h 15m,410,1009,Koyambedu,Bus Stand,40,25,"Blanket,Pillow,Water",Weekdays,4.1
+BUS0183,Blue Bird,R003,Chennai,Trichy,Blue Bird Express,Luxury Sleeper,09:45,16:45,7h 0m,330,987,Tambaram,Chathiram Bus Stand,36,25,"Charging,Reading Light",Daily,4.4
+BUS0184,Star Line,R023,Puducherry,Chennai,Star Line Express,Non AC Seater,17:00,23:15,6h 15m,170,505,New Bus Stand,Tambaram,40,16,"Blanket,Pillow,Water",Weekends,4.8
+BUS0185,Happy Journey,R002,Chennai,Coimbatore,Happy Journey Express,Non AC Sleeper,06:00,13:45,7h 45m,510,1410,Vandalur,Ukkadam,45,11,"Luxury Seat,WiFi",Weekdays,4.9
+BUS0186,Royal Rider,R022,Nagercoil,Chennai,Royal Rider Express,Volvo Multi Axle,23:15,08:30,9h 15m,705,1844,Vadasery Bus Stand,Koyambedu,40,3,"Blanket,Pillow,Water",Weekdays,3.9
+BUS0187,Victory Travels,R002,Chennai,Coimbatore,Victory Travels Express,AC Seater,12:15,20:45,8h 30m,510,1237,Koyambedu,Singanallur,45,16,"GPS,USB Charging",Weekends,4.3
+BUS0188,Elite Travels,R009,Chennai,Kanyakumari,Elite Travels Express,Luxury Sleeper,19:00,00:45,5h 45m,710,1774,Perungalathur,Bus Stand,40,34,"Blanket,Pillow,Water",Weekdays,4.8
+BUS0189,SkyBus,R017,Madurai,Chennai,SkyBus Express,Volvo Multi Axle,03:30,11:45,8h 15m,460,1349,Periyar Bus Stand,Tambaram,40,18,"GPS,USB Charging",Weekends,4.1
+BUS0190,Golden Route,R024,Bengaluru,Chennai,Golden Route Express,AC Sleeper,18:30,23:15,4h 45m,345,897,Electronic City,Guindy,40,18,"Charging,Reading Light",Daily,4.9
+BUS0191,Prime Bus,R013,Chennai,Puducherry,Prime Bus Express,Volvo Multi Axle,03:45,09:30,5h 45m,170,516,Tambaram,New Bus Stand,36,12,"AC,WiFi,Charging",Daily,4.3
+BUS0192,Elite Travels,R002,Chennai,Coimbatore,Elite Travels Express,AC Sleeper,17:45,05:00,11h 15m,510,1285,Guindy,Gandhipuram,45,10,"Charging,Reading Light",Weekdays,4.7
+BUS0193,Elite Travels,R007,Chennai,Tirunelveli,Elite Travels Express,AC Seater,18:30,00:30,6h 0m,630,1524,Vandalur,Junction,45,31,"Luxury Seat,WiFi",Weekdays,4.5
+BUS0194,Happy Journey,R007,Chennai,Tirunelveli,Happy Journey Express,Non AC Seater,12:45,19:30,6h 45m,630,1773,Guindy,New Bus Stand,45,34,"Blanket,Pillow,Water",Weekdays,4.2
+BUS0195,Metro Connect,R002,Chennai,Coimbatore,Metro Connect Express,BharatBenz Sleeper,05:00,08:45,3h 45m,510,1505,Guindy,Singanallur,40,8,"AC,WiFi,Charging",Weekends,4.2
+BUS0196,Express King,R010,Chennai,Thanjavur,Express King Express,Luxury Sleeper,11:30,21:30,10h 0m,350,1041,Tambaram,New Bus Stand,36,4,"WiFi,Charging,Water",Weekends,4.1
+BUS0197,Fast Wheels,R022,Nagercoil,Chennai,Fast Wheels Express,AC Seater,22:30,04:00,5h 30m,705,1926,Vadasery Bus Stand,Vandalur,45,25,"WiFi,Charging,Water",Weekends,4.6
+BUS0198,Golden Route,R014,Chennai,Hosur,Golden Route Express,Volvo Multi Axle,11:00,16:15,5h 15m,310,871,Chengalpattu,Bus Stand,40,21,"AC,Live Tracking",Daily,4.2
+BUS0199,Golden Route,R014,Chennai,Hosur,Golden Route Express,Non AC Sleeper,13:00,19:00,6h 0m,310,975,Chengalpattu,Bus Stand,40,16,"Luxury Seat,WiFi",Daily,4.2
+BUS0200,Star Line,R001,Chennai,Madurai,Star Line Express,AC Sleeper,09:30,17:00,7h 30m,460,1256,Tambaram,Anna Nagar,40,10,"Charging,Reading Light",Weekdays,4.3
+BUS0201,Victory Travels,R019,Salem,Chennai,Victory Travels Express,Non AC Sleeper,05:00,17:15,12h 15m,345,1107,New Bus Stand,Guindy,36,18,"Luxury Seat,WiFi",Weekdays,4.6
+BUS0202,Comfort Bus,R018,Coimbatore,Chennai,Comfort Bus Express,Non AC Sleeper,14:45,23:45,9h 0m,510,1226,Ukkadam,Tambaram,36,11,"AC,Live Tracking",Weekends,5.0
+BUS0203,Express King,R008,Chennai,Nagercoil,Express King Express,Non AC Sleeper,07:45,17:15,9h 30m,705,1724,Vandalur,Vadasery Bus Stand,36,33,"GPS,USB Charging",Weekends,3.8
+BUS0204,Victory Travels,R008,Chennai,Nagercoil,Victory Travels Express,Non AC Sleeper,00:00,08:30,8h 30m,705,1890,Koyambedu,Vadasery Bus Stand,40,28,"Luxury Seat,WiFi",Daily,4.9
+BUS0205,Fast Wheels,R002,Chennai,Coimbatore,Fast Wheels Express,Volvo Multi Axle,20:00,07:30,11h 30m,510,1426,Perungalathur,Ukkadam,45,9,"AC,Live Tracking",Daily,4.9
+BUS0206,Galaxy Bus,R012,Chennai,Karaikudi,Galaxy Bus Express,Non AC Sleeper,13:45,01:00,11h 15m,410,1235,Guindy,Bus Stand,45,2,"Charging,Reading Light",Weekdays,4.9
+BUS0207,Victory Travels,R022,Nagercoil,Chennai,Victory Travels Express,AC Seater,13:45,22:15,8h 30m,705,1854,Vadasery Bus Stand,Perungalathur,40,32,"AC,Blanket,Pillow",Daily,4.4
+BUS0208,Victory Travels,R006,Chennai,Tiruppur,Victory Travels Express,Non AC Sleeper,10:00,21:00,11h 0m,475,1342,Perungalathur,Avinashi,45,12,"Blanket,Pillow,Water",Daily,4.0
+BUS0209,Galaxy Bus,R023,Puducherry,Chennai,Galaxy Bus Express,Non AC Sleeper,09:45,16:45,7h 0m,170,508,New Bus Stand,Guindy,40,25,"AC,WiFi,Charging",Weekends,4.0
+BUS0210,City Link,R015,Chennai,Bengaluru,City Link Express,BharatBenz Sleeper,03:00,15:15,12h 15m,345,1039,Koyambedu,Kempegowda Bus Station,36,2,"AC,Live Tracking",Weekdays,4.3
+BUS0211,City Link,R016,Chennai,Tirupati,City Link Express,Semi Sleeper,02:15,09:00,6h 45m,150,616,Chengalpattu,Central Bus Stand,40,36,"AC,Blanket,Pillow",Daily,4.4
+BUS0212,Royal Rider,R021,Tirunelveli,Chennai,Royal Rider Express,AC Sleeper,12:30,17:30,5h 0m,630,1774,New Bus Stand,Perungalathur,45,1,"Luxury Seat,WiFi",Daily,4.1
+BUS0213,Golden Route,R005,Chennai,Erode,Golden Route Express,Volvo Multi Axle,23:15,11:15,12h 0m,400,1042,Tambaram,Perundurai,45,21,"AC,WiFi,Charging",Weekends,4.6
+BUS0214,Happy Journey,R020,Trichy,Chennai,Happy Journey Express,Semi Sleeper,13:45,22:15,8h 30m,330,944,Chathiram Bus Stand,Vandalur,40,31,"AC,WiFi,Charging",Daily,4.5
+BUS0215,GreenLine Travels,R016,Chennai,Tirupati,GreenLine Travels Express,BharatBenz Sleeper,09:00,17:30,8h 30m,150,563,Guindy,Central Bus Stand,40,7,"Blanket,Pillow,Water",Weekdays,4.9
+BUS0216,Comfort Bus,R020,Trichy,Chennai,Comfort Bus Express,Volvo Multi Axle,16:45,05:15,12h 30m,330,988,Chathiram Bus Stand,Perungalathur,40,28,"AC,Live Tracking",Weekdays,4.4
+BUS0217,Star Line,R021,Tirunelveli,Chennai,Star Line Express,Luxury Sleeper,09:45,15:15,5h 30m,630,1662,New Bus Stand,Perungalathur,36,25,"WiFi,Charging,Water",Daily,4.9
+BUS0218,Smart Coach,R010,Chennai,Thanjavur,Smart Coach Express,Luxury Sleeper,05:30,11:00,5h 30m,350,994,Vandalur,New Bus Stand,36,36,"WiFi,Charging,Water",Weekends,4.9
+BUS0219,Rainbow Coaches,R017,Madurai,Chennai,Rainbow Coaches Express,Non AC Seater,13:00,01:30,12h 30m,460,1349,Periyar Bus Stand,Guindy,36,6,"AC,Live Tracking",Daily,4.3
+BUS0220,City Link,R016,Chennai,Tirupati,City Link Express,AC Sleeper,06:00,15:00,9h 0m,150,438,Koyambedu,Central Bus Stand,40,32,"AC,Live Tracking",Weekdays,4.4
+BUS0221,Smart Coach,R007,Chennai,Tirunelveli,Smart Coach Express,Semi Sleeper,07:30,11:45,4h 15m,630,1765,Guindy,Junction,40,29,"WiFi,Charging,Water",Daily,3.9
+BUS0222,Prime Bus,R014,Chennai,Hosur,Prime Bus Express,Semi Sleeper,04:00,13:45,9h 45m,310,825,Chengalpattu,Bus Stand,40,4,"AC,Live Tracking",Weekends,4.1
+BUS0223,Smart Coach,R014,Chennai,Hosur,Smart Coach Express,Luxury Sleeper,13:30,00:15,10h 45m,310,923,Vandalur,Bus Stand,40,29,"Charging,Reading Light",Daily,4.5
+BUS0224,Golden Route,R012,Chennai,Karaikudi,Golden Route Express,Semi Sleeper,03:30,16:00,12h 30m,410,1205,Perungalathur,Bus Stand,36,32,"WiFi,Charging,Water",Weekends,4.1
+BUS0225,Sunrise Coaches,R004,Chennai,Salem,Sunrise Coaches Express,BharatBenz Sleeper,00:45,09:30,8h 45m,345,1044,Guindy,New Bus Stand,45,19,"Luxury Seat,WiFi",Weekends,4.9
+BUS0226,Golden Route,R019,Salem,Chennai,Golden Route Express,Luxury Sleeper,18:45,07:00,12h 15m,345,1138,Old Bus Stand,Tambaram,40,7,"AC,WiFi,Charging",Weekends,4.7
+BUS0227,Metro Connect,R014,Chennai,Hosur,Metro Connect Express,Volvo Multi Axle,19:30,03:30,8h 0m,310,934,Vandalur,Bus Stand,45,22,"AC,Blanket,Pillow",Weekends,4.3
+BUS0228,Smart Coach,R016,Chennai,Tirupati,Smart Coach Express,AC Seater,20:45,08:00,11h 15m,150,518,Tambaram,Central Bus Stand,36,3,"Charging,Reading Light",Weekdays,3.9
+BUS0229,Fast Wheels,R004,Chennai,Salem,Fast Wheels Express,AC Seater,18:00,03:30,9h 30m,345,911,Perungalathur,New Bus Stand,45,13,"AC,WiFi,Charging",Weekends,4.1
+BUS0230,GreenLine Travels,R011,Chennai,Dindigul,GreenLine Travels Express,AC Seater,21:45,06:45,9h 0m,420,1314,Perungalathur,Bus Stand,36,14,"Luxury Seat,WiFi",Daily,4.3
+BUS0231,Blue Bird,R003,Chennai,Trichy,Blue Bird Express,AC Sleeper,01:00,09:45,8h 45m,330,1099,Vandalur,Chathiram Bus Stand,36,22,"GPS,USB Charging",Weekdays,4.5
+BUS0232,Prime Bus,R023,Puducherry,Chennai,Prime Bus Express,Semi Sleeper,07:00,15:00,8h 0m,170,697,New Bus Stand,Perungalathur,36,32,"AC,Live Tracking",Daily,4.5
+BUS0233,Smart Coach,R016,Chennai,Tirupati,Smart Coach Express,Luxury Sleeper,07:45,19:45,12h 0m,150,495,Vandalur,Central Bus Stand,36,2,"AC,WiFi,Charging",Daily,4.8
+BUS0234,Galaxy Bus,R009,Chennai,Kanyakumari,Galaxy Bus Express,BharatBenz Sleeper,10:00,15:30,5h 30m,710,1907,Chengalpattu,Bus Stand,40,25,"Blanket,Pillow,Water",Daily,4.3
+BUS0235,Happy Journey,R004,Chennai,Salem,Happy Journey Express,Non AC Sleeper,19:30,05:00,9h 30m,345,1066,Chengalpattu,Old Bus Stand,45,12,"Luxury Seat,WiFi",Weekdays,3.9
+BUS0236,Elite Travels,R017,Madurai,Chennai,Elite Travels Express,Semi Sleeper,00:30,06:00,5h 30m,460,1267,Periyar Bus Stand,Koyambedu,36,13,"Blanket,Pillow,Water",Weekdays,4.6
+BUS0237,Prime Bus,R011,Chennai,Dindigul,Prime Bus Express,Luxury Sleeper,02:15,06:15,4h 0m,420,1107,Vandalur,Bus Stand,36,30,"AC,WiFi,Charging",Weekdays,4.4
+BUS0238,SkyBus,R024,Bengaluru,Chennai,SkyBus Express,AC Seater,16:15,19:15,3h 0m,345,867,Majestic,Koyambedu,40,31,"Charging,Reading Light",Daily,4.1
+BUS0239,Comfort Bus,R002,Chennai,Coimbatore,Comfort Bus Express,Luxury Sleeper,23:15,10:30,11h 15m,510,1500,Tambaram,Gandhipuram,45,9,"GPS,USB Charging",Weekends,4.8
+BUS0240,Smart Coach,R006,Chennai,Tiruppur,Smart Coach Express,Non AC Seater,16:30,03:15,10h 45m,475,1347,Vandalur,Avinashi,40,30,"GPS,USB Charging",Weekdays,5.0
+BUS0241,Galaxy Bus,R003,Chennai,Trichy,Galaxy Bus Express,Non AC Sleeper,01:00,08:30,7h 30m,330,1095,Vandalur,Central Bus Stand,40,11,"Blanket,Pillow,Water",Weekends,5.0
+BUS0242,City Link,R004,Chennai,Salem,City Link Express,Non AC Seater,19:15,05:45,10h 30m,345,876,Perungalathur,New Bus Stand,36,6,"AC,Blanket,Pillow",Weekends,4.9
+BUS0243,Express King,R006,Chennai,Tiruppur,Express King Express,Non AC Sleeper,01:00,09:00,8h 0m,475,1206,Vandalur,New Bus Stand,36,8,"AC,Blanket,Pillow",Daily,4.7
+BUS0244,GreenLine Travels,R013,Chennai,Puducherry,GreenLine Travels Express,Luxury Sleeper,11:30,19:45,8h 15m,170,642,Chengalpattu,New Bus Stand,36,35,"AC,WiFi,Charging",Weekends,4.9
+BUS0245,Sunrise Coaches,R007,Chennai,Tirunelveli,Sunrise Coaches Express,Non AC Seater,03:15,09:30,6h 15m,630,1728,Perungalathur,Junction,45,26,"Luxury Seat,WiFi",Daily,5.0
+BUS0246,Victory Travels,R015,Chennai,Bengaluru,Victory Travels Express,Volvo Multi Axle,01:00,10:00,9h 0m,345,943,Perungalathur,Kempegowda Bus Station,36,7,"WiFi,Charging,Water",Weekdays,4.6
+BUS0247,Happy Journey,R010,Chennai,Thanjavur,Happy Journey Express,BharatBenz Sleeper,14:15,22:30,8h 15m,350,978,Koyambedu,New Bus Stand,40,16,"GPS,USB Charging",Weekdays,4.0
+BUS0248,SkyBus,R002,Chennai,Coimbatore,SkyBus Express,Non AC Seater,16:45,23:00,6h 15m,510,1499,Koyambedu,Ukkadam,40,36,"Charging,Reading Light",Daily,5.0
+BUS0249,SkyBus,R019,Salem,Chennai,SkyBus Express,Luxury Sleeper,01:45,10:15,8h 30m,345,911,Old Bus Stand,Vandalur,36,15,"Luxury Seat,WiFi",Daily,4.8
+BUS0250,Star Line,R022,Nagercoil,Chennai,Star Line Express,BharatBenz Sleeper,15:30,02:15,10h 45m,705,1733,Vadasery Bus Stand,Tambaram,40,23,"Luxury Seat,WiFi",Weekdays,4.3
+BUS0251,Royal Rider,R008,Chennai,Nagercoil,Royal Rider Express,AC Sleeper,12:00,23:00,11h 0m,705,1901,Chengalpattu,Vadasery Bus Stand,40,34,"GPS,USB Charging",Weekdays,5.0
+BUS0252,Victory Travels,R005,Chennai,Erode,Victory Travels Express,Volvo Multi Axle,13:15,20:00,6h 45m,400,1029,Tambaram,Perundurai,45,13,"AC,Blanket,Pillow",Daily,4.8
+BUS0253,Happy Journey,R016,Chennai,Tirupati,Happy Journey Express,Semi Sleeper,16:45,20:30,3h 45m,150,432,Chengalpattu,Central Bus Stand,36,13,"AC,WiFi,Charging",Daily,4.5
+BUS0254,Golden Route,R017,Madurai,Chennai,Golden Route Express,Luxury Sleeper,21:30,09:15,11h 45m,460,1325,Periyar Bus Stand,Perungalathur,40,1,"Luxury Seat,WiFi",Weekends,4.4
+BUS0255,Express King,R009,Chennai,Kanyakumari,Express King Express,BharatBenz Sleeper,16:30,23:45,7h 15m,710,1684,Guindy,Bus Stand,40,1,"GPS,USB Charging",Weekends,3.8
+BUS0256,Smart Coach,R006,Chennai,Tiruppur,Smart Coach Express,Non AC Seater,07:00,16:00,9h 0m,475,1190,Chengalpattu,New Bus Stand,45,35,"AC,Live Tracking",Weekdays,4.2
+BUS0257,Star Line,R002,Chennai,Coimbatore,Star Line Express,Non AC Sleeper,02:00,10:00,8h 0m,510,1462,Tambaram,Ukkadam,45,31,"AC,Live Tracking",Daily,4.5
+BUS0258,Metro Connect,R008,Chennai,Nagercoil,Metro Connect Express,Non AC Seater,04:45,11:45,7h 0m,705,1923,Chengalpattu,Vadasery Bus Stand,36,32,"GPS,USB Charging",Weekends,4.4
+BUS0259,Blue Bird,R005,Chennai,Erode,Blue Bird Express,AC Seater,11:15,17:30,6h 15m,400,1243,Koyambedu,Central Bus Stand,36,7,"AC,Blanket,Pillow",Weekdays,4.1
+BUS0260,Sunrise Coaches,R014,Chennai,Hosur,Sunrise Coaches Express,Semi Sleeper,03:30,10:30,7h 0m,310,867,Vandalur,Bus Stand,40,11,"Luxury Seat,WiFi",Weekdays,4.5
+BUS0261,Fast Wheels,R008,Chennai,Nagercoil,Fast Wheels Express,AC Seater,23:00,08:00,9h 0m,705,1688,Guindy,Vadasery Bus Stand,45,36,"Blanket,Pillow,Water",Weekdays,4.3
+BUS0262,GreenLine Travels,R017,Madurai,Chennai,GreenLine Travels Express,Luxury Sleeper,16:15,04:45,12h 30m,460,1279,Periyar Bus Stand,Koyambedu,36,24,"AC,Blanket,Pillow",Weekends,4.6
+BUS0263,Sunrise Coaches,R018,Coimbatore,Chennai,Sunrise Coaches Express,Semi Sleeper,22:00,03:30,5h 30m,510,1502,Ukkadam,Koyambedu,40,32,"Blanket,Pillow,Water",Weekends,4.9
+BUS0264,Happy Journey,R016,Chennai,Tirupati,Happy Journey Express,Non AC Sleeper,21:00,09:00,12h 0m,150,434,Perungalathur,Central Bus Stand,40,17,"GPS,USB Charging",Weekdays,4.8
+BUS0265,Elite Travels,R013,Chennai,Puducherry,Elite Travels Express,Luxury Sleeper,17:00,05:30,12h 30m,170,486,Vandalur,New Bus Stand,45,31,"AC,WiFi,Charging",Weekends,4.1
+BUS0266,Sunrise Coaches,R011,Chennai,Dindigul,Sunrise Coaches Express,Non AC Seater,14:45,22:00,7h 15m,420,1236,Guindy,Bus Stand,40,12,"AC,WiFi,Charging",Weekdays,4.9
+BUS0267,Galaxy Bus,R006,Chennai,Tiruppur,Galaxy Bus Express,Luxury Sleeper,01:15,08:15,7h 0m,475,1275,Guindy,Avinashi,36,23,"WiFi,Charging,Water",Weekends,4.8
+BUS0268,Southern Express,R001,Chennai,Madurai,Southern Express Express,AC Seater,07:00,15:15,8h 15m,460,1231,Koyambedu,Periyar Bus Stand,36,34,"AC,Blanket,Pillow",Daily,4.0
+BUS0269,Blue Bird,R020,Trichy,Chennai,Blue Bird Express,BharatBenz Sleeper,23:30,08:45,9h 15m,330,1059,Central Bus Stand,Tambaram,36,15,"Blanket,Pillow,Water",Weekends,4.5
+BUS0270,Metro Connect,R007,Chennai,Tirunelveli,Metro Connect Express,BharatBenz Sleeper,05:30,14:30,9h 0m,630,1786,Koyambedu,New Bus Stand,36,8,"Luxury Seat,WiFi",Weekends,4.3
+BUS0271,Galaxy Bus,R008,Chennai,Nagercoil,Galaxy Bus Express,Semi Sleeper,09:45,15:15,5h 30m,705,1678,Chengalpattu,Vadasery Bus Stand,40,22,"WiFi,Charging,Water",Weekdays,4.0
+BUS0272,Rainbow Coaches,R023,Puducherry,Chennai,Rainbow Coaches Express,Luxury Sleeper,11:30,16:45,5h 15m,170,745,New Bus Stand,Vandalur,40,6,"Luxury Seat,WiFi",Daily,4.0
+BUS0273,Comfort Bus,R014,Chennai,Hosur,Comfort Bus Express,AC Seater,00:30,11:00,10h 30m,310,794,Perungalathur,Bus Stand,45,2,"WiFi,Charging,Water",Daily,4.3
+BUS0274,Star Line,R003,Chennai,Trichy,Star Line Express,AC Sleeper,07:15,14:15,7h 0m,330,1114,Chengalpattu,Central Bus Stand,40,16,"AC,Live Tracking",Daily,4.0
+BUS0275,Royal Rider,R009,Chennai,Kanyakumari,Royal Rider Express,AC Sleeper,21:45,03:15,5h 30m,710,1713,Perungalathur,Bus Stand,45,18,"Blanket,Pillow,Water",Weekdays,4.3
+BUS0276,City Link,R013,Chennai,Puducherry,City Link Express,Non AC Sleeper,06:00,16:45,10h 45m,170,721,Koyambedu,New Bus Stand,40,35,"AC,WiFi,Charging",Weekends,4.1
+BUS0277,Happy Journey,R018,Coimbatore,Chennai,Happy Journey Express,Volvo Multi Axle,14:15,01:15,11h 0m,510,1223,Ukkadam,Vandalur,36,28,"AC,Live Tracking",Weekdays,5.0
+BUS0278,Comfort Bus,R018,Coimbatore,Chennai,Comfort Bus Express,AC Sleeper,16:30,00:45,8h 15m,510,1412,Gandhipuram,Vandalur,40,14,"Luxury Seat,WiFi",Weekends,4.1
+BUS0279,Prime Bus,R016,Chennai,Tirupati,Prime Bus Express,AC Seater,07:00,18:30,11h 30m,150,577,Koyambedu,Central Bus Stand,45,14,"AC,WiFi,Charging",Weekends,4.8
+BUS0280,Smart Coach,R006,Chennai,Tiruppur,Smart Coach Express,Luxury Sleeper,00:15,04:30,4h 15m,475,1149,Koyambedu,New Bus Stand,40,11,"Blanket,Pillow,Water",Daily,4.3
+BUS0281,Rainbow Coaches,R025,Tirupati,Chennai,Rainbow Coaches Express,AC Seater,04:00,12:00,8h 0m,150,727,Central Bus Stand,Vandalur,45,9,"WiFi,Charging,Water",Weekdays,4.1
+BUS0282,Metro Connect,R021,Tirunelveli,Chennai,Metro Connect Express,Non AC Seater,02:00,10:00,8h 0m,630,1533,New Bus Stand,Tambaram,40,11,"AC,Live Tracking",Weekdays,4.6
+BUS0283,Sunrise Coaches,R003,Chennai,Trichy,Sunrise Coaches Express,BharatBenz Sleeper,04:00,09:30,5h 30m,330,1081,Vandalur,Srirangam,45,32,"AC,Live Tracking",Weekdays,3.9
+BUS0284,Rainbow Coaches,R021,Tirunelveli,Chennai,Rainbow Coaches Express,AC Seater,22:00,02:30,4h 30m,630,1554,New Bus Stand,Vandalur,36,5,"Luxury Seat,WiFi",Weekends,4.2
+BUS0285,Smart Coach,R024,Bengaluru,Chennai,Smart Coach Express,Volvo Multi Axle,13:30,01:15,11h 45m,345,988,Majestic,Perungalathur,36,11,"Luxury Seat,WiFi",Weekends,4.6
+BUS0286,Express King,R003,Chennai,Trichy,Express King Express,Semi Sleeper,09:30,18:45,9h 15m,330,965,Perungalathur,Chathiram Bus Stand,40,29,"GPS,USB Charging",Weekdays,3.9
+BUS0287,Smart Coach,R001,Chennai,Madurai,Smart Coach Express,Non AC Sleeper,16:15,03:00,10h 45m,460,1224,Vandalur,Mattuthavani Bus Stand,40,23,"AC,Live Tracking",Weekdays,4.5
+BUS0288,Galaxy Bus,R004,Chennai,Salem,Galaxy Bus Express,AC Seater,03:00,10:45,7h 45m,345,991,Chengalpattu,Old Bus Stand,36,31,"AC,WiFi,Charging",Daily,3.9
+BUS0289,Metro Connect,R024,Bengaluru,Chennai,Metro Connect Express,Semi Sleeper,17:00,20:30,3h 30m,345,878,Majestic,Vandalur,40,4,"Charging,Reading Light",Weekends,3.9
+BUS0290,Elite Travels,R025,Tirupati,Chennai,Elite Travels Express,AC Sleeper,06:45,09:45,3h 0m,150,472,Central Bus Stand,Vandalur,36,16,"AC,Live Tracking",Weekends,5.0
+BUS0291,Victory Travels,R025,Tirupati,Chennai,Victory Travels Express,Luxury Sleeper,09:30,18:45,9h 15m,150,651,Central Bus Stand,Koyambedu,45,26,"AC,Blanket,Pillow",Daily,4.7
+BUS0292,Express King,R022,Nagercoil,Chennai,Express King Express,AC Sleeper,02:00,11:15,9h 15m,705,1827,Vadasery Bus Stand,Tambaram,45,23,"Blanket,Pillow,Water",Weekends,4.4
+BUS0293,Express King,R016,Chennai,Tirupati,Express King Express,BharatBenz Sleeper,06:30,11:15,4h 45m,150,715,Chengalpattu,Central Bus Stand,40,22,"GPS,USB Charging",Weekends,4.7
+BUS0294,Fast Wheels,R007,Chennai,Tirunelveli,Fast Wheels Express,AC Sleeper,02:30,05:30,3h 0m,630,1585,Guindy,Junction,40,35,"Luxury Seat,WiFi",Daily,4.9
+BUS0295,Prime Bus,R021,Tirunelveli,Chennai,Prime Bus Express,Non AC Seater,04:45,16:30,11h 45m,630,1553,New Bus Stand,Guindy,36,31,"Charging,Reading Light",Daily,4.7
+BUS0296,Elite Travels,R025,Tirupati,Chennai,Elite Travels Express,Luxury Sleeper,05:30,13:00,7h 30m,150,535,Central Bus Stand,Vandalur,40,17,"AC,WiFi,Charging",Weekends,4.4
+BUS0297,Prime Bus,R010,Chennai,Thanjavur,Prime Bus Express,Non AC Sleeper,10:00,22:45,12h 45m,350,967,Tambaram,New Bus Stand,45,19,"WiFi,Charging,Water",Daily,3.8
+BUS0298,Blue Bird,R010,Chennai,Thanjavur,Blue Bird Express,Luxury Sleeper,20:45,01:30,4h 45m,350,1123,Perungalathur,New Bus Stand,40,30,"Blanket,Pillow,Water",Weekends,4.9
+BUS0299,Happy Journey,R014,Chennai,Hosur,Happy Journey Express,AC Seater,10:15,16:45,6h 30m,310,934,Vandalur,Bus Stand,36,35,"Luxury Seat,WiFi",Daily,4.1
+BUS0300,SkyBus,R007,Chennai,Tirunelveli,SkyBus Express,Non AC Seater,11:00,19:00,8h 0m,630,1641,Guindy,New Bus Stand,45,31,"Luxury Seat,WiFi",Weekends,5.0
+BUS0301,Smart Coach,R002,Chennai,Coimbatore,Smart Coach Express,Non AC Seater,09:00,19:00,10h 0m,510,1487,Vandalur,Singanallur,36,6,"GPS,USB Charging",Weekends,4.4
+BUS0302,Star Line,R009,Chennai,Kanyakumari,Star Line Express,BharatBenz Sleeper,04:15,13:15,9h 0m,710,1710,Perungalathur,Bus Stand,36,23,"Charging,Reading Light",Weekends,4.5
+BUS0303,Galaxy Bus,R022,Nagercoil,Chennai,Galaxy Bus Express,BharatBenz Sleeper,02:00,08:45,6h 45m,705,1708,Vadasery Bus Stand,Vandalur,45,30,"WiFi,Charging,Water",Weekdays,4.9
+BUS0304,Express King,R001,Chennai,Madurai,Express King Express,Semi Sleeper,12:15,21:00,8h 45m,460,1152,Koyambedu,Mattuthavani Bus Stand,40,23,"Charging,Reading Light",Daily,4.5
+BUS0305,Golden Route,R016,Chennai,Tirupati,Golden Route Express,AC Seater,17:45,05:15,11h 30m,150,455,Guindy,Central Bus Stand,45,4,"GPS,USB Charging",Daily,4.2
+BUS0306,Elite Travels,R024,Bengaluru,Chennai,Elite Travels Express,AC Sleeper,13:15,18:30,5h 15m,345,1075,Kempegowda Bus Station,Vandalur,45,19,"AC,Blanket,Pillow",Weekdays,4.0
+BUS0307,Galaxy Bus,R010,Chennai,Thanjavur,Galaxy Bus Express,Non AC Sleeper,17:30,21:15,3h 45m,350,1081,Koyambedu,New Bus Stand,40,7,"GPS,USB Charging",Weekends,4.9
+BUS0308,Southern Express,R014,Chennai,Hosur,Southern Express Express,Volvo Multi Axle,04:15,08:00,3h 45m,310,809,Vandalur,Bus Stand,36,21,"AC,Live Tracking",Weekends,3.9
+BUS0309,Metro Connect,R002,Chennai,Coimbatore,Metro Connect Express,Semi Sleeper,16:00,23:30,7h 30m,510,1313,Koyambedu,Gandhipuram,36,17,"AC,Live Tracking",Weekdays,3.9
+BUS0310,Golden Route,R003,Chennai,Trichy,Golden Route Express,Non AC Sleeper,03:30,06:45,3h 15m,330,901,Koyambedu,Srirangam,40,15,"AC,Live Tracking",Weekends,4.4
+BUS0311,Fast Wheels,R025,Tirupati,Chennai,Fast Wheels Express,Semi Sleeper,20:15,05:45,9h 30m,150,585,Central Bus Stand,Perungalathur,36,25,"AC,Live Tracking",Weekdays,4.5
+BUS0312,GreenLine Travels,R002,Chennai,Coimbatore,GreenLine Travels Express,BharatBenz Sleeper,02:00,11:00,9h 0m,510,1349,Perungalathur,Gandhipuram,36,31,"WiFi,Charging,Water",Daily,4.8
+BUS0313,Golden Route,R013,Chennai,Puducherry,Golden Route Express,Non AC Seater,08:00,19:15,11h 15m,170,538,Koyambedu,New Bus Stand,36,1,"Blanket,Pillow,Water",Weekends,4.0
+BUS0314,Elite Travels,R013,Chennai,Puducherry,Elite Travels Express,Luxury Sleeper,02:00,08:45,6h 45m,170,492,Perungalathur,New Bus Stand,36,10,"WiFi,Charging,Water",Weekdays,4.0
+BUS0315,Star Line,R004,Chennai,Salem,Star Line Express,AC Seater,14:00,17:45,3h 45m,345,996,Tambaram,New Bus Stand,40,27,"Blanket,Pillow,Water",Weekdays,4.5
+BUS0316,Rainbow Coaches,R020,Trichy,Chennai,Rainbow Coaches Express,Volvo Multi Axle,04:00,12:45,8h 45m,330,931,Chathiram Bus Stand,Koyambedu,45,31,"AC,Live Tracking",Weekdays,3.9
+BUS0317,Victory Travels,R015,Chennai,Bengaluru,Victory Travels Express,Non AC Seater,10:30,22:45,12h 15m,345,944,Chengalpattu,Electronic City,45,2,"Luxury Seat,WiFi",Weekends,4.1
+BUS0318,Star Line,R019,Salem,Chennai,Star Line Express,Non AC Seater,09:00,14:45,5h 45m,345,1123,New Bus Stand,Guindy,40,24,"Blanket,Pillow,Water",Daily,4.5
+BUS0319,Prime Bus,R022,Nagercoil,Chennai,Prime Bus Express,AC Seater,22:30,04:15,5h 45m,705,1951,Vadasery Bus Stand,Vandalur,45,10,"AC,Live Tracking",Weekdays,4.6
+BUS0320,Southern Express,R021,Tirunelveli,Chennai,Southern Express Express,AC Seater,17:45,23:00,5h 15m,630,1524,New Bus Stand,Guindy,45,13,"WiFi,Charging,Water",Weekdays,4.4
+BUS0321,Golden Route,R025,Tirupati,Chennai,Golden Route Express,Non AC Seater,02:45,14:00,11h 15m,150,527,Central Bus Stand,Tambaram,45,26,"Blanket,Pillow,Water",Weekends,4.8
+BUS0322,Golden Route,R009,Chennai,Kanyakumari,Golden Route Express,BharatBenz Sleeper,15:00,18:00,3h 0m,710,1731,Chengalpattu,Bus Stand,40,31,"AC,Live Tracking",Weekends,4.2
+BUS0323,Elite Travels,R011,Chennai,Dindigul,Elite Travels Express,AC Seater,19:45,05:30,9h 45m,420,1199,Vandalur,Bus Stand,45,10,"AC,Live Tracking",Weekends,4.0
+BUS0324,Happy Journey,R014,Chennai,Hosur,Happy Journey Express,AC Seater,03:00,15:30,12h 30m,310,914,Guindy,Bus Stand,45,27,"AC,Blanket,Pillow",Daily,4.3
+BUS0325,Star Line,R013,Chennai,Puducherry,Star Line Express,AC Sleeper,18:15,01:15,7h 0m,170,498,Perungalathur,New Bus Stand,36,2,"AC,Blanket,Pillow",Weekdays,4.6
+BUS0326,Elite Travels,R007,Chennai,Tirunelveli,Elite Travels Express,Non AC Sleeper,00:45,12:45,12h 0m,630,1657,Guindy,New Bus Stand,36,2,"AC,WiFi,Charging",Weekends,4.1
+BUS0327,SkyBus,R005,Chennai,Erode,SkyBus Express,Volvo Multi Axle,23:15,11:00,11h 45m,400,1171,Chengalpattu,Perundurai,45,26,"AC,WiFi,Charging",Daily,4.4
+BUS0328,Metro Connect,R009,Chennai,Kanyakumari,Metro Connect Express,BharatBenz Sleeper,05:30,18:15,12h 45m,710,1779,Koyambedu,Bus Stand,36,1,"Blanket,Pillow,Water",Weekdays,4.8
+BUS0329,SkyBus,R004,Chennai,Salem,SkyBus Express,Non AC Seater,21:15,07:00,9h 45m,345,1069,Koyambedu,Old Bus Stand,45,35,"AC,Blanket,Pillow",Daily,4.7
+BUS0330,Galaxy Bus,R023,Puducherry,Chennai,Galaxy Bus Express,AC Seater,11:15,22:30,11h 15m,170,569,New Bus Stand,Koyambedu,40,13,"AC,WiFi,Charging",Weekends,4.2
+BUS0331,Star Line,R015,Chennai,Bengaluru,Star Line Express,Volvo Multi Axle,02:45,12:00,9h 15m,345,982,Perungalathur,Kempegowda Bus Station,36,28,"AC,WiFi,Charging",Weekends,4.7
+BUS0332,Express King,R018,Coimbatore,Chennai,Express King Express,Luxury Sleeper,04:15,14:00,9h 45m,510,1386,Ukkadam,Vandalur,36,19,"Blanket,Pillow,Water",Weekdays,4.1
+BUS0333,Elite Travels,R012,Chennai,Karaikudi,Elite Travels Express,Non AC Seater,04:15,13:15,9h 0m,410,1061,Vandalur,Bus Stand,45,8,"Charging,Reading Light",Weekends,4.7
+BUS0334,Metro Connect,R005,Chennai,Erode,Metro Connect Express,AC Sleeper,16:30,01:45,9h 15m,400,1280,Koyambedu,Perundurai,45,11,"GPS,USB Charging",Weekends,4.1
+BUS0335,Fast Wheels,R025,Tirupati,Chennai,Fast Wheels Express,AC Seater,05:00,12:00,7h 0m,150,537,Central Bus Stand,Tambaram,45,5,"AC,Blanket,Pillow",Weekends,4.4
+BUS0336,Metro Connect,R010,Chennai,Thanjavur,Metro Connect Express,AC Sleeper,03:30,10:45,7h 15m,350,988,Perungalathur,New Bus Stand,40,35,"GPS,USB Charging",Weekends,4.8
+BUS0337,Sunrise Coaches,R009,Chennai,Kanyakumari,Sunrise Coaches Express,AC Sleeper,21:00,08:15,11h 15m,710,1936,Vandalur,Bus Stand,45,33,"Luxury Seat,WiFi",Weekdays,4.3
+BUS0338,Metro Connect,R019,Salem,Chennai,Metro Connect Express,Non AC Seater,19:00,23:00,4h 0m,345,908,Old Bus Stand,Tambaram,45,24,"Charging,Reading Light",Weekends,4.1
+BUS0339,Elite Travels,R014,Chennai,Hosur,Elite Travels Express,Volvo Multi Axle,17:15,00:45,7h 30m,310,930,Vandalur,Bus Stand,45,27,"AC,WiFi,Charging",Weekdays,5.0
+BUS0340,Smart Coach,R019,Salem,Chennai,Smart Coach Express,Non AC Sleeper,17:00,20:30,3h 30m,345,905,New Bus Stand,Guindy,40,33,"AC,Live Tracking",Weekends,3.8
+BUS0341,Victory Travels,R017,Madurai,Chennai,Victory Travels Express,BharatBenz Sleeper,09:15,20:15,11h 0m,460,1209,Periyar Bus Stand,Tambaram,45,16,"WiFi,Charging,Water",Weekends,3.8
+BUS0342,Blue Bird,R012,Chennai,Karaikudi,Blue Bird Express,Semi Sleeper,23:30,04:45,5h 15m,410,1262,Koyambedu,Bus Stand,40,22,"Luxury Seat,WiFi",Weekends,4.4
+BUS0343,Victory Travels,R015,Chennai,Bengaluru,Victory Travels Express,Semi Sleeper,11:30,15:30,4h 0m,345,897,Tambaram,Kempegowda Bus Station,36,1,"Charging,Reading Light",Daily,4.3
+BUS0344,Sunrise Coaches,R023,Puducherry,Chennai,Sunrise Coaches Express,Non AC Sleeper,19:15,04:45,9h 30m,170,518,New Bus Stand,Perungalathur,36,26,"Luxury Seat,WiFi",Daily,4.0
+BUS0345,Happy Journey,R010,Chennai,Thanjavur,Happy Journey Express,Semi Sleeper,05:00,17:15,12h 15m,350,909,Guindy,New Bus Stand,40,12,"AC,Blanket,Pillow",Weekdays,4.8
+BUS0346,Happy Journey,R017,Madurai,Chennai,Happy Journey Express,Semi Sleeper,17:15,02:00,8h 45m,460,1115,Mattuthavani,Perungalathur,36,27,"AC,WiFi,Charging",Daily,3.8
+BUS0347,City Link,R012,Chennai,Karaikudi,City Link Express,Non AC Seater,14:30,22:45,8h 15m,410,1041,Perungalathur,Bus Stand,36,20,"Blanket,Pillow,Water",Weekdays,4.0
+BUS0348,GreenLine Travels,R020,Trichy,Chennai,GreenLine Travels Express,Non AC Seater,03:45,15:45,12h 0m,330,1010,Central Bus Stand,Vandalur,36,9,"AC,Blanket,Pillow",Weekends,4.8
+BUS0349,Happy Journey,R021,Tirunelveli,Chennai,Happy Journey Express,BharatBenz Sleeper,09:00,12:15,3h 15m,630,1612,New Bus Stand,Koyambedu,40,24,"AC,Blanket,Pillow",Weekends,3.8
+BUS0350,Star Line,R008,Chennai,Nagercoil,Star Line Express,Volvo Multi Axle,12:00,20:30,8h 30m,705,1735,Guindy,Vadasery Bus Stand,40,11,"Charging,Reading Light",Weekends,4.3
+BUS0351,Smart Coach,R008,Chennai,Nagercoil,Smart Coach Express,Semi Sleeper,17:45,01:15,7h 30m,705,1699,Vandalur,Vadasery Bus Stand,36,4,"WiFi,Charging,Water",Daily,4.5
+BUS0352,Elite Travels,R023,Puducherry,Chennai,Elite Travels Express,AC Seater,03:45,14:00,10h 15m,170,678,New Bus Stand,Perungalathur,45,16,"Charging,Reading Light",Daily,5.0
+BUS0353,Golden Route,R022,Nagercoil,Chennai,Golden Route Express,Non AC Sleeper,21:00,02:45,5h 45m,705,1671,Vadasery Bus Stand,Guindy,36,27,"AC,Blanket,Pillow",Weekdays,4.1
+BUS0354,SkyBus,R005,Chennai,Erode,SkyBus Express,Non AC Sleeper,01:30,09:15,7h 45m,400,1255,Koyambedu,Central Bus Stand,36,21,"AC,WiFi,Charging",Weekdays,4.0
+BUS0355,Sunrise Coaches,R007,Chennai,Tirunelveli,Sunrise Coaches Express,AC Sleeper,00:00,08:15,8h 15m,630,1574,Tambaram,Junction,36,28,"AC,Live Tracking",Daily,3.8
+BUS0356,Southern Express,R001,Chennai,Madurai,Southern Express Express,Non AC Seater,02:15,14:15,12h 0m,460,1412,Guindy,Anna Nagar,36,18,"Charging,Reading Light",Weekends,4.7
+BUS0357,Rainbow Coaches,R006,Chennai,Tiruppur,Rainbow Coaches Express,Non AC Seater,01:00,12:15,11h 15m,475,1441,Vandalur,New Bus Stand,45,34,"AC,Live Tracking",Daily,4.7
+BUS0358,Rainbow Coaches,R005,Chennai,Erode,Rainbow Coaches Express,AC Seater,03:00,09:30,6h 30m,400,1257,Koyambedu,Central Bus Stand,40,24,"AC,Live Tracking",Weekends,4.6
+BUS0359,Galaxy Bus,R014,Chennai,Hosur,Galaxy Bus Express,BharatBenz Sleeper,20:00,01:15,5h 15m,310,856,Perungalathur,Bus Stand,45,33,"AC,WiFi,Charging",Daily,4.6
+BUS0360,Sunrise Coaches,R021,Tirunelveli,Chennai,Sunrise Coaches Express,Luxury Sleeper,16:15,23:15,7h 0m,630,1503,New Bus Stand,Perungalathur,45,17,"WiFi,Charging,Water",Daily,3.9
+BUS0361,GreenLine Travels,R007,Chennai,Tirunelveli,GreenLine Travels Express,AC Sleeper,16:45,22:00,5h 15m,630,1717,Vandalur,New Bus Stand,40,8,"Blanket,Pillow,Water",Weekdays,4.4
+BUS0362,Rainbow Coaches,R019,Salem,Chennai,Rainbow Coaches Express,AC Seater,03:45,13:00,9h 15m,345,1141,New Bus Stand,Perungalathur,40,18,"Charging,Reading Light",Weekdays,4.5
+BUS0363,Rainbow Coaches,R003,Chennai,Trichy,Rainbow Coaches Express,Semi Sleeper,07:30,11:15,3h 45m,330,920,Tambaram,Chathiram Bus Stand,45,3,"Luxury Seat,WiFi",Weekends,4.3
+BUS0364,Happy Journey,R024,Bengaluru,Chennai,Happy Journey Express,Luxury Sleeper,16:00,23:00,7h 0m,345,869,Majestic,Tambaram,45,9,"GPS,USB Charging",Weekends,4.2
+BUS0365,Express King,R022,Nagercoil,Chennai,Express King Express,Semi Sleeper,16:15,20:15,4h 0m,705,1938,Vadasery Bus Stand,Koyambedu,36,21,"GPS,USB Charging",Daily,4.4
+BUS0366,Royal Rider,R001,Chennai,Madurai,Royal Rider Express,Non AC Sleeper,13:00,21:45,8h 45m,460,1197,Guindy,Anna Nagar,36,23,"AC,Live Tracking",Weekdays,5.0
+BUS0367,Sunrise Coaches,R015,Chennai,Bengaluru,Sunrise Coaches Express,Non AC Seater,20:00,07:00,11h 0m,345,1067,Vandalur,Kempegowda Bus Station,40,13,"Blanket,Pillow,Water",Daily,4.3
+BUS0368,Elite Travels,R016,Chennai,Tirupati,Elite Travels Express,Non AC Sleeper,17:30,04:15,10h 45m,150,668,Koyambedu,Central Bus Stand,36,28,"Luxury Seat,WiFi",Weekdays,4.2
+BUS0369,SkyBus,R004,Chennai,Salem,SkyBus Express,BharatBenz Sleeper,20:45,05:45,9h 0m,345,1101,Chengalpattu,New Bus Stand,45,2,"AC,Blanket,Pillow",Weekdays,4.5
+BUS0370,Metro Connect,R018,Coimbatore,Chennai,Metro Connect Express,Luxury Sleeper,07:45,12:45,5h 0m,510,1342,Gandhipuram,Tambaram,36,3,"Charging,Reading Light",Weekends,4.9
+BUS0371,Comfort Bus,R004,Chennai,Salem,Comfort Bus Express,Semi Sleeper,18:45,04:30,9h 45m,345,1153,Vandalur,New Bus Stand,40,5,"Charging,Reading Light",Weekdays,4.4
+BUS0372,Galaxy Bus,R014,Chennai,Hosur,Galaxy Bus Express,AC Seater,06:45,15:15,8h 30m,310,1022,Perungalathur,Bus Stand,45,27,"AC,WiFi,Charging",Weekdays,5.0
+BUS0373,Express King,R003,Chennai,Trichy,Express King Express,Non AC Sleeper,13:15,19:00,5h 45m,330,926,Vandalur,Chathiram Bus Stand,45,29,"Luxury Seat,WiFi",Weekdays,4.9
+BUS0374,Star Line,R005,Chennai,Erode,Star Line Express,BharatBenz Sleeper,23:15,04:15,5h 0m,400,1036,Koyambedu,Central Bus Stand,45,4,"Luxury Seat,WiFi",Weekends,5.0
+BUS0375,Royal Rider,R012,Chennai,Karaikudi,Royal Rider Express,BharatBenz Sleeper,05:30,14:00,8h 30m,410,1028,Guindy,Bus Stand,36,9,"AC,Blanket,Pillow",Weekends,4.0
+BUS0376,Victory Travels,R020,Trichy,Chennai,Victory Travels Express,Non AC Sleeper,19:15,00:45,5h 30m,330,849,Chathiram Bus Stand,Guindy,36,17,"AC,Blanket,Pillow",Weekdays,4.8
+BUS0377,Southern Express,R008,Chennai,Nagercoil,Southern Express Express,Volvo Multi Axle,21:00,04:45,7h 45m,705,1909,Vandalur,Vadasery Bus Stand,36,2,"AC,Blanket,Pillow",Weekdays,3.9
+BUS0378,Star Line,R014,Chennai,Hosur,Star Line Express,BharatBenz Sleeper,14:45,22:30,7h 45m,310,907,Perungalathur,Bus Stand,36,36,"GPS,USB Charging",Daily,4.6
+BUS0379,Southern Express,R018,Coimbatore,Chennai,Southern Express Express,Volvo Multi Axle,12:30,00:30,12h 0m,510,1481,Ukkadam,Guindy,40,24,"Blanket,Pillow,Water",Weekdays,4.2
+BUS0380,Smart Coach,R006,Chennai,Tiruppur,Smart Coach Express,Semi Sleeper,01:00,06:30,5h 30m,475,1201,Guindy,Avinashi,40,31,"Charging,Reading Light",Weekdays,4.7
+BUS0381,City Link,R024,Bengaluru,Chennai,City Link Express,Non AC Sleeper,19:45,05:30,9h 45m,345,861,Kempegowda Bus Station,Koyambedu,45,15,"AC,Live Tracking",Weekends,4.2
+BUS0382,Metro Connect,R014,Chennai,Hosur,Metro Connect Express,BharatBenz Sleeper,12:15,21:15,9h 0m,310,979,Koyambedu,Bus Stand,45,8,"WiFi,Charging,Water",Daily,3.8
+BUS0383,SkyBus,R002,Chennai,Coimbatore,SkyBus Express,AC Sleeper,19:45,07:45,12h 0m,510,1445,Guindy,Singanallur,40,1,"AC,WiFi,Charging",Daily,4.3
+BUS0384,Royal Rider,R019,Salem,Chennai,Royal Rider Express,Semi Sleeper,18:45,21:45,3h 0m,345,976,Old Bus Stand,Koyambedu,40,2,"AC,Live Tracking",Weekdays,4.2
+BUS0385,Rainbow Coaches,R010,Chennai,Thanjavur,Rainbow Coaches Express,Semi Sleeper,05:45,09:30,3h 45m,350,1143,Vandalur,New Bus Stand,40,8,"AC,Live Tracking",Weekends,4.1
+BUS0386,Elite Travels,R002,Chennai,Coimbatore,Elite Travels Express,AC Sleeper,01:45,07:15,5h 30m,510,1377,Guindy,Ukkadam,45,9,"WiFi,Charging,Water",Daily,3.9
+BUS0387,Galaxy Bus,R007,Chennai,Tirunelveli,Galaxy Bus Express,BharatBenz Sleeper,05:45,17:30,11h 45m,630,1629,Guindy,Junction,40,16,"GPS,USB Charging",Weekends,4.0
+BUS0388,Elite Travels,R024,Bengaluru,Chennai,Elite Travels Express,BharatBenz Sleeper,06:30,12:45,6h 15m,345,1080,Majestic,Perungalathur,45,31,"AC,Live Tracking",Weekends,3.9
+BUS0389,Star Line,R020,Trichy,Chennai,Star Line Express,Luxury Sleeper,01:15,11:15,10h 0m,330,1082,Chathiram Bus Stand,Perungalathur,40,18,"Charging,Reading Light",Daily,3.9
+BUS0390,Southern Express,R017,Madurai,Chennai,Southern Express Express,Luxury Sleeper,11:15,14:15,3h 0m,460,1273,Mattuthavani,Koyambedu,45,21,"Luxury Seat,WiFi",Daily,4.3
+BUS0391,Sunrise Coaches,R003,Chennai,Trichy,Sunrise Coaches Express,Non AC Sleeper,07:15,14:00,6h 45m,330,1024,Koyambedu,Central Bus Stand,40,4,"WiFi,Charging,Water",Weekends,4.1
+BUS0392,Metro Connect,R008,Chennai,Nagercoil,Metro Connect Express,Volvo Multi Axle,12:45,18:15,5h 30m,705,1801,Guindy,Vadasery Bus Stand,45,30,"Luxury Seat,WiFi",Weekdays,4.7
+BUS0393,Elite Travels,R017,Madurai,Chennai,Elite Travels Express,Non AC Seater,21:30,01:30,4h 0m,460,1215,Mattuthavani,Perungalathur,40,17,"Charging,Reading Light",Daily,4.2
+BUS0394,Elite Travels,R009,Chennai,Kanyakumari,Elite Travels Express,AC Sleeper,17:15,00:00,6h 45m,710,1857,Chengalpattu,Bus Stand,45,15,"Blanket,Pillow,Water",Weekends,4.4
+BUS0395,Golden Route,R024,Bengaluru,Chennai,Golden Route Express,Luxury Sleeper,21:30,09:45,12h 15m,345,1051,Majestic,Perungalathur,45,32,"GPS,USB Charging",Weekends,4.2
+BUS0396,Rainbow Coaches,R001,Chennai,Madurai,Rainbow Coaches Express,Non AC Seater,15:30,20:45,5h 15m,460,1360,Vandalur,Anna Nagar,36,19,"Charging,Reading Light",Weekdays,3.8
+BUS0397,Prime Bus,R007,Chennai,Tirunelveli,Prime Bus Express,BharatBenz Sleeper,11:45,19:15,7h 30m,630,1636,Vandalur,Junction,45,19,"AC,Live Tracking",Weekdays,4.9
+BUS0398,Prime Bus,R013,Chennai,Puducherry,Prime Bus Express,Volvo Multi Axle,10:45,19:45,9h 0m,170,597,Vandalur,New Bus Stand,45,19,"Luxury Seat,WiFi",Daily,4.7
+BUS0399,SkyBus,R013,Chennai,Puducherry,SkyBus Express,AC Sleeper,12:45,20:15,7h 30m,170,529,Tambaram,New Bus Stand,40,16,"AC,Blanket,Pillow",Weekdays,4.2
+BUS0400,Star Line,R023,Puducherry,Chennai,Star Line Express,Volvo Multi Axle,09:15,20:00,10h 45m,170,773,New Bus Stand,Koyambedu,40,20,"Luxury Seat,WiFi",Daily,4.2
+BUS0401,Metro Connect,R013,Chennai,Puducherry,Metro Connect Express,AC Sleeper,17:15,23:45,6h 30m,170,696,Perungalathur,New Bus Stand,45,30,"Blanket,Pillow,Water",Weekdays,3.9
+BUS0402,SkyBus,R021,Tirunelveli,Chennai,SkyBus Express,Semi Sleeper,22:45,09:15,10h 30m,630,1492,New Bus Stand,Tambaram,40,30,"AC,Blanket,Pillow",Weekends,4.6
+BUS0403,Star Line,R014,Chennai,Hosur,Star Line Express,Semi Sleeper,21:15,04:15,7h 0m,310,976,Chengalpattu,Bus Stand,40,9,"AC,Blanket,Pillow",Weekends,4.5
+BUS0404,Southern Express,R024,Bengaluru,Chennai,Southern Express Express,AC Seater,02:30,09:00,6h 30m,345,981,Electronic City,Koyambedu,45,11,"AC,WiFi,Charging",Weekends,4.7
+BUS0405,Southern Express,R021,Tirunelveli,Chennai,Southern Express Express,BharatBenz Sleeper,08:15,17:00,8h 45m,630,1644,New Bus Stand,Perungalathur,40,18,"Luxury Seat,WiFi",Weekdays,4.9
+BUS0406,Blue Bird,R007,Chennai,Tirunelveli,Blue Bird Express,BharatBenz Sleeper,06:30,16:30,10h 0m,630,1498,Perungalathur,Junction,36,18,"Charging,Reading Light",Weekends,4.7
+BUS0407,Blue Bird,R020,Trichy,Chennai,Blue Bird Express,Volvo Multi Axle,12:00,22:15,10h 15m,330,987,Central Bus Stand,Perungalathur,45,18,"AC,WiFi,Charging",Weekends,4.8
+BUS0408,Blue Bird,R017,Madurai,Chennai,Blue Bird Express,Semi Sleeper,23:45,08:00,8h 15m,460,1187,Periyar Bus Stand,Guindy,40,1,"AC,Blanket,Pillow",Daily,4.8
+BUS0409,Fast Wheels,R020,Trichy,Chennai,Fast Wheels Express,Semi Sleeper,22:00,04:00,6h 0m,330,1062,Central Bus Stand,Koyambedu,45,29,"Charging,Reading Light",Daily,4.8
+BUS0410,Fast Wheels,R025,Tirupati,Chennai,Fast Wheels Express,BharatBenz Sleeper,06:45,11:00,4h 15m,150,531,Central Bus Stand,Koyambedu,40,16,"Charging,Reading Light",Daily,4.0
+BUS0411,Comfort Bus,R014,Chennai,Hosur,Comfort Bus Express,Volvo Multi Axle,22:15,05:00,6h 45m,310,804,Vandalur,Bus Stand,40,6,"Charging,Reading Light",Weekends,4.6
+BUS0412,City Link,R023,Puducherry,Chennai,City Link Express,Non AC Sleeper,01:15,13:45,12h 30m,170,516,New Bus Stand,Tambaram,40,13,"Luxury Seat,WiFi",Weekends,3.9
+BUS0413,Elite Travels,R005,Chennai,Erode,Elite Travels Express,Volvo Multi Axle,18:30,04:30,10h 0m,400,1223,Vandalur,Central Bus Stand,45,15,"GPS,USB Charging",Daily,4.2
+BUS0414,Rainbow Coaches,R005,Chennai,Erode,Rainbow Coaches Express,Semi Sleeper,18:45,04:15,9h 30m,400,1199,Vandalur,Central Bus Stand,40,25,"Luxury Seat,WiFi",Weekends,4.7
+BUS0415,Metro Connect,R007,Chennai,Tirunelveli,Metro Connect Express,BharatBenz Sleeper,17:15,21:30,4h 15m,630,1579,Guindy,New Bus Stand,40,32,"Charging,Reading Light",Weekends,4.1
+BUS0416,Elite Travels,R013,Chennai,Puducherry,Elite Travels Express,Luxury Sleeper,15:30,19:45,4h 15m,170,559,Guindy,New Bus Stand,45,2,"AC,WiFi,Charging",Weekends,4.1
+BUS0417,Galaxy Bus,R018,Coimbatore,Chennai,Galaxy Bus Express,Non AC Sleeper,14:30,23:00,8h 30m,510,1488,Gandhipuram,Tambaram,40,7,"WiFi,Charging,Water",Weekdays,4.4
+BUS0418,Elite Travels,R004,Chennai,Salem,Elite Travels Express,Volvo Multi Axle,12:30,01:15,12h 45m,345,1027,Chengalpattu,New Bus Stand,36,29,"GPS,USB Charging",Daily,4.1
+BUS0419,Comfort Bus,R012,Chennai,Karaikudi,Comfort Bus Express,Semi Sleeper,08:45,18:30,9h 45m,410,1105,Guindy,Bus Stand,45,8,"AC,Blanket,Pillow",Daily,4.0
+BUS0420,Sunrise Coaches,R016,Chennai,Tirupati,Sunrise Coaches Express,BharatBenz Sleeper,16:00,21:15,5h 15m,150,689,Koyambedu,Central Bus Stand,45,19,"Luxury Seat,WiFi",Daily,4.8
+BUS0421,Southern Express,R005,Chennai,Erode,Southern Express Express,AC Seater,15:45,01:30,9h 45m,400,1031,Tambaram,Central Bus Stand,45,13,"Charging,Reading Light",Weekends,4.3
+BUS0422,Blue Bird,R020,Trichy,Chennai,Blue Bird Express,Non AC Seater,03:45,07:00,3h 15m,330,914,Chathiram Bus Stand,Tambaram,36,36,"AC,Blanket,Pillow",Weekends,3.9
+BUS0423,Express King,R008,Chennai,Nagercoil,Express King Express,AC Sleeper,13:15,22:45,9h 30m,705,1727,Vandalur,Vadasery Bus Stand,45,23,"WiFi,Charging,Water",Daily,4.2
+BUS0424,Metro Connect,R005,Chennai,Erode,Metro Connect Express,Luxury Sleeper,05:00,12:00,7h 0m,400,1209,Koyambedu,Central Bus Stand,40,17,"AC,WiFi,Charging",Weekdays,3.9
+BUS0425,Happy Journey,R019,Salem,Chennai,Happy Journey Express,Luxury Sleeper,06:30,18:45,12h 15m,345,1119,New Bus Stand,Tambaram,45,2,"Charging,Reading Light",Daily,4.0
+BUS0426,Prime Bus,R002,Chennai,Coimbatore,Prime Bus Express,Luxury Sleeper,03:00,14:30,11h 30m,510,1366,Guindy,Ukkadam,40,34,"Charging,Reading Light",Weekdays,4.2
+BUS0427,Smart Coach,R001,Chennai,Madurai,Smart Coach Express,Non AC Sleeper,01:45,10:15,8h 30m,460,1187,Chengalpattu,Periyar Bus Stand,40,31,"Charging,Reading Light",Daily,4.8
+BUS0428,Royal Rider,R025,Tirupati,Chennai,Royal Rider Express,Semi Sleeper,16:45,01:45,9h 0m,150,511,Central Bus Stand,Tambaram,45,33,"AC,Live Tracking",Weekends,4.9
+BUS0429,Southern Express,R007,Chennai,Tirunelveli,Southern Express Express,Volvo Multi Axle,11:15,21:30,10h 15m,630,1592,Chengalpattu,New Bus Stand,36,12,"GPS,USB Charging",Weekends,4.3
+BUS0430,City Link,R011,Chennai,Dindigul,City Link Express,AC Seater,19:45,04:00,8h 15m,420,1315,Vandalur,Bus Stand,40,8,"GPS,USB Charging",Weekends,4.5
+BUS0431,City Link,R022,Nagercoil,Chennai,City Link Express,AC Seater,01:15,06:15,5h 0m,705,1722,Vadasery Bus Stand,Perungalathur,45,22,"GPS,USB Charging",Weekends,4.5
+BUS0432,Smart Coach,R017,Madurai,Chennai,Smart Coach Express,Non AC Seater,15:15,00:00,8h 45m,460,1303,Mattuthavani,Vandalur,40,20,"AC,Live Tracking",Daily,3.9
+BUS0433,Metro Connect,R004,Chennai,Salem,Metro Connect Express,Semi Sleeper,14:30,23:00,8h 30m,345,1074,Chengalpattu,New Bus Stand,45,1,"AC,WiFi,Charging",Daily,4.8
+BUS0434,SkyBus,R006,Chennai,Tiruppur,SkyBus Express,BharatBenz Sleeper,21:00,03:00,6h 0m,475,1173,Vandalur,Avinashi,36,4,"AC,Live Tracking",Weekdays,4.1
+BUS0435,Elite Travels,R023,Puducherry,Chennai,Elite Travels Express,Volvo Multi Axle,03:00,12:00,9h 0m,170,506,New Bus Stand,Koyambedu,36,25,"Charging,Reading Light",Weekends,4.5
+BUS0436,Golden Route,R013,Chennai,Puducherry,Golden Route Express,AC Sleeper,16:00,22:45,6h 45m,170,760,Koyambedu,New Bus Stand,40,1,"Blanket,Pillow,Water",Weekends,4.7
+BUS0437,Express King,R014,Chennai,Hosur,Express King Express,AC Seater,22:45,07:00,8h 15m,310,980,Vandalur,Bus Stand,45,35,"WiFi,Charging,Water",Weekdays,4.1
+BUS0438,Sunrise Coaches,R023,Puducherry,Chennai,Sunrise Coaches Express,Non AC Sleeper,02:15,11:45,9h 30m,170,494,New Bus Stand,Perungalathur,40,3,"AC,Blanket,Pillow",Daily,4.3
+BUS0439,Comfort Bus,R001,Chennai,Madurai,Comfort Bus Express,AC Seater,07:00,15:45,8h 45m,460,1226,Vandalur,Mattuthavani Bus Stand,36,32,"Blanket,Pillow,Water",Weekends,4.0
+BUS0440,Smart Coach,R014,Chennai,Hosur,Smart Coach Express,AC Seater,19:45,05:45,10h 0m,310,867,Koyambedu,Bus Stand,45,22,"WiFi,Charging,Water",Daily,4.3
+BUS0441,Sunrise Coaches,R025,Tirupati,Chennai,Sunrise Coaches Express,AC Seater,22:15,02:45,4h 30m,150,642,Central Bus Stand,Vandalur,40,23,"WiFi,Charging,Water",Daily,4.4
+BUS0442,Prime Bus,R013,Chennai,Puducherry,Prime Bus Express,Volvo Multi Axle,00:45,05:15,4h 30m,170,699,Tambaram,New Bus Stand,45,30,"Blanket,Pillow,Water",Weekdays,4.0
+BUS0443,Rainbow Coaches,R015,Chennai,Bengaluru,Rainbow Coaches Express,Semi Sleeper,03:00,13:30,10h 30m,345,1052,Koyambedu,Kempegowda Bus Station,45,4,"Charging,Reading Light",Weekends,4.5
+BUS0444,Comfort Bus,R007,Chennai,Tirunelveli,Comfort Bus Express,BharatBenz Sleeper,16:15,19:15,3h 0m,630,1663,Perungalathur,New Bus Stand,36,13,"Charging,Reading Light",Weekends,3.9
+BUS0445,GreenLine Travels,R025,Tirupati,Chennai,GreenLine Travels Express,Non AC Seater,12:15,17:45,5h 30m,150,479,Central Bus Stand,Tambaram,36,31,"Luxury Seat,WiFi",Weekdays,4.0
+BUS0446,Express King,R012,Chennai,Karaikudi,Express King Express,Luxury Sleeper,13:30,01:45,12h 15m,410,1004,Guindy,Bus Stand,36,4,"WiFi,Charging,Water",Daily,4.9
+BUS0447,GreenLine Travels,R007,Chennai,Tirunelveli,GreenLine Travels Express,Luxury Sleeper,00:45,06:15,5h 30m,630,1535,Koyambedu,New Bus Stand,45,28,"GPS,USB Charging",Weekdays,4.0
+BUS0448,SkyBus,R008,Chennai,Nagercoil,SkyBus Express,AC Seater,05:00,08:15,3h 15m,705,1791,Vandalur,Vadasery Bus Stand,40,8,"Charging,Reading Light",Weekends,4.6
+BUS0449,Sunrise Coaches,R019,Salem,Chennai,Sunrise Coaches Express,Volvo Multi Axle,16:45,00:15,7h 30m,345,1060,Old Bus Stand,Guindy,40,7,"AC,Live Tracking",Daily,4.3
+BUS0450,Victory Travels,R020,Trichy,Chennai,Victory Travels Express,Non AC Sleeper,01:45,14:30,12h 45m,330,957,Central Bus Stand,Guindy,36,15,"WiFi,Charging,Water",Weekends,4.8
+BUS0451,Prime Bus,R003,Chennai,Trichy,Prime Bus Express,Luxury Sleeper,15:00,20:45,5h 45m,330,976,Tambaram,Srirangam,45,8,"Blanket,Pillow,Water",Daily,4.3
+BUS0452,Happy Journey,R005,Chennai,Erode,Happy Journey Express,Semi Sleeper,06:15,11:30,5h 15m,400,1057,Chengalpattu,Central Bus Stand,36,23,"AC,Live Tracking",Weekends,4.1
+BUS0453,Express King,R006,Chennai,Tiruppur,Express King Express,Volvo Multi Axle,10:15,14:45,4h 30m,475,1383,Perungalathur,New Bus Stand,45,2,"AC,Live Tracking",Weekends,4.3
+BUS0454,Galaxy Bus,R006,Chennai,Tiruppur,Galaxy Bus Express,AC Sleeper,09:00,16:45,7h 45m,475,1399,Koyambedu,New Bus Stand,36,15,"Charging,Reading Light",Daily,4.1
+BUS0455,Express King,R001,Chennai,Madurai,Express King Express,Semi Sleeper,12:00,16:15,4h 15m,460,1116,Vandalur,Mattuthavani Bus Stand,45,4,"Charging,Reading Light",Daily,4.3
+BUS0456,Star Line,R007,Chennai,Tirunelveli,Star Line Express,Non AC Sleeper,16:45,02:15,9h 30m,630,1725,Vandalur,New Bus Stand,36,29,"Blanket,Pillow,Water",Weekdays,4.0
+BUS0457,Sunrise Coaches,R014,Chennai,Hosur,Sunrise Coaches Express,BharatBenz Sleeper,13:00,20:30,7h 30m,310,820,Guindy,Bus Stand,45,34,"AC,Blanket,Pillow",Weekdays,3.9
+BUS0458,Galaxy Bus,R022,Nagercoil,Chennai,Galaxy Bus Express,BharatBenz Sleeper,03:45,11:00,7h 15m,705,1746,Vadasery Bus Stand,Tambaram,40,30,"WiFi,Charging,Water",Daily,3.9
+BUS0459,Southern Express,R020,Trichy,Chennai,Southern Express Express,AC Sleeper,16:45,03:00,10h 15m,330,985,Central Bus Stand,Tambaram,40,26,"Charging,Reading Light",Weekdays,4.6
+BUS0460,City Link,R016,Chennai,Tirupati,City Link Express,Non AC Sleeper,04:30,14:15,9h 45m,150,442,Perungalathur,Central Bus Stand,40,7,"Charging,Reading Light",Daily,4.8
+BUS0461,Elite Travels,R006,Chennai,Tiruppur,Elite Travels Express,BharatBenz Sleeper,12:45,18:45,6h 0m,475,1151,Chengalpattu,Avinashi,36,25,"AC,Live Tracking",Weekends,4.8
+BUS0462,Metro Connect,R011,Chennai,Dindigul,Metro Connect Express,Luxury Sleeper,02:45,08:45,6h 0m,420,1091,Koyambedu,Bus Stand,45,34,"AC,Blanket,Pillow",Daily,4.4
+BUS0463,Rainbow Coaches,R004,Chennai,Salem,Rainbow Coaches Express,Semi Sleeper,22:15,05:00,6h 45m,345,1139,Chengalpattu,New Bus Stand,36,22,"AC,Blanket,Pillow",Daily,4.4
+BUS0464,Elite Travels,R009,Chennai,Kanyakumari,Elite Travels Express,AC Seater,18:30,02:00,7h 30m,710,1696,Perungalathur,Bus Stand,36,17,"GPS,USB Charging",Weekdays,4.8
+BUS0465,Metro Connect,R022,Nagercoil,Chennai,Metro Connect Express,AC Seater,10:15,18:30,8h 15m,705,1749,Vadasery Bus Stand,Guindy,40,33,"Blanket,Pillow,Water",Weekdays,4.5
+BUS0466,Smart Coach,R007,Chennai,Tirunelveli,Smart Coach Express,BharatBenz Sleeper,14:45,21:00,6h 15m,630,1585,Tambaram,Junction,40,36,"AC,WiFi,Charging",Daily,4.6
+BUS0467,City Link,R011,Chennai,Dindigul,City Link Express,AC Sleeper,09:30,15:00,5h 30m,420,1143,Guindy,Bus Stand,36,1,"AC,Live Tracking",Daily,3.8
+BUS0468,Southern Express,R015,Chennai,Bengaluru,Southern Express Express,Volvo Multi Axle,13:15,18:15,5h 0m,345,993,Vandalur,Kempegowda Bus Station,45,17,"GPS,USB Charging",Weekdays,4.8
+BUS0469,Star Line,R022,Nagercoil,Chennai,Star Line Express,Non AC Sleeper,16:45,21:45,5h 0m,705,1840,Vadasery Bus Stand,Tambaram,45,7,"AC,WiFi,Charging",Weekends,4.4
+BUS0470,Blue Bird,R009,Chennai,Kanyakumari,Blue Bird Express,Non AC Seater,21:30,04:15,6h 45m,710,1962,Chengalpattu,Bus Stand,45,12,"Charging,Reading Light",Weekends,4.5
+BUS0471,Comfort Bus,R017,Madurai,Chennai,Comfort Bus Express,Semi Sleeper,23:30,07:45,8h 15m,460,1266,Periyar Bus Stand,Guindy,40,32,"AC,WiFi,Charging",Weekdays,4.7
+BUS0472,Fast Wheels,R021,Tirunelveli,Chennai,Fast Wheels Express,Luxury Sleeper,02:00,12:45,10h 45m,630,1596,New Bus Stand,Tambaram,45,22,"AC,Blanket,Pillow",Daily,4.2
+BUS0473,Galaxy Bus,R001,Chennai,Madurai,Galaxy Bus Express,Non AC Seater,13:00,22:30,9h 30m,460,1134,Perungalathur,Mattuthavani Bus Stand,45,16,"AC,WiFi,Charging",Weekdays,3.8
+BUS0474,Golden Route,R022,Nagercoil,Chennai,Golden Route Express,Luxury Sleeper,13:15,19:30,6h 15m,705,1773,Vadasery Bus Stand,Tambaram,40,27,"GPS,USB Charging",Weekdays,3.8
+BUS0475,Fast Wheels,R017,Madurai,Chennai,Fast Wheels Express,Luxury Sleeper,06:30,11:15,4h 45m,460,1205,Periyar Bus Stand,Perungalathur,40,15,"WiFi,Charging,Water",Weekdays,4.8
+BUS0476,Sunrise Coaches,R010,Chennai,Thanjavur,Sunrise Coaches Express,BharatBenz Sleeper,20:30,06:15,9h 45m,350,1088,Koyambedu,New Bus Stand,40,1,"AC,Blanket,Pillow",Daily,4.2
+BUS0477,City Link,R020,Trichy,Chennai,City Link Express,BharatBenz Sleeper,23:15,06:30,7h 15m,330,935,Chathiram Bus Stand,Vandalur,36,29,"Charging,Reading Light",Weekends,4.2
+BUS0478,Comfort Bus,R017,Madurai,Chennai,Comfort Bus Express,AC Sleeper,11:15,15:15,4h 0m,460,1381,Mattuthavani,Perungalathur,45,7,"Blanket,Pillow,Water",Daily,4.8
+BUS0479,Galaxy Bus,R010,Chennai,Thanjavur,Galaxy Bus Express,BharatBenz Sleeper,01:15,08:30,7h 15m,350,903,Perungalathur,New Bus Stand,45,32,"Blanket,Pillow,Water",Weekends,4.2
+BUS0480,SkyBus,R006,Chennai,Tiruppur,SkyBus Express,Volvo Multi Axle,17:15,20:45,3h 30m,475,1153,Vandalur,New Bus Stand,36,5,"Blanket,Pillow,Water",Daily,4.2
+BUS0481,Royal Rider,R012,Chennai,Karaikudi,Royal Rider Express,Volvo Multi Axle,11:30,23:15,11h 45m,410,1169,Perungalathur,Bus Stand,40,15,"Blanket,Pillow,Water",Weekdays,4.9
+BUS0482,Southern Express,R001,Chennai,Madurai,Southern Express Express,AC Seater,08:30,17:00,8h 30m,460,1155,Guindy,Periyar Bus Stand,45,2,"Blanket,Pillow,Water",Daily,5.0
+BUS0483,Blue Bird,R001,Chennai,Madurai,Blue Bird Express,Semi Sleeper,20:00,23:30,3h 30m,460,1174,Guindy,Anna Nagar,45,14,"Charging,Reading Light",Weekends,4.8
+BUS0484,Golden Route,R002,Chennai,Coimbatore,Golden Route Express,Semi Sleeper,10:45,14:15,3h 30m,510,1384,Koyambedu,Singanallur,40,31,"AC,Blanket,Pillow",Weekdays,4.6
+BUS0485,Metro Connect,R022,Nagercoil,Chennai,Metro Connect Express,BharatBenz Sleeper,15:45,02:15,10h 30m,705,1872,Vadasery Bus Stand,Vandalur,45,27,"Luxury Seat,WiFi",Weekdays,4.9
+BUS0486,Metro Connect,R023,Puducherry,Chennai,Metro Connect Express,Non AC Seater,01:15,11:00,9h 45m,170,496,New Bus Stand,Guindy,45,26,"AC,Blanket,Pillow",Daily,4.6
+BUS0487,Happy Journey,R002,Chennai,Coimbatore,Happy Journey Express,Luxury Sleeper,23:00,09:15,10h 15m,510,1431,Vandalur,Singanallur,40,30,"Luxury Seat,WiFi",Daily,3.9
+BUS0488,Metro Connect,R003,Chennai,Trichy,Metro Connect Express,AC Sleeper,03:15,14:00,10h 45m,330,846,Tambaram,Chathiram Bus Stand,36,1,"AC,Blanket,Pillow",Weekends,4.3
+BUS0489,Galaxy Bus,R006,Chennai,Tiruppur,Galaxy Bus Express,AC Sleeper,14:00,23:30,9h 30m,475,1282,Perungalathur,New Bus Stand,45,12,"AC,WiFi,Charging",Weekdays,4.0
+BUS0490,Southern Express,R018,Coimbatore,Chennai,Southern Express Express,Non AC Seater,20:15,06:00,9h 45m,510,1507,Ukkadam,Perungalathur,40,5,"AC,Blanket,Pillow",Weekdays,4.8
+BUS0491,Smart Coach,R016,Chennai,Tirupati,Smart Coach Express,Volvo Multi Axle,18:30,07:00,12h 30m,150,538,Tambaram,Central Bus Stand,45,7,"AC,Live Tracking",Weekdays,4.3
+BUS0492,City Link,R021,Tirunelveli,Chennai,City Link Express,Non AC Sleeper,01:15,04:15,3h 0m,630,1493,New Bus Stand,Guindy,36,22,"Charging,Reading Light",Weekdays,4.3
+BUS0493,Star Line,R013,Chennai,Puducherry,Star Line Express,AC Seater,07:00,15:30,8h 30m,170,586,Tambaram,New Bus Stand,40,23,"Charging,Reading Light",Weekends,4.7
+BUS0494,Metro Connect,R008,Chennai,Nagercoil,Metro Connect Express,Luxury Sleeper,07:45,19:45,12h 0m,705,1652,Koyambedu,Vadasery Bus Stand,36,3,"Blanket,Pillow,Water",Weekends,5.0
+BUS0495,City Link,R016,Chennai,Tirupati,City Link Express,AC Sleeper,19:30,05:00,9h 30m,150,642,Guindy,Central Bus Stand,36,27,"Blanket,Pillow,Water",Weekends,3.8
+BUS0496,Sunrise Coaches,R023,Puducherry,Chennai,Sunrise Coaches Express,BharatBenz Sleeper,05:30,17:30,12h 0m,170,500,New Bus Stand,Koyambedu,40,6,"AC,Blanket,Pillow",Daily,4.5
+BUS0497,Rainbow Coaches,R010,Chennai,Thanjavur,Rainbow Coaches Express,Semi Sleeper,19:30,23:45,4h 15m,350,1004,Chengalpattu,New Bus Stand,45,26,"AC,WiFi,Charging",Daily,4.5
+BUS0498,Prime Bus,R012,Chennai,Karaikudi,Prime Bus Express,Non AC Seater,15:00,03:30,12h 30m,410,1182,Perungalathur,Bus Stand,40,17,"AC,Blanket,Pillow",Weekdays,4.4
+BUS0499,Galaxy Bus,R020,Trichy,Chennai,Galaxy Bus Express,Semi Sleeper,12:45,17:45,5h 0m,330,1070,Chathiram Bus Stand,Vandalur,40,10,"AC,Blanket,Pillow",Weekends,4.0
+BUS0500,Southern Express,R001,Chennai,Madurai,Southern Express Express,AC Seater,01:30,06:30,5h 0m,460,1320,Chengalpattu,Anna Nagar,45,35,"AC,Live Tracking",Weekdays,3.8
+BUS0501,SkyBus,R005,Chennai,Erode,SkyBus Express,BharatBenz Sleeper,22:45,06:45,8h 0m,400,1206,Tambaram,Central Bus Stand,45,11,"GPS,USB Charging",Daily,4.2
+BUS0502,Comfort Bus,R011,Chennai,Dindigul,Comfort Bus Express,AC Seater,00:15,04:15,4h 0m,420,1322,Chengalpattu,Bus Stand,40,14,"GPS,USB Charging",Daily,4.3
+BUS0503,Happy Journey,R004,Chennai,Salem,Happy Journey Express,Semi Sleeper,04:00,14:15,10h 15m,345,1121,Perungalathur,New Bus Stand,40,26,"Charging,Reading Light",Weekends,4.2
+BUS0504,Royal Rider,R017,Madurai,Chennai,Royal Rider Express,Luxury Sleeper,17:15,04:15,11h 0m,460,1236,Periyar Bus Stand,Perungalathur,36,4,"GPS,USB Charging",Daily,4.9
+BUS0505,Southern Express,R008,Chennai,Nagercoil,Southern Express Express,Luxury Sleeper,08:00,13:30,5h 30m,705,1819,Guindy,Vadasery Bus Stand,45,22,"WiFi,Charging,Water",Weekdays,3.9
+BUS0506,Galaxy Bus,R009,Chennai,Kanyakumari,Galaxy Bus Express,BharatBenz Sleeper,19:15,00:30,5h 15m,710,1771,Tambaram,Bus Stand,45,21,"Charging,Reading Light",Weekends,4.8
+BUS0507,Fast Wheels,R004,Chennai,Salem,Fast Wheels Express,Volvo Multi Axle,07:15,19:30,12h 15m,345,876,Tambaram,New Bus Stand,36,33,"WiFi,Charging,Water",Weekdays,4.4
+BUS0508,Southern Express,R010,Chennai,Thanjavur,Southern Express Express,AC Sleeper,06:30,13:45,7h 15m,350,1121,Perungalathur,New Bus Stand,40,2,"GPS,USB Charging",Weekends,4.6
+BUS0509,Fast Wheels,R003,Chennai,Trichy,Fast Wheels Express,BharatBenz Sleeper,21:00,05:30,8h 30m,330,1100,Tambaram,Central Bus Stand,40,31,"GPS,USB Charging",Daily,4.5
+BUS0510,Smart Coach,R015,Chennai,Bengaluru,Smart Coach Express,Non AC Seater,08:00,17:45,9h 45m,345,1089,Vandalur,Electronic City,45,2,"Blanket,Pillow,Water",Daily,4.7
+BUS0511,City Link,R018,Coimbatore,Chennai,City Link Express,Volvo Multi Axle,20:30,04:00,7h 30m,510,1435,Ukkadam,Perungalathur,36,6,"Luxury Seat,WiFi",Weekends,4.3
+BUS0512,Elite Travels,R020,Trichy,Chennai,Elite Travels Express,Luxury Sleeper,11:15,14:45,3h 30m,330,961,Chathiram Bus Stand,Guindy,40,26,"WiFi,Charging,Water",Weekends,4.0
+BUS0513,Smart Coach,R017,Madurai,Chennai,Smart Coach Express,Luxury Sleeper,23:30,05:45,6h 15m,460,1159,Mattuthavani,Perungalathur,45,31,"AC,WiFi,Charging",Weekends,4.5
+BUS0514,GreenLine Travels,R007,Chennai,Tirunelveli,GreenLine Travels Express,BharatBenz Sleeper,02:45,15:15,12h 30m,630,1736,Perungalathur,Junction,45,25,"WiFi,Charging,Water",Weekends,4.9
+BUS0515,City Link,R024,Bengaluru,Chennai,City Link Express,Non AC Sleeper,21:15,04:45,7h 30m,345,1079,Electronic City,Guindy,36,12,"GPS,USB Charging",Weekends,4.9
+BUS0516,Comfort Bus,R009,Chennai,Kanyakumari,Comfort Bus Express,Luxury Sleeper,15:45,20:30,4h 45m,710,1921,Tambaram,Bus Stand,45,7,"WiFi,Charging,Water",Weekdays,4.0
+BUS0517,Fast Wheels,R005,Chennai,Erode,Fast Wheels Express,AC Sleeper,04:15,10:15,6h 0m,400,1141,Chengalpattu,Perundurai,45,5,"AC,WiFi,Charging",Weekdays,4.1
+BUS0518,Prime Bus,R011,Chennai,Dindigul,Prime Bus Express,BharatBenz Sleeper,09:45,16:45,7h 0m,420,1218,Vandalur,Bus Stand,36,14,"Luxury Seat,WiFi",Weekends,4.1
+BUS0519,Smart Coach,R004,Chennai,Salem,Smart Coach Express,BharatBenz Sleeper,21:45,02:15,4h 30m,345,999,Chengalpattu,New Bus Stand,40,14,"Blanket,Pillow,Water",Weekdays,4.4
+BUS0520,SkyBus,R006,Chennai,Tiruppur,SkyBus Express,Volvo Multi Axle,00:15,06:30,6h 15m,475,1304,Tambaram,New Bus Stand,36,13,"Luxury Seat,WiFi",Weekdays,4.8
+BUS0521,Elite Travels,R015,Chennai,Bengaluru,Elite Travels Express,Semi Sleeper,08:30,12:00,3h 30m,345,972,Chengalpattu,Kempegowda Bus Station,40,13,"AC,WiFi,Charging",Weekends,4.2
+BUS0522,Metro Connect,R002,Chennai,Coimbatore,Metro Connect Express,BharatBenz Sleeper,02:45,14:45,12h 0m,510,1436,Chengalpattu,Gandhipuram,40,33,"Luxury Seat,WiFi",Daily,4.4
+BUS0523,Victory Travels,R021,Tirunelveli,Chennai,Victory Travels Express,AC Seater,17:30,00:30,7h 0m,630,1744,New Bus Stand,Vandalur,36,32,"AC,WiFi,Charging",Weekends,4.2
+BUS0524,Galaxy Bus,R006,Chennai,Tiruppur,Galaxy Bus Express,AC Sleeper,19:45,04:30,8h 45m,475,1378,Tambaram,Avinashi,40,34,"AC,Blanket,Pillow",Weekdays,4.7
+BUS0525,Fast Wheels,R023,Puducherry,Chennai,Fast Wheels Express,Non AC Sleeper,00:30,12:30,12h 0m,170,492,New Bus Stand,Koyambedu,45,8,"WiFi,Charging,Water",Weekdays,4.2
+BUS0526,Prime Bus,R008,Chennai,Nagercoil,Prime Bus Express,Semi Sleeper,19:45,23:30,3h 45m,705,1730,Tambaram,Vadasery Bus Stand,36,1,"WiFi,Charging,Water",Daily,4.4
+BUS0527,Royal Rider,R022,Nagercoil,Chennai,Royal Rider Express,AC Sleeper,00:30,10:00,9h 30m,705,1863,Vadasery Bus Stand,Koyambedu,40,10,"AC,Blanket,Pillow",Daily,4.5
+BUS0528,Comfort Bus,R010,Chennai,Thanjavur,Comfort Bus Express,Semi Sleeper,05:00,14:30,9h 30m,350,1052,Vandalur,New Bus Stand,40,19,"AC,Live Tracking",Weekends,4.9
+BUS0529,Express King,R023,Puducherry,Chennai,Express King Express,Volvo Multi Axle,23:45,10:00,10h 15m,170,549,New Bus Stand,Perungalathur,40,8,"AC,Blanket,Pillow",Weekdays,4.5
+BUS0530,Smart Coach,R015,Chennai,Bengaluru,Smart Coach Express,Luxury Sleeper,23:45,10:45,11h 0m,345,923,Vandalur,Kempegowda Bus Station,40,36,"AC,WiFi,Charging",Weekends,4.7
+BUS0531,Happy Journey,R004,Chennai,Salem,Happy Journey Express,AC Seater,03:15,11:45,8h 30m,345,879,Chengalpattu,Old Bus Stand,45,16,"WiFi,Charging,Water",Weekdays,4.1
+BUS0532,Elite Travels,R012,Chennai,Karaikudi,Elite Travels Express,Semi Sleeper,21:00,03:00,6h 0m,410,1080,Guindy,Bus Stand,45,11,"Blanket,Pillow,Water",Daily,4.8
+BUS0533,Smart Coach,R010,Chennai,Thanjavur,Smart Coach Express,BharatBenz Sleeper,08:45,19:30,10h 45m,350,1003,Vandalur,New Bus Stand,40,19,"Charging,Reading Light",Daily,4.6
+BUS0534,Southern Express,R004,Chennai,Salem,Southern Express Express,Non AC Seater,11:15,16:15,5h 0m,345,968,Guindy,New Bus Stand,36,36,"Charging,Reading Light",Weekends,4.4
+BUS0535,Star Line,R020,Trichy,Chennai,Star Line Express,Semi Sleeper,20:30,07:00,10h 30m,330,1059,Central Bus Stand,Tambaram,45,29,"Luxury Seat,WiFi",Weekends,4.2
+BUS0536,Star Line,R024,Bengaluru,Chennai,Star Line Express,AC Sleeper,23:30,07:45,8h 15m,345,1110,Majestic,Koyambedu,40,24,"AC,Live Tracking",Weekdays,4.4
+BUS0537,Golden Route,R020,Trichy,Chennai,Golden Route Express,Non AC Sleeper,23:00,10:00,11h 0m,330,1073,Central Bus Stand,Koyambedu,36,17,"Blanket,Pillow,Water",Weekdays,3.9
+BUS0538,Rainbow Coaches,R002,Chennai,Coimbatore,Rainbow Coaches Express,Non AC Sleeper,17:15,00:45,7h 30m,510,1503,Koyambedu,Singanallur,36,30,"AC,Blanket,Pillow",Daily,3.9
+BUS0539,City Link,R011,Chennai,Dindigul,City Link Express,Luxury Sleeper,05:15,12:15,7h 0m,420,1108,Perungalathur,Bus Stand,45,5,"AC,WiFi,Charging",Weekends,4.3
+BUS0540,Royal Rider,R007,Chennai,Tirunelveli,Royal Rider Express,AC Sleeper,13:45,20:00,6h 15m,630,1611,Vandalur,New Bus Stand,40,8,"AC,Live Tracking",Weekends,4.8
+BUS0541,Southern Express,R016,Chennai,Tirupati,Southern Express Express,AC Seater,19:00,07:00,12h 0m,150,548,Perungalathur,Central Bus Stand,36,13,"Luxury Seat,WiFi",Weekends,4.3
+BUS0542,GreenLine Travels,R020,Trichy,Chennai,GreenLine Travels Express,AC Sleeper,18:30,06:45,12h 15m,330,969,Chathiram Bus Stand,Tambaram,36,10,"WiFi,Charging,Water",Weekdays,4.5
+BUS0543,Rainbow Coaches,R013,Chennai,Puducherry,Rainbow Coaches Express,BharatBenz Sleeper,08:15,11:15,3h 0m,170,483,Koyambedu,New Bus Stand,36,36,"Luxury Seat,WiFi",Daily,4.3
+BUS0544,Star Line,R018,Coimbatore,Chennai,Star Line Express,Luxury Sleeper,18:00,03:15,9h 15m,510,1315,Ukkadam,Vandalur,40,4,"GPS,USB Charging",Weekdays,3.9
+BUS0545,Smart Coach,R024,Bengaluru,Chennai,Smart Coach Express,BharatBenz Sleeper,07:30,16:45,9h 15m,345,1011,Electronic City,Perungalathur,45,16,"AC,WiFi,Charging",Weekdays,3.9
+BUS0546,Elite Travels,R003,Chennai,Trichy,Elite Travels Express,AC Sleeper,12:30,21:15,8h 45m,330,884,Tambaram,Chathiram Bus Stand,36,12,"AC,WiFi,Charging",Daily,4.7
+BUS0547,Rainbow Coaches,R019,Salem,Chennai,Rainbow Coaches Express,Non AC Seater,09:45,20:45,11h 0m,345,902,New Bus Stand,Vandalur,36,36,"Blanket,Pillow,Water",Weekends,4.8
+BUS0548,Southern Express,R022,Nagercoil,Chennai,Southern Express Express,Volvo Multi Axle,16:15,23:30,7h 15m,705,1903,Vadasery Bus Stand,Vandalur,45,12,"GPS,USB Charging",Daily,4.7
+BUS0549,Victory Travels,R012,Chennai,Karaikudi,Victory Travels Express,Non AC Seater,01:30,08:15,6h 45m,410,1038,Vandalur,Bus Stand,45,11,"AC,WiFi,Charging",Weekends,3.8
+BUS0550,Victory Travels,R020,Trichy,Chennai,Victory Travels Express,BharatBenz Sleeper,22:30,02:30,4h 0m,330,1007,Central Bus Stand,Guindy,45,19,"WiFi,Charging,Water",Weekends,5.0
+BUS0551,Fast Wheels,R024,Bengaluru,Chennai,Fast Wheels Express,AC Sleeper,02:45,12:15,9h 30m,345,1074,Kempegowda Bus Station,Tambaram,36,26,"AC,Live Tracking",Daily,4.1
+BUS0552,Sunrise Coaches,R005,Chennai,Erode,Sunrise Coaches Express,Luxury Sleeper,22:00,09:45,11h 45m,400,1115,Chengalpattu,Central Bus Stand,45,36,"Luxury Seat,WiFi",Daily,4.6
+BUS0553,Blue Bird,R017,Madurai,Chennai,Blue Bird Express,AC Sleeper,05:15,17:15,12h 0m,460,1179,Periyar Bus Stand,Vandalur,36,6,"Charging,Reading Light",Daily,4.1
+BUS0554,Fast Wheels,R011,Chennai,Dindigul,Fast Wheels Express,Non AC Seater,03:00,10:15,7h 15m,420,1131,Vandalur,Bus Stand,36,27,"GPS,USB Charging",Daily,4.5
+BUS0555,Comfort Bus,R023,Puducherry,Chennai,Comfort Bus Express,Semi Sleeper,22:45,09:30,10h 45m,170,632,New Bus Stand,Koyambedu,45,22,"AC,Blanket,Pillow",Weekdays,4.5
+BUS0556,Comfort Bus,R002,Chennai,Coimbatore,Comfort Bus Express,Non AC Seater,19:15,23:15,4h 0m,510,1423,Tambaram,Gandhipuram,40,8,"AC,Blanket,Pillow",Weekdays,4.8
+BUS0557,City Link,R012,Chennai,Karaikudi,City Link Express,Luxury Sleeper,08:15,19:45,11h 30m,410,1186,Koyambedu,Bus Stand,45,8,"AC,Live Tracking",Daily,4.7
+BUS0558,Victory Travels,R024,Bengaluru,Chennai,Victory Travels Express,Non AC Seater,23:45,12:00,12h 15m,345,957,Majestic,Perungalathur,45,19,"Blanket,Pillow,Water",Weekends,5.0
+BUS0559,Elite Travels,R016,Chennai,Tirupati,Elite Travels Express,Semi Sleeper,11:45,17:15,5h 30m,150,584,Guindy,Central Bus Stand,36,15,"Luxury Seat,WiFi",Weekends,4.0
+BUS0560,Blue Bird,R001,Chennai,Madurai,Blue Bird Express,AC Sleeper,11:15,20:45,9h 30m,460,1204,Perungalathur,Mattuthavani Bus Stand,40,1,"AC,Live Tracking",Weekends,4.9
+BUS0561,Fast Wheels,R018,Coimbatore,Chennai,Fast Wheels Express,AC Seater,19:00,07:30,12h 30m,510,1418,Gandhipuram,Koyambedu,45,29,"GPS,USB Charging",Daily,4.4
+BUS0562,Smart Coach,R016,Chennai,Tirupati,Smart Coach Express,Non AC Sleeper,05:30,11:45,6h 15m,150,480,Perungalathur,Central Bus Stand,45,13,"Blanket,Pillow,Water",Weekends,4.0
+BUS0563,Royal Rider,R014,Chennai,Hosur,Royal Rider Express,AC Sleeper,03:30,12:30,9h 0m,310,828,Vandalur,Bus Stand,45,1,"AC,Blanket,Pillow",Weekends,4.5
+BUS0564,Rainbow Coaches,R005,Chennai,Erode,Rainbow Coaches Express,Volvo Multi Axle,04:00,11:15,7h 15m,400,1128,Perungalathur,Central Bus Stand,36,6,"AC,Live Tracking",Daily,4.8
+BUS0565,City Link,R008,Chennai,Nagercoil,City Link Express,Volvo Multi Axle,08:00,15:15,7h 15m,705,1846,Perungalathur,Vadasery Bus Stand,40,28,"Blanket,Pillow,Water",Weekdays,4.8
+BUS0566,Royal Rider,R004,Chennai,Salem,Royal Rider Express,AC Seater,10:30,21:30,11h 0m,345,1027,Chengalpattu,New Bus Stand,36,34,"GPS,USB Charging",Daily,3.8
+BUS0567,Comfort Bus,R002,Chennai,Coimbatore,Comfort Bus Express,AC Sleeper,09:15,19:15,10h 0m,510,1459,Vandalur,Ukkadam,36,23,"AC,WiFi,Charging",Weekends,4.0
+BUS0568,GreenLine Travels,R015,Chennai,Bengaluru,GreenLine Travels Express,Non AC Sleeper,07:45,11:45,4h 0m,345,1131,Vandalur,Electronic City,40,10,"GPS,USB Charging",Weekdays,4.7
+BUS0569,Southern Express,R021,Tirunelveli,Chennai,Southern Express Express,Semi Sleeper,16:30,04:30,12h 0m,630,1756,New Bus Stand,Koyambedu,45,9,"AC,Live Tracking",Weekdays,4.2
+BUS0570,Elite Travels,R013,Chennai,Puducherry,Elite Travels Express,BharatBenz Sleeper,11:15,17:30,6h 15m,170,714,Tambaram,New Bus Stand,45,17,"AC,Live Tracking",Weekends,4.1
+BUS0571,Royal Rider,R018,Coimbatore,Chennai,Royal Rider Express,Semi Sleeper,04:30,08:00,3h 30m,510,1283,Gandhipuram,Guindy,40,6,"AC,Blanket,Pillow",Weekdays,4.6
+BUS0572,SkyBus,R021,Tirunelveli,Chennai,SkyBus Express,Volvo Multi Axle,05:30,13:00,7h 30m,630,1607,New Bus Stand,Vandalur,36,11,"Charging,Reading Light",Weekends,4.0
+BUS0573,Blue Bird,R010,Chennai,Thanjavur,Blue Bird Express,BharatBenz Sleeper,14:00,19:30,5h 30m,350,953,Guindy,New Bus Stand,40,4,"Charging,Reading Light",Weekdays,4.3
+BUS0574,Express King,R003,Chennai,Trichy,Express King Express,Luxury Sleeper,19:00,06:30,11h 30m,330,908,Guindy,Chathiram Bus Stand,36,18,"AC,Live Tracking",Weekends,3.9
+BUS0575,Southern Express,R021,Tirunelveli,Chennai,Southern Express Express,Non AC Seater,14:45,20:15,5h 30m,630,1530,New Bus Stand,Guindy,40,21,"Charging,Reading Light",Weekdays,4.1
+BUS0576,Galaxy Bus,R007,Chennai,Tirunelveli,Galaxy Bus Express,Semi Sleeper,01:00,08:30,7h 30m,630,1676,Tambaram,New Bus Stand,45,34,"WiFi,Charging,Water",Weekends,4.5
+BUS0577,GreenLine Travels,R023,Puducherry,Chennai,GreenLine Travels Express,AC Seater,23:00,04:15,5h 15m,170,712,New Bus Stand,Tambaram,36,29,"Luxury Seat,WiFi",Weekends,4.1
+BUS0578,Sunrise Coaches,R007,Chennai,Tirunelveli,Sunrise Coaches Express,Non AC Seater,00:00,12:45,12h 45m,630,1586,Vandalur,New Bus Stand,45,26,"WiFi,Charging,Water",Daily,4.6
+BUS0579,Happy Journey,R022,Nagercoil,Chennai,Happy Journey Express,AC Seater,06:15,12:15,6h 0m,705,1749,Vadasery Bus Stand,Guindy,40,15,"Charging,Reading Light",Daily,4.6
+BUS0580,Metro Connect,R015,Chennai,Bengaluru,Metro Connect Express,BharatBenz Sleeper,19:15,08:00,12h 45m,345,1077,Tambaram,Electronic City,40,11,"AC,Live Tracking",Weekdays,4.1
+BUS0581,Victory Travels,R010,Chennai,Thanjavur,Victory Travels Express,AC Seater,02:30,14:00,11h 30m,350,1105,Chengalpattu,New Bus Stand,45,32,"Charging,Reading Light",Weekdays,4.8
+BUS0582,Galaxy Bus,R005,Chennai,Erode,Galaxy Bus Express,AC Seater,13:45,20:30,6h 45m,400,1042,Vandalur,Perundurai,40,36,"GPS,USB Charging",Weekdays,4.7
+BUS0583,SkyBus,R013,Chennai,Puducherry,SkyBus Express,Volvo Multi Axle,17:15,01:00,7h 45m,170,685,Vandalur,New Bus Stand,45,17,"AC,WiFi,Charging",Weekdays,4.6
+BUS0584,Golden Route,R008,Chennai,Nagercoil,Golden Route Express,AC Seater,20:15,03:00,6h 45m,705,1937,Chengalpattu,Vadasery Bus Stand,40,1,"Charging,Reading Light",Weekends,4.8
+BUS0585,Comfort Bus,R010,Chennai,Thanjavur,Comfort Bus Express,Volvo Multi Axle,08:30,20:45,12h 15m,350,1106,Vandalur,New Bus Stand,45,26,"Luxury Seat,WiFi",Daily,5.0
+BUS0586,Royal Rider,R015,Chennai,Bengaluru,Royal Rider Express,Semi Sleeper,23:30,02:45,3h 15m,345,962,Koyambedu,Electronic City,45,13,"Charging,Reading Light",Weekends,5.0
+BUS0587,Royal Rider,R024,Bengaluru,Chennai,Royal Rider Express,AC Sleeper,12:00,23:15,11h 15m,345,1077,Majestic,Tambaram,40,32,"Charging,Reading Light",Daily,4.5
+BUS0588,Happy Journey,R025,Tirupati,Chennai,Happy Journey Express,AC Seater,03:45,10:30,6h 45m,150,530,Central Bus Stand,Vandalur,45,15,"Charging,Reading Light",Weekends,4.2
+BUS0589,Comfort Bus,R006,Chennai,Tiruppur,Comfort Bus Express,Volvo Multi Axle,03:00,12:00,9h 0m,475,1255,Guindy,New Bus Stand,45,18,"AC,Blanket,Pillow",Weekdays,4.5
+BUS0590,Smart Coach,R020,Trichy,Chennai,Smart Coach Express,BharatBenz Sleeper,02:00,14:15,12h 15m,330,1119,Chathiram Bus Stand,Guindy,45,16,"AC,Blanket,Pillow",Weekends,3.8
+BUS0591,Royal Rider,R024,Bengaluru,Chennai,Royal Rider Express,Semi Sleeper,06:30,09:45,3h 15m,345,872,Majestic,Vandalur,36,6,"AC,WiFi,Charging",Weekdays,4.4
+BUS0592,Rainbow Coaches,R011,Chennai,Dindigul,Rainbow Coaches Express,Non AC Seater,09:30,19:15,9h 45m,420,1132,Perungalathur,Bus Stand,45,19,"GPS,USB Charging",Weekdays,3.9
+BUS0593,Fast Wheels,R012,Chennai,Karaikudi,Fast Wheels Express,AC Sleeper,22:15,01:45,3h 30m,410,1176,Chengalpattu,Bus Stand,45,18,"AC,Live Tracking",Weekends,3.8
+BUS0594,Happy Journey,R016,Chennai,Tirupati,Happy Journey Express,Non AC Sleeper,11:15,16:30,5h 15m,150,520,Chengalpattu,Central Bus Stand,40,8,"WiFi,Charging,Water",Weekends,4.1
+BUS0595,Star Line,R014,Chennai,Hosur,Star Line Express,BharatBenz Sleeper,19:30,00:45,5h 15m,310,884,Tambaram,Bus Stand,40,27,"Charging,Reading Light",Daily,4.9
+BUS0596,Royal Rider,R023,Puducherry,Chennai,Royal Rider Express,Luxury Sleeper,13:30,20:15,6h 45m,170,664,New Bus Stand,Guindy,45,22,"AC,Blanket,Pillow",Weekends,4.5
+BUS0597,Southern Express,R019,Salem,Chennai,Southern Express Express,Non AC Sleeper,09:30,15:15,5h 45m,345,1048,New Bus Stand,Koyambedu,40,28,"AC,Live Tracking",Weekdays,4.3
+BUS0598,SkyBus,R023,Puducherry,Chennai,SkyBus Express,AC Sleeper,03:45,13:00,9h 15m,170,523,New Bus Stand,Guindy,36,24,"AC,Live Tracking",Weekdays,3.8
+BUS0599,Southern Express,R013,Chennai,Puducherry,Southern Express Express,Volvo Multi Axle,01:00,10:30,9h 30m,170,757,Chengalpattu,New Bus Stand,45,23,"Charging,Reading Light",Daily,3.9
+BUS0600,Rainbow Coaches,R022,Nagercoil,Chennai,Rainbow Coaches Express,Non AC Seater,07:15,15:45,8h 30m,705,1947,Vadasery Bus Stand,Perungalathur,36,2,"Charging,Reading Light",Daily,4.8
+BUS0601,Rainbow Coaches,R008,Chennai,Nagercoil,Rainbow Coaches Express,Volvo Multi Axle,01:00,11:30,10h 30m,705,1909,Guindy,Vadasery Bus Stand,45,24,"Blanket,Pillow,Water",Weekends,3.9
+BUS0602,SkyBus,R019,Salem,Chennai,SkyBus Express,Volvo Multi Axle,21:15,05:15,8h 0m,345,908,New Bus Stand,Vandalur,40,23,"Charging,Reading Light",Weekends,4.8
+BUS0603,Rainbow Coaches,R015,Chennai,Bengaluru,Rainbow Coaches Express,AC Seater,14:00,19:00,5h 0m,345,893,Guindy,Kempegowda Bus Station,36,18,"GPS,USB Charging",Weekdays,4.0
+BUS0604,Fast Wheels,R006,Chennai,Tiruppur,Fast Wheels Express,Non AC Seater,19:00,00:30,5h 30m,475,1188,Guindy,New Bus Stand,45,22,"Blanket,Pillow,Water",Daily,4.7
+BUS0605,Smart Coach,R005,Chennai,Erode,Smart Coach Express,Non AC Sleeper,00:45,08:45,8h 0m,400,1173,Guindy,Central Bus Stand,36,3,"WiFi,Charging,Water",Weekdays,4.2
+BUS0606,GreenLine Travels,R004,Chennai,Salem,GreenLine Travels Express,Semi Sleeper,17:15,03:00,9h 45m,345,879,Tambaram,New Bus Stand,40,18,"AC,WiFi,Charging",Daily,3.8
+BUS0607,Elite Travels,R022,Nagercoil,Chennai,Elite Travels Express,AC Seater,13:00,16:45,3h 45m,705,1728,Vadasery Bus Stand,Guindy,36,27,"Charging,Reading Light",Daily,4.5
+BUS0608,Blue Bird,R002,Chennai,Coimbatore,Blue Bird Express,Volvo Multi Axle,09:15,20:45,11h 30m,510,1465,Tambaram,Ukkadam,40,5,"WiFi,Charging,Water",Weekends,4.5
+BUS0609,Fast Wheels,R003,Chennai,Trichy,Fast Wheels Express,Non AC Seater,17:30,21:30,4h 0m,330,833,Guindy,Srirangam,40,7,"Blanket,Pillow,Water",Weekends,4.0
+BUS0610,Star Line,R008,Chennai,Nagercoil,Star Line Express,Luxury Sleeper,14:30,21:15,6h 45m,705,1798,Koyambedu,Vadasery Bus Stand,40,3,"GPS,USB Charging",Weekends,4.1
+BUS0611,Metro Connect,R023,Puducherry,Chennai,Metro Connect Express,AC Seater,21:00,02:30,5h 30m,170,769,New Bus Stand,Vandalur,40,5,"AC,Live Tracking",Weekends,4.4
+BUS0612,City Link,R006,Chennai,Tiruppur,City Link Express,Luxury Sleeper,15:45,21:45,6h 0m,475,1196,Guindy,New Bus Stand,45,16,"Charging,Reading Light",Weekends,4.6
+BUS0613,Royal Rider,R018,Coimbatore,Chennai,Royal Rider Express,AC Seater,02:30,07:45,5h 15m,510,1287,Ukkadam,Guindy,40,13,"AC,WiFi,Charging",Daily,4.6
+BUS0614,Star Line,R025,Tirupati,Chennai,Star Line Express,Luxury Sleeper,02:00,08:00,6h 0m,150,497,Central Bus Stand,Guindy,36,14,"AC,Blanket,Pillow",Daily,4.7
+BUS0615,Fast Wheels,R017,Madurai,Chennai,Fast Wheels Express,Volvo Multi Axle,15:15,01:30,10h 15m,460,1243,Periyar Bus Stand,Perungalathur,45,4,"GPS,USB Charging",Daily,4.1
+BUS0616,Rainbow Coaches,R014,Chennai,Hosur,Rainbow Coaches Express,Luxury Sleeper,14:15,17:45,3h 30m,310,994,Vandalur,Bus Stand,36,29,"Charging,Reading Light",Weekdays,4.4
+BUS0617,Metro Connect,R025,Tirupati,Chennai,Metro Connect Express,AC Seater,11:30,16:45,5h 15m,150,633,Central Bus Stand,Perungalathur,36,14,"AC,WiFi,Charging",Weekends,4.8
+BUS0618,Elite Travels,R023,Puducherry,Chennai,Elite Travels Express,AC Sleeper,12:45,21:00,8h 15m,170,692,New Bus Stand,Vandalur,40,21,"GPS,USB Charging",Weekends,4.2
+BUS0619,Royal Rider,R008,Chennai,Nagercoil,Royal Rider Express,Semi Sleeper,08:45,19:45,11h 0m,705,1922,Perungalathur,Vadasery Bus Stand,40,22,"AC,WiFi,Charging",Weekends,5.0
+BUS0620,GreenLine Travels,R024,Bengaluru,Chennai,GreenLine Travels Express,Semi Sleeper,10:00,17:30,7h 30m,345,914,Majestic,Tambaram,45,35,"Charging,Reading Light",Weekends,4.5
+BUS0621,Smart Coach,R016,Chennai,Tirupati,Smart Coach Express,AC Sleeper,04:30,07:30,3h 0m,150,501,Guindy,Central Bus Stand,40,35,"AC,WiFi,Charging",Weekdays,4.7
+BUS0622,Sunrise Coaches,R009,Chennai,Kanyakumari,Sunrise Coaches Express,Semi Sleeper,06:30,10:00,3h 30m,710,1692,Guindy,Bus Stand,45,22,"Blanket,Pillow,Water",Daily,4.4
+BUS0623,SkyBus,R001,Chennai,Madurai,SkyBus Express,AC Sleeper,20:15,04:15,8h 0m,460,1409,Vandalur,Mattuthavani Bus Stand,45,15,"WiFi,Charging,Water",Weekdays,4.9
+BUS0624,Happy Journey,R009,Chennai,Kanyakumari,Happy Journey Express,AC Seater,19:15,01:30,6h 15m,710,1765,Tambaram,Bus Stand,40,23,"AC,Live Tracking",Weekdays,4.6
+BUS0625,Elite Travels,R011,Chennai,Dindigul,Elite Travels Express,AC Sleeper,09:00,21:00,12h 0m,420,1324,Perungalathur,Bus Stand,45,25,"WiFi,Charging,Water",Daily,4.7
+BUS0626,Elite Travels,R020,Trichy,Chennai,Elite Travels Express,AC Sleeper,09:30,20:30,11h 0m,330,993,Central Bus Stand,Vandalur,36,20,"Luxury Seat,WiFi",Weekends,4.5
+BUS0627,Royal Rider,R011,Chennai,Dindigul,Royal Rider Express,BharatBenz Sleeper,08:45,15:00,6h 15m,420,1053,Guindy,Bus Stand,45,29,"AC,WiFi,Charging",Daily,4.9
+BUS0628,Rainbow Coaches,R013,Chennai,Puducherry,Rainbow Coaches Express,Non AC Seater,20:30,05:15,8h 45m,170,578,Perungalathur,New Bus Stand,36,18,"WiFi,Charging,Water",Daily,4.2
+BUS0629,Southern Express,R013,Chennai,Puducherry,Southern Express Express,AC Seater,16:45,01:00,8h 15m,170,674,Chengalpattu,New Bus Stand,45,25,"Charging,Reading Light",Daily,3.9
+BUS0630,Blue Bird,R007,Chennai,Tirunelveli,Blue Bird Express,Non AC Seater,19:30,03:30,8h 0m,630,1534,Koyambedu,Junction,45,33,"AC,Blanket,Pillow",Weekends,4.0
+BUS0631,Victory Travels,R001,Chennai,Madurai,Victory Travels Express,Luxury Sleeper,05:30,09:15,3h 45m,460,1241,Guindy,Mattuthavani Bus Stand,36,4,"Luxury Seat,WiFi",Weekdays,4.0
+BUS0632,Galaxy Bus,R025,Tirupati,Chennai,Galaxy Bus Express,Volvo Multi Axle,04:45,12:00,7h 15m,150,479,Central Bus Stand,Koyambedu,45,13,"GPS,USB Charging",Daily,4.0
+BUS0633,Prime Bus,R002,Chennai,Coimbatore,Prime Bus Express,Semi Sleeper,00:00,04:00,4h 0m,510,1491,Guindy,Singanallur,45,27,"Luxury Seat,WiFi",Weekdays,4.9
+BUS0634,Prime Bus,R009,Chennai,Kanyakumari,Prime Bus Express,Non AC Sleeper,02:15,10:30,8h 15m,710,1838,Tambaram,Bus Stand,40,21,"GPS,USB Charging",Weekends,4.2
+BUS0635,Blue Bird,R019,Salem,Chennai,Blue Bird Express,Luxury Sleeper,03:15,07:30,4h 15m,345,918,New Bus Stand,Tambaram,45,6,"WiFi,Charging,Water",Weekends,4.8
+BUS0636,Happy Journey,R007,Chennai,Tirunelveli,Happy Journey Express,BharatBenz Sleeper,09:15,17:15,8h 0m,630,1566,Guindy,Junction,40,29,"Charging,Reading Light",Weekdays,4.6
+BUS0637,Happy Journey,R016,Chennai,Tirupati,Happy Journey Express,Volvo Multi Axle,03:00,08:30,5h 30m,150,589,Koyambedu,Central Bus Stand,40,10,"AC,Live Tracking",Weekends,4.9
+BUS0638,City Link,R005,Chennai,Erode,City Link Express,BharatBenz Sleeper,18:00,04:00,10h 0m,400,1135,Guindy,Perundurai,40,20,"AC,WiFi,Charging",Weekends,3.9
+BUS0639,GreenLine Travels,R012,Chennai,Karaikudi,GreenLine Travels Express,Luxury Sleeper,20:30,04:15,7h 45m,410,1103,Koyambedu,Bus Stand,40,1,"WiFi,Charging,Water",Daily,4.4
+BUS0640,Happy Journey,R005,Chennai,Erode,Happy Journey Express,AC Seater,12:15,22:45,10h 30m,400,1102,Perungalathur,Central Bus Stand,36,19,"Charging,Reading Light",Weekends,4.9
+BUS0641,Comfort Bus,R025,Tirupati,Chennai,Comfort Bus Express,Non AC Seater,16:30,02:30,10h 0m,150,617,Central Bus Stand,Vandalur,40,34,"AC,WiFi,Charging",Daily,4.1
+BUS0642,Happy Journey,R021,Tirunelveli,Chennai,Happy Journey Express,BharatBenz Sleeper,15:00,02:15,11h 15m,630,1728,New Bus Stand,Tambaram,45,21,"Blanket,Pillow,Water",Weekends,4.3
+BUS0643,Star Line,R011,Chennai,Dindigul,Star Line Express,AC Sleeper,07:30,18:45,11h 15m,420,1080,Tambaram,Bus Stand,45,3,"Blanket,Pillow,Water",Weekdays,4.0
+BUS0644,Galaxy Bus,R024,Bengaluru,Chennai,Galaxy Bus Express,Volvo Multi Axle,06:45,14:00,7h 15m,345,1157,Kempegowda Bus Station,Tambaram,40,4,"GPS,USB Charging",Weekends,4.8
+BUS0645,Elite Travels,R010,Chennai,Thanjavur,Elite Travels Express,Non AC Seater,20:30,07:45,11h 15m,350,875,Koyambedu,New Bus Stand,36,24,"Blanket,Pillow,Water",Weekdays,4.5
+BUS0646,Happy Journey,R017,Madurai,Chennai,Happy Journey Express,BharatBenz Sleeper,19:45,02:00,6h 15m,460,1255,Mattuthavani,Perungalathur,45,22,"GPS,USB Charging",Weekends,4.3
+BUS0647,Elite Travels,R003,Chennai,Trichy,Elite Travels Express,Non AC Sleeper,22:30,03:15,4h 45m,330,1091,Perungalathur,Srirangam,36,20,"Charging,Reading Light",Weekends,4.7
+BUS0648,Victory Travels,R017,Madurai,Chennai,Victory Travels Express,Semi Sleeper,17:30,04:45,11h 15m,460,1149,Mattuthavani,Tambaram,40,2,"GPS,USB Charging",Weekends,4.6
+BUS0649,Southern Express,R016,Chennai,Tirupati,Southern Express Express,Semi Sleeper,14:15,02:00,11h 45m,150,492,Perungalathur,Central Bus Stand,45,27,"Luxury Seat,WiFi",Weekdays,4.4
+BUS0650,Rainbow Coaches,R021,Tirunelveli,Chennai,Rainbow Coaches Express,Luxury Sleeper,14:15,18:30,4h 15m,630,1760,New Bus Stand,Perungalathur,36,29,"GPS,USB Charging",Daily,4.9
+BUS0651,Golden Route,R010,Chennai,Thanjavur,Golden Route Express,Semi Sleeper,14:15,19:00,4h 45m,350,883,Perungalathur,New Bus Stand,45,23,"Charging,Reading Light",Daily,4.4
+BUS0652,Elite Travels,R003,Chennai,Trichy,Elite Travels Express,AC Sleeper,10:30,19:30,9h 0m,330,872,Guindy,Chathiram Bus Stand,40,7,"Charging,Reading Light",Weekdays,5.0
+BUS0653,Happy Journey,R024,Bengaluru,Chennai,Happy Journey Express,Semi Sleeper,04:15,12:45,8h 30m,345,868,Kempegowda Bus Station,Perungalathur,40,16,"Charging,Reading Light",Weekdays,4.7
+BUS0654,Comfort Bus,R008,Chennai,Nagercoil,Comfort Bus Express,Semi Sleeper,11:30,19:15,7h 45m,705,1656,Tambaram,Vadasery Bus Stand,45,17,"AC,Live Tracking",Weekends,4.1
+BUS0655,Golden Route,R009,Chennai,Kanyakumari,Golden Route Express,Non AC Sleeper,13:45,19:30,5h 45m,710,1852,Guindy,Bus Stand,36,30,"AC,Live Tracking",Weekends,4.7
+BUS0656,Sunrise Coaches,R013,Chennai,Puducherry,Sunrise Coaches Express,AC Sleeper,13:45,19:45,6h 0m,170,706,Perungalathur,New Bus Stand,36,36,"AC,Blanket,Pillow",Daily,4.5
+BUS0657,City Link,R015,Chennai,Bengaluru,City Link Express,AC Seater,08:15,11:30,3h 15m,345,898,Tambaram,Kempegowda Bus Station,40,34,"WiFi,Charging,Water",Daily,4.8
+BUS0658,Star Line,R013,Chennai,Puducherry,Star Line Express,AC Seater,11:00,17:00,6h 0m,170,722,Guindy,New Bus Stand,36,24,"Charging,Reading Light",Daily,4.8
+BUS0659,Happy Journey,R024,Bengaluru,Chennai,Happy Journey Express,Luxury Sleeper,23:15,03:15,4h 0m,345,927,Kempegowda Bus Station,Perungalathur,45,36,"WiFi,Charging,Water",Daily,4.9
+BUS0660,Blue Bird,R018,Coimbatore,Chennai,Blue Bird Express,Semi Sleeper,23:45,11:00,11h 15m,510,1340,Gandhipuram,Koyambedu,45,20,"Charging,Reading Light",Weekends,4.0
+BUS0661,Golden Route,R010,Chennai,Thanjavur,Golden Route Express,AC Sleeper,15:15,22:00,6h 45m,350,987,Vandalur,New Bus Stand,40,11,"AC,Live Tracking",Weekends,4.1
+BUS0662,GreenLine Travels,R017,Madurai,Chennai,GreenLine Travels Express,Non AC Sleeper,18:15,00:00,5h 45m,460,1120,Mattuthavani,Perungalathur,45,2,"Charging,Reading Light",Weekdays,3.9
+BUS0663,Metro Connect,R024,Bengaluru,Chennai,Metro Connect Express,Non AC Sleeper,22:30,11:00,12h 30m,345,927,Kempegowda Bus Station,Vandalur,40,13,"Charging,Reading Light",Weekends,4.7
+BUS0664,Metro Connect,R019,Salem,Chennai,Metro Connect Express,AC Seater,18:00,00:15,6h 15m,345,1126,Old Bus Stand,Vandalur,45,20,"GPS,USB Charging",Daily,4.0
+BUS0665,Royal Rider,R003,Chennai,Trichy,Royal Rider Express,BharatBenz Sleeper,20:30,07:45,11h 15m,330,948,Vandalur,Srirangam,40,21,"AC,WiFi,Charging",Weekdays,4.3
+BUS0666,Happy Journey,R001,Chennai,Madurai,Happy Journey Express,Semi Sleeper,13:45,23:00,9h 15m,460,1383,Perungalathur,Anna Nagar,40,4,"AC,Live Tracking",Weekdays,4.2
+BUS0667,Comfort Bus,R025,Tirupati,Chennai,Comfort Bus Express,AC Sleeper,23:15,11:00,11h 45m,150,543,Central Bus Stand,Guindy,40,22,"WiFi,Charging,Water",Weekends,4.9
+BUS0668,Prime Bus,R012,Chennai,Karaikudi,Prime Bus Express,AC Sleeper,11:30,19:15,7h 45m,410,1228,Koyambedu,Bus Stand,36,15,"Charging,Reading Light",Daily,4.5
+BUS0669,Victory Travels,R017,Madurai,Chennai,Victory Travels Express,BharatBenz Sleeper,09:45,14:00,4h 15m,460,1183,Periyar Bus Stand,Perungalathur,36,26,"AC,Live Tracking",Daily,4.8
+BUS0670,Smart Coach,R015,Chennai,Bengaluru,Smart Coach Express,Non AC Seater,18:45,03:00,8h 15m,345,861,Perungalathur,Electronic City,45,1,"Charging,Reading Light",Daily,3.9
+BUS0671,Rainbow Coaches,R001,Chennai,Madurai,Rainbow Coaches Express,Volvo Multi Axle,10:00,22:30,12h 30m,460,1207,Perungalathur,Anna Nagar,40,14,"WiFi,Charging,Water",Weekdays,4.0
+BUS0672,City Link,R011,Chennai,Dindigul,City Link Express,BharatBenz Sleeper,17:00,05:45,12h 45m,420,1260,Koyambedu,Bus Stand,45,33,"Luxury Seat,WiFi",Weekdays,4.4
+BUS0673,Prime Bus,R004,Chennai,Salem,Prime Bus Express,AC Seater,03:45,08:45,5h 0m,345,957,Chengalpattu,New Bus Stand,40,28,"WiFi,Charging,Water",Weekends,3.8
+BUS0674,Victory Travels,R020,Trichy,Chennai,Victory Travels Express,AC Seater,03:45,10:15,6h 30m,330,1067,Chathiram Bus Stand,Tambaram,40,15,"AC,Blanket,Pillow",Weekends,4.9
+BUS0675,Victory Travels,R017,Madurai,Chennai,Victory Travels Express,Luxury Sleeper,18:00,02:15,8h 15m,460,1171,Mattuthavani,Guindy,36,8,"Luxury Seat,WiFi",Weekdays,4.7
+BUS0676,Elite Travels,R006,Chennai,Tiruppur,Elite Travels Express,AC Sleeper,05:00,17:00,12h 0m,475,1298,Koyambedu,New Bus Stand,40,18,"AC,Blanket,Pillow",Daily,4.8
+BUS0677,City Link,R013,Chennai,Puducherry,City Link Express,Luxury Sleeper,02:45,08:00,5h 15m,170,641,Tambaram,New Bus Stand,36,7,"Blanket,Pillow,Water",Daily,4.2
+BUS0678,Express King,R017,Madurai,Chennai,Express King Express,Volvo Multi Axle,23:15,08:30,9h 15m,460,1358,Periyar Bus Stand,Perungalathur,36,3,"AC,WiFi,Charging",Daily,4.8
+BUS0679,Southern Express,R015,Chennai,Bengaluru,Southern Express Express,AC Seater,11:30,20:00,8h 30m,345,952,Vandalur,Electronic City,45,1,"AC,Blanket,Pillow",Daily,4.1
+BUS0680,Elite Travels,R022,Nagercoil,Chennai,Elite Travels Express,BharatBenz Sleeper,16:30,21:30,5h 0m,705,1794,Vadasery Bus Stand,Koyambedu,36,26,"AC,Blanket,Pillow",Daily,4.3
+BUS0681,Elite Travels,R003,Chennai,Trichy,Elite Travels Express,Volvo Multi Axle,02:45,06:45,4h 0m,330,1089,Vandalur,Chathiram Bus Stand,45,12,"Luxury Seat,WiFi",Weekdays,4.5
+BUS0682,Galaxy Bus,R016,Chennai,Tirupati,Galaxy Bus Express,Non AC Seater,11:30,23:30,12h 0m,150,615,Guindy,Central Bus Stand,40,32,"Blanket,Pillow,Water",Daily,4.6
+BUS0683,Happy Journey,R018,Coimbatore,Chennai,Happy Journey Express,Non AC Sleeper,21:30,09:00,11h 30m,510,1472,Gandhipuram,Koyambedu,45,23,"Luxury Seat,WiFi",Daily,4.5
+BUS0684,Elite Travels,R015,Chennai,Bengaluru,Elite Travels Express,Non AC Seater,10:15,20:45,10h 30m,345,1001,Perungalathur,Kempegowda Bus Station,45,10,"AC,Live Tracking",Daily,4.1
+BUS0685,Prime Bus,R007,Chennai,Tirunelveli,Prime Bus Express,AC Sleeper,01:30,12:30,11h 0m,630,1761,Perungalathur,Junction,36,28,"Luxury Seat,WiFi",Weekends,3.8
+BUS0686,Blue Bird,R005,Chennai,Erode,Blue Bird Express,BharatBenz Sleeper,02:45,12:30,9h 45m,400,1144,Perungalathur,Central Bus Stand,36,17,"AC,Blanket,Pillow",Weekends,4.5
+BUS0687,Metro Connect,R025,Tirupati,Chennai,Metro Connect Express,Semi Sleeper,04:00,15:15,11h 15m,150,586,Central Bus Stand,Koyambedu,40,18,"Charging,Reading Light",Daily,4.9
+BUS0688,City Link,R020,Trichy,Chennai,City Link Express,Semi Sleeper,14:45,19:00,4h 15m,330,873,Chathiram Bus Stand,Koyambedu,45,2,"AC,Live Tracking",Weekdays,3.8
+BUS0689,Smart Coach,R022,Nagercoil,Chennai,Smart Coach Express,Non AC Sleeper,03:15,13:30,10h 15m,705,1813,Vadasery Bus Stand,Vandalur,40,27,"AC,Live Tracking",Daily,4.1
+BUS0690,Victory Travels,R006,Chennai,Tiruppur,Victory Travels Express,BharatBenz Sleeper,22:00,02:15,4h 15m,475,1348,Chengalpattu,Avinashi,36,24,"AC,Live Tracking",Weekdays,4.5
+BUS0691,Comfort Bus,R002,Chennai,Coimbatore,Comfort Bus Express,AC Sleeper,07:45,18:00,10h 15m,510,1381,Koyambedu,Gandhipuram,36,20,"AC,Blanket,Pillow",Weekends,3.9
+BUS0692,Blue Bird,R017,Madurai,Chennai,Blue Bird Express,BharatBenz Sleeper,18:00,23:00,5h 0m,460,1236,Mattuthavani,Koyambedu,45,36,"WiFi,Charging,Water",Weekdays,4.2
+BUS0693,Victory Travels,R006,Chennai,Tiruppur,Victory Travels Express,AC Sleeper,16:45,20:45,4h 0m,475,1241,Guindy,New Bus Stand,40,31,"Luxury Seat,WiFi",Weekends,4.8
+BUS0694,Prime Bus,R002,Chennai,Coimbatore,Prime Bus Express,Semi Sleeper,07:45,20:15,12h 30m,510,1382,Tambaram,Ukkadam,36,32,"WiFi,Charging,Water",Daily,4.4
+BUS0695,Golden Route,R020,Trichy,Chennai,Golden Route Express,Non AC Sleeper,18:45,01:30,6h 45m,330,867,Central Bus Stand,Koyambedu,45,24,"AC,Live Tracking",Weekends,4.9
+BUS0696,Sunrise Coaches,R011,Chennai,Dindigul,Sunrise Coaches Express,Semi Sleeper,14:00,23:45,9h 45m,420,1150,Perungalathur,Bus Stand,40,18,"AC,Blanket,Pillow",Daily,4.8
+BUS0697,Elite Travels,R021,Tirunelveli,Chennai,Elite Travels Express,Non AC Seater,16:15,03:45,11h 30m,630,1527,New Bus Stand,Tambaram,40,25,"Luxury Seat,WiFi",Weekdays,4.5
+BUS0698,Blue Bird,R023,Puducherry,Chennai,Blue Bird Express,AC Seater,21:15,00:30,3h 15m,170,622,New Bus Stand,Tambaram,40,6,"Blanket,Pillow,Water",Daily,4.3
+BUS0699,SkyBus,R013,Chennai,Puducherry,SkyBus Express,Non AC Sleeper,01:15,11:30,10h 15m,170,676,Koyambedu,New Bus Stand,45,14,"WiFi,Charging,Water",Weekdays,4.4
+BUS0700,Smart Coach,R011,Chennai,Dindigul,Smart Coach Express,Volvo Multi Axle,05:45,16:15,10h 30m,420,1295,Guindy,Bus Stand,36,19,"AC,Blanket,Pillow",Weekends,4.1
+BUS0701,Blue Bird,R002,Chennai,Coimbatore,Blue Bird Express,Luxury Sleeper,15:00,03:00,12h 0m,510,1325,Guindy,Gandhipuram,45,10,"WiFi,Charging,Water",Weekends,3.9
+BUS0702,Express King,R009,Chennai,Kanyakumari,Express King Express,Non AC Sleeper,23:00,05:30,6h 30m,710,1952,Koyambedu,Bus Stand,36,33,"Luxury Seat,WiFi",Weekdays,4.7
+BUS0703,Metro Connect,R008,Chennai,Nagercoil,Metro Connect Express,Luxury Sleeper,15:15,02:30,11h 15m,705,1895,Guindy,Vadasery Bus Stand,36,17,"Charging,Reading Light",Weekends,4.4
+BUS0704,SkyBus,R019,Salem,Chennai,SkyBus Express,Non AC Sleeper,18:30,04:15,9h 45m,345,907,New Bus Stand,Guindy,45,7,"WiFi,Charging,Water",Weekends,4.8
+BUS0705,Royal Rider,R010,Chennai,Thanjavur,Royal Rider Express,AC Seater,17:30,03:30,10h 0m,350,1078,Vandalur,New Bus Stand,36,36,"Charging,Reading Light",Weekdays,3.9
+BUS0706,Blue Bird,R016,Chennai,Tirupati,Blue Bird Express,Luxury Sleeper,13:30,17:45,4h 15m,150,676,Koyambedu,Central Bus Stand,45,14,"AC,Live Tracking",Daily,4.0
+BUS0707,Sunrise Coaches,R014,Chennai,Hosur,Sunrise Coaches Express,Volvo Multi Axle,12:30,16:00,3h 30m,310,876,Tambaram,Bus Stand,40,17,"AC,Blanket,Pillow",Daily,4.3
+BUS0708,Metro Connect,R008,Chennai,Nagercoil,Metro Connect Express,Non AC Sleeper,17:00,02:00,9h 0m,705,1915,Guindy,Vadasery Bus Stand,45,30,"WiFi,Charging,Water",Daily,4.8
+BUS0709,Smart Coach,R014,Chennai,Hosur,Smart Coach Express,Luxury Sleeper,08:15,11:15,3h 0m,310,1030,Koyambedu,Bus Stand,45,21,"AC,Live Tracking",Weekdays,4.2
+BUS0710,SkyBus,R024,Bengaluru,Chennai,SkyBus Express,AC Seater,12:00,21:45,9h 45m,345,985,Kempegowda Bus Station,Koyambedu,40,35,"Blanket,Pillow,Water",Weekends,3.9
+BUS0711,City Link,R023,Puducherry,Chennai,City Link Express,Non AC Sleeper,01:15,08:30,7h 15m,170,489,New Bus Stand,Koyambedu,40,14,"Charging,Reading Light",Weekdays,4.9
+BUS0712,City Link,R017,Madurai,Chennai,City Link Express,Non AC Sleeper,08:00,18:15,10h 15m,460,1225,Periyar Bus Stand,Vandalur,36,36,"WiFi,Charging,Water",Weekdays,4.6
+BUS0713,Prime Bus,R002,Chennai,Coimbatore,Prime Bus Express,BharatBenz Sleeper,15:45,21:00,5h 15m,510,1423,Perungalathur,Ukkadam,40,28,"AC,Live Tracking",Weekends,4.4
+BUS0714,Elite Travels,R009,Chennai,Kanyakumari,Elite Travels Express,AC Sleeper,10:15,21:15,11h 0m,710,1844,Perungalathur,Bus Stand,45,6,"Charging,Reading Light",Weekdays,5.0
+BUS0715,Prime Bus,R017,Madurai,Chennai,Prime Bus Express,Luxury Sleeper,02:15,08:45,6h 30m,460,1248,Mattuthavani,Vandalur,36,16,"Blanket,Pillow,Water",Weekdays,4.0
+BUS0716,City Link,R017,Madurai,Chennai,City Link Express,Volvo Multi Axle,03:30,10:00,6h 30m,460,1312,Mattuthavani,Perungalathur,45,34,"Blanket,Pillow,Water",Daily,4.3
+BUS0717,Royal Rider,R025,Tirupati,Chennai,Royal Rider Express,Non AC Sleeper,21:15,05:30,8h 15m,150,714,Central Bus Stand,Tambaram,36,16,"AC,Live Tracking",Weekends,4.4
+BUS0718,Prime Bus,R024,Bengaluru,Chennai,Prime Bus Express,AC Sleeper,10:30,22:45,12h 15m,345,1119,Majestic,Tambaram,40,12,"WiFi,Charging,Water",Daily,3.9
+BUS0719,Smart Coach,R024,Bengaluru,Chennai,Smart Coach Express,AC Sleeper,10:30,21:45,11h 15m,345,1034,Kempegowda Bus Station,Vandalur,45,23,"Charging,Reading Light",Daily,4.7
+BUS0720,Golden Route,R001,Chennai,Madurai,Golden Route Express,Non AC Seater,09:30,19:15,9h 45m,460,1402,Perungalathur,Periyar Bus Stand,40,8,"Charging,Reading Light",Weekends,5.0
+BUS0721,GreenLine Travels,R012,Chennai,Karaikudi,GreenLine Travels Express,Non AC Sleeper,20:00,07:00,11h 0m,410,1114,Vandalur,Bus Stand,36,10,"AC,Live Tracking",Weekends,4.0
+BUS0722,Royal Rider,R014,Chennai,Hosur,Royal Rider Express,Semi Sleeper,21:30,05:30,8h 0m,310,915,Vandalur,Bus Stand,36,24,"WiFi,Charging,Water",Weekdays,4.6
+BUS0723,Happy Journey,R017,Madurai,Chennai,Happy Journey Express,Non AC Sleeper,09:15,17:30,8h 15m,460,1300,Periyar Bus Stand,Tambaram,45,13,"WiFi,Charging,Water",Weekdays,4.6
+BUS0724,Southern Express,R025,Tirupati,Chennai,Southern Express Express,AC Seater,11:45,18:00,6h 15m,150,492,Central Bus Stand,Vandalur,45,14,"AC,WiFi,Charging",Weekends,4.2
+BUS0725,Metro Connect,R007,Chennai,Tirunelveli,Metro Connect Express,AC Seater,02:15,12:45,10h 30m,630,1564,Perungalathur,Junction,45,2,"GPS,USB Charging",Weekdays,3.9
+BUS0726,City Link,R015,Chennai,Bengaluru,City Link Express,Luxury Sleeper,03:00,06:30,3h 30m,345,877,Tambaram,Majestic,36,22,"AC,Live Tracking",Weekends,4.1
+BUS0727,Victory Travels,R010,Chennai,Thanjavur,Victory Travels Express,BharatBenz Sleeper,22:30,04:15,5h 45m,350,944,Vandalur,New Bus Stand,40,35,"Charging,Reading Light",Daily,4.0
+BUS0728,Golden Route,R015,Chennai,Bengaluru,Golden Route Express,Non AC Sleeper,06:30,14:30,8h 0m,345,928,Tambaram,Majestic,40,23,"Blanket,Pillow,Water",Weekends,4.1
+BUS0729,Happy Journey,R013,Chennai,Puducherry,Happy Journey Express,Luxury Sleeper,01:00,07:00,6h 0m,170,497,Perungalathur,New Bus Stand,40,8,"Blanket,Pillow,Water",Daily,4.4
+BUS0730,Happy Journey,R005,Chennai,Erode,Happy Journey Express,Luxury Sleeper,17:15,04:30,11h 15m,400,1059,Perungalathur,Perundurai,40,10,"AC,Blanket,Pillow",Weekdays,4.7
+BUS0731,Southern Express,R008,Chennai,Nagercoil,Southern Express Express,Non AC Sleeper,08:00,13:15,5h 15m,705,1813,Koyambedu,Vadasery Bus Stand,45,2,"Luxury Seat,WiFi",Daily,4.5
+BUS0732,Golden Route,R021,Tirunelveli,Chennai,Golden Route Express,Semi Sleeper,12:00,17:15,5h 15m,630,1561,New Bus Stand,Perungalathur,36,32,"AC,Live Tracking",Weekdays,4.8
+BUS0733,Victory Travels,R013,Chennai,Puducherry,Victory Travels Express,AC Seater,08:15,15:15,7h 0m,170,495,Chengalpattu,New Bus Stand,36,18,"GPS,USB Charging",Weekends,4.6
+BUS0734,Star Line,R021,Tirunelveli,Chennai,Star Line Express,AC Sleeper,07:45,19:00,11h 15m,630,1507,New Bus Stand,Perungalathur,45,36,"Blanket,Pillow,Water",Weekends,4.5
+BUS0735,Fast Wheels,R018,Coimbatore,Chennai,Fast Wheels Express,BharatBenz Sleeper,10:30,16:15,5h 45m,510,1244,Ukkadam,Tambaram,45,31,"AC,Blanket,Pillow",Weekends,4.6
+BUS0736,City Link,R008,Chennai,Nagercoil,City Link Express,AC Seater,17:30,01:30,8h 0m,705,1905,Guindy,Vadasery Bus Stand,45,22,"WiFi,Charging,Water",Weekends,4.3
+BUS0737,SkyBus,R023,Puducherry,Chennai,SkyBus Express,Non AC Sleeper,13:15,22:00,8h 45m,170,734,New Bus Stand,Vandalur,40,33,"AC,Blanket,Pillow",Daily,3.9
+BUS0738,Happy Journey,R010,Chennai,Thanjavur,Happy Journey Express,Non AC Sleeper,00:45,12:15,11h 30m,350,1116,Tambaram,New Bus Stand,45,23,"Blanket,Pillow,Water",Daily,3.9
+BUS0739,Comfort Bus,R025,Tirupati,Chennai,Comfort Bus Express,Semi Sleeper,22:00,08:45,10h 45m,150,520,Central Bus Stand,Perungalathur,36,6,"AC,Blanket,Pillow",Daily,4.6
+BUS0740,Comfort Bus,R018,Coimbatore,Chennai,Comfort Bus Express,Volvo Multi Axle,15:15,18:45,3h 30m,510,1313,Gandhipuram,Vandalur,36,15,"GPS,USB Charging",Weekends,4.4
+BUS0741,Rainbow Coaches,R017,Madurai,Chennai,Rainbow Coaches Express,Semi Sleeper,01:15,07:00,5h 45m,460,1156,Mattuthavani,Koyambedu,36,36,"Blanket,Pillow,Water",Weekdays,5.0
+BUS0742,Galaxy Bus,R002,Chennai,Coimbatore,Galaxy Bus Express,Semi Sleeper,12:00,16:30,4h 30m,510,1241,Koyambedu,Singanallur,40,2,"AC,WiFi,Charging",Daily,5.0
+BUS0743,Happy Journey,R007,Chennai,Tirunelveli,Happy Journey Express,AC Sleeper,10:30,16:45,6h 15m,630,1691,Vandalur,New Bus Stand,36,30,"Luxury Seat,WiFi",Daily,5.0
+BUS0744,Fast Wheels,R015,Chennai,Bengaluru,Fast Wheels Express,BharatBenz Sleeper,15:15,01:45,10h 30m,345,1027,Tambaram,Electronic City,40,31,"WiFi,Charging,Water",Weekdays,4.0
+BUS0745,Blue Bird,R020,Trichy,Chennai,Blue Bird Express,Non AC Sleeper,18:30,05:30,11h 0m,330,856,Central Bus Stand,Perungalathur,45,35,"AC,WiFi,Charging",Daily,3.9
+BUS0746,Royal Rider,R020,Trichy,Chennai,Royal Rider Express,AC Seater,11:00,23:45,12h 45m,330,1065,Chathiram Bus Stand,Guindy,36,18,"Blanket,Pillow,Water",Weekends,4.9
+BUS0747,Prime Bus,R025,Tirupati,Chennai,Prime Bus Express,Non AC Sleeper,15:15,03:45,12h 30m,150,540,Central Bus Stand,Vandalur,36,10,"Charging,Reading Light",Weekdays,4.0
+BUS0748,Prime Bus,R008,Chennai,Nagercoil,Prime Bus Express,Non AC Sleeper,12:30,17:15,4h 45m,705,1705,Chengalpattu,Vadasery Bus Stand,40,17,"Luxury Seat,WiFi",Daily,4.7
+BUS0749,SkyBus,R019,Salem,Chennai,SkyBus Express,AC Seater,04:30,11:30,7h 0m,345,1032,New Bus Stand,Tambaram,40,31,"WiFi,Charging,Water",Weekdays,4.6
+BUS0750,Golden Route,R001,Chennai,Madurai,Golden Route Express,AC Sleeper,10:15,18:15,8h 0m,460,1406,Vandalur,Mattuthavani Bus Stand,45,5,"Blanket,Pillow,Water",Daily,4.0
+BUS0751,Blue Bird,R025,Tirupati,Chennai,Blue Bird Express,AC Sleeper,11:00,15:15,4h 15m,150,507,Central Bus Stand,Koyambedu,40,32,"WiFi,Charging,Water",Daily,4.3
+BUS0752,Galaxy Bus,R010,Chennai,Thanjavur,Galaxy Bus Express,AC Seater,03:30,13:30,10h 0m,350,984,Chengalpattu,New Bus Stand,36,26,"AC,WiFi,Charging",Daily,3.8
+BUS0753,Prime Bus,R006,Chennai,Tiruppur,Prime Bus Express,Non AC Seater,12:15,16:00,3h 45m,475,1307,Vandalur,Avinashi,36,22,"GPS,USB Charging",Daily,4.7
+BUS0754,SkyBus,R007,Chennai,Tirunelveli,SkyBus Express,AC Seater,12:45,16:15,3h 30m,630,1629,Koyambedu,New Bus Stand,45,3,"AC,WiFi,Charging",Weekends,4.1
+BUS0755,Victory Travels,R010,Chennai,Thanjavur,Victory Travels Express,AC Sleeper,11:15,15:00,3h 45m,350,1159,Tambaram,New Bus Stand,40,10,"GPS,USB Charging",Weekdays,4.4
+BUS0756,Golden Route,R022,Nagercoil,Chennai,Golden Route Express,AC Sleeper,22:00,06:00,8h 0m,705,1914,Vadasery Bus Stand,Perungalathur,36,21,"Charging,Reading Light",Weekdays,4.6
+BUS0757,Sunrise Coaches,R025,Tirupati,Chennai,Sunrise Coaches Express,Non AC Seater,09:45,18:00,8h 15m,150,679,Central Bus Stand,Tambaram,45,13,"Charging,Reading Light",Daily,4.8
+BUS0758,SkyBus,R016,Chennai,Tirupati,SkyBus Express,Semi Sleeper,23:00,06:30,7h 30m,150,648,Perungalathur,Central Bus Stand,40,35,"Charging,Reading Light",Weekdays,4.1
+BUS0759,Elite Travels,R013,Chennai,Puducherry,Elite Travels Express,BharatBenz Sleeper,00:30,12:45,12h 15m,170,686,Perungalathur,New Bus Stand,45,4,"AC,Blanket,Pillow",Weekdays,4.6
+BUS0760,Blue Bird,R022,Nagercoil,Chennai,Blue Bird Express,AC Sleeper,17:15,04:00,10h 45m,705,1680,Vadasery Bus Stand,Perungalathur,45,36,"WiFi,Charging,Water",Weekdays,4.2
+BUS0761,Southern Express,R002,Chennai,Coimbatore,Southern Express Express,AC Sleeper,09:15,18:45,9h 30m,510,1517,Koyambedu,Gandhipuram,45,32,"Luxury Seat,WiFi",Weekdays,4.0
+BUS0762,Galaxy Bus,R009,Chennai,Kanyakumari,Galaxy Bus Express,Semi Sleeper,10:15,17:00,6h 45m,710,1914,Perungalathur,Bus Stand,45,9,"AC,Blanket,Pillow",Weekends,3.9
+BUS0763,Blue Bird,R009,Chennai,Kanyakumari,Blue Bird Express,AC Sleeper,08:30,19:00,10h 30m,710,1884,Koyambedu,Bus Stand,40,12,"Luxury Seat,WiFi",Daily,3.8
+BUS0764,Galaxy Bus,R013,Chennai,Puducherry,Galaxy Bus Express,AC Seater,18:30,04:45,10h 15m,170,623,Chengalpattu,New Bus Stand,40,13,"AC,Live Tracking",Weekdays,4.1
+BUS0765,Blue Bird,R003,Chennai,Trichy,Blue Bird Express,Non AC Sleeper,08:30,18:30,10h 0m,330,927,Perungalathur,Central Bus Stand,40,31,"Charging,Reading Light",Weekends,4.8
+BUS0766,Happy Journey,R004,Chennai,Salem,Happy Journey Express,Luxury Sleeper,21:30,02:00,4h 30m,345,980,Guindy,Old Bus Stand,40,15,"Luxury Seat,WiFi",Weekends,3.9
+BUS0767,GreenLine Travels,R014,Chennai,Hosur,GreenLine Travels Express,Semi Sleeper,18:30,05:00,10h 30m,310,955,Perungalathur,Bus Stand,45,9,"Charging,Reading Light",Weekends,4.8
+BUS0768,Comfort Bus,R024,Bengaluru,Chennai,Comfort Bus Express,Non AC Seater,12:30,00:45,12h 15m,345,945,Electronic City,Tambaram,45,5,"WiFi,Charging,Water",Weekdays,4.0
+BUS0769,Elite Travels,R002,Chennai,Coimbatore,Elite Travels Express,AC Sleeper,17:30,01:45,8h 15m,510,1473,Chengalpattu,Ukkadam,40,27,"AC,Live Tracking",Weekends,4.1
+BUS0770,Golden Route,R010,Chennai,Thanjavur,Golden Route Express,AC Sleeper,15:45,23:45,8h 0m,350,933,Chengalpattu,New Bus Stand,36,27,"Charging,Reading Light",Weekends,4.0
+BUS0771,Blue Bird,R018,Coimbatore,Chennai,Blue Bird Express,AC Seater,18:45,04:00,9h 15m,510,1243,Gandhipuram,Vandalur,45,33,"AC,Live Tracking",Daily,4.0
+BUS0772,Southern Express,R006,Chennai,Tiruppur,Southern Express Express,Non AC Sleeper,10:15,22:00,11h 45m,475,1368,Vandalur,New Bus Stand,36,6,"Blanket,Pillow,Water",Weekends,4.7
+BUS0773,Galaxy Bus,R004,Chennai,Salem,Galaxy Bus Express,Volvo Multi Axle,02:00,06:00,4h 0m,345,1036,Koyambedu,New Bus Stand,40,13,"AC,Live Tracking",Weekdays,4.6
+BUS0774,Victory Travels,R016,Chennai,Tirupati,Victory Travels Express,Non AC Seater,19:15,23:00,3h 45m,150,586,Vandalur,Central Bus Stand,36,22,"Blanket,Pillow,Water",Weekends,4.6
+BUS0775,Smart Coach,R023,Puducherry,Chennai,Smart Coach Express,Non AC Sleeper,19:45,22:45,3h 0m,170,566,New Bus Stand,Perungalathur,45,4,"Blanket,Pillow,Water",Weekends,4.9
+BUS0776,Express King,R023,Puducherry,Chennai,Express King Express,Semi Sleeper,08:30,18:45,10h 15m,170,510,New Bus Stand,Guindy,40,27,"Luxury Seat,WiFi",Weekends,4.9
+BUS0777,Happy Journey,R023,Puducherry,Chennai,Happy Journey Express,BharatBenz Sleeper,00:30,03:30,3h 0m,170,679,New Bus Stand,Tambaram,40,24,"GPS,USB Charging",Weekdays,4.8
+BUS0778,Star Line,R011,Chennai,Dindigul,Star Line Express,AC Seater,14:00,18:00,4h 0m,420,1121,Chengalpattu,Bus Stand,36,18,"Charging,Reading Light",Weekdays,4.9
+BUS0779,Blue Bird,R020,Trichy,Chennai,Blue Bird Express,Non AC Seater,05:15,12:00,6h 45m,330,1029,Central Bus Stand,Guindy,45,30,"AC,WiFi,Charging",Weekends,4.1
+BUS0780,Golden Route,R008,Chennai,Nagercoil,Golden Route Express,Non AC Sleeper,14:30,19:45,5h 15m,705,1743,Tambaram,Vadasery Bus Stand,36,15,"AC,WiFi,Charging",Daily,4.5
+BUS0781,Happy Journey,R006,Chennai,Tiruppur,Happy Journey Express,Volvo Multi Axle,10:45,16:45,6h 0m,475,1207,Vandalur,Avinashi,45,8,"WiFi,Charging,Water",Daily,4.1
+BUS0782,Galaxy Bus,R013,Chennai,Puducherry,Galaxy Bus Express,Volvo Multi Axle,03:45,13:15,9h 30m,170,763,Vandalur,New Bus Stand,45,17,"Charging,Reading Light",Daily,4.4
+BUS0783,Blue Bird,R017,Madurai,Chennai,Blue Bird Express,AC Sleeper,20:45,05:30,8h 45m,460,1159,Periyar Bus Stand,Vandalur,36,32,"Blanket,Pillow,Water",Weekdays,3.9
+BUS0784,Express King,R009,Chennai,Kanyakumari,Express King Express,Luxury Sleeper,04:45,16:00,11h 15m,710,1747,Vandalur,Bus Stand,45,21,"AC,Blanket,Pillow",Daily,3.9
+BUS0785,Sunrise Coaches,R016,Chennai,Tirupati,Sunrise Coaches Express,Non AC Seater,13:00,20:30,7h 30m,150,665,Tambaram,Central Bus Stand,40,5,"Charging,Reading Light",Weekends,4.5
+BUS0786,Southern Express,R001,Chennai,Madurai,Southern Express Express,BharatBenz Sleeper,07:00,19:45,12h 45m,460,1369,Guindy,Anna Nagar,36,1,"AC,WiFi,Charging",Weekends,4.3
+BUS0787,Elite Travels,R005,Chennai,Erode,Elite Travels Express,Non AC Seater,00:15,05:30,5h 15m,400,1067,Guindy,Central Bus Stand,40,23,"AC,Blanket,Pillow",Daily,3.8
+BUS0788,City Link,R017,Madurai,Chennai,City Link Express,AC Sleeper,02:30,12:45,10h 15m,460,1257,Periyar Bus Stand,Tambaram,45,17,"Charging,Reading Light",Weekdays,4.6
+BUS0789,Comfort Bus,R025,Tirupati,Chennai,Comfort Bus Express,BharatBenz Sleeper,03:00,12:00,9h 0m,150,475,Central Bus Stand,Tambaram,45,3,"WiFi,Charging,Water",Daily,4.6
+BUS0790,Blue Bird,R003,Chennai,Trichy,Blue Bird Express,Semi Sleeper,04:00,07:00,3h 0m,330,1060,Perungalathur,Central Bus Stand,40,32,"Blanket,Pillow,Water",Weekends,3.8
+BUS0791,Golden Route,R015,Chennai,Bengaluru,Golden Route Express,Non AC Seater,21:30,02:30,5h 0m,345,1049,Tambaram,Kempegowda Bus Station,36,2,"Blanket,Pillow,Water",Daily,4.5
+BUS0792,Fast Wheels,R001,Chennai,Madurai,Fast Wheels Express,BharatBenz Sleeper,04:15,12:30,8h 15m,460,1375,Chengalpattu,Periyar Bus Stand,36,25,"AC,Blanket,Pillow",Weekdays,3.9
+BUS0793,Happy Journey,R025,Tirupati,Chennai,Happy Journey Express,AC Sleeper,16:45,23:30,6h 45m,150,559,Central Bus Stand,Tambaram,45,20,"Blanket,Pillow,Water",Weekends,4.0
+BUS0794,Star Line,R009,Chennai,Kanyakumari,Star Line Express,Volvo Multi Axle,01:00,11:15,10h 15m,710,1878,Vandalur,Bus Stand,40,28,"Blanket,Pillow,Water",Daily,4.3
+BUS0795,GreenLine Travels,R018,Coimbatore,Chennai,GreenLine Travels Express,Non AC Sleeper,13:00,17:00,4h 0m,510,1232,Gandhipuram,Koyambedu,36,31,"Charging,Reading Light",Weekends,4.7
+BUS0796,Metro Connect,R009,Chennai,Kanyakumari,Metro Connect Express,Luxury Sleeper,20:15,23:30,3h 15m,710,1768,Perungalathur,Bus Stand,45,26,"WiFi,Charging,Water",Weekends,5.0
+BUS0797,Royal Rider,R002,Chennai,Coimbatore,Royal Rider Express,Non AC Sleeper,18:45,04:15,9h 30m,510,1476,Tambaram,Singanallur,45,4,"AC,Blanket,Pillow",Daily,4.6
+BUS0798,City Link,R009,Chennai,Kanyakumari,City Link Express,Semi Sleeper,03:15,10:00,6h 45m,710,1674,Guindy,Bus Stand,45,33,"GPS,USB Charging",Weekdays,4.9
+BUS0799,Southern Express,R023,Puducherry,Chennai,Southern Express Express,Non AC Seater,23:15,05:00,5h 45m,170,568,New Bus Stand,Guindy,45,31,"AC,WiFi,Charging",Weekdays,4.8
+BUS0800,Royal Rider,R018,Coimbatore,Chennai,Royal Rider Express,Luxury Sleeper,21:00,05:15,8h 15m,510,1226,Ukkadam,Guindy,36,24,"AC,Live Tracking",Weekends,4.2
+BUS0801,Royal Rider,R008,Chennai,Nagercoil,Royal Rider Express,Volvo Multi Axle,12:15,22:30,10h 15m,705,1719,Perungalathur,Vadasery Bus Stand,45,31,"WiFi,Charging,Water",Daily,4.7
+BUS0802,GreenLine Travels,R004,Chennai,Salem,GreenLine Travels Express,Semi Sleeper,12:00,15:30,3h 30m,345,878,Perungalathur,New Bus Stand,45,9,"Luxury Seat,WiFi",Weekends,4.9
+BUS0803,Comfort Bus,R009,Chennai,Kanyakumari,Comfort Bus Express,Luxury Sleeper,15:15,02:15,11h 0m,710,1684,Koyambedu,Bus Stand,45,30,"Blanket,Pillow,Water",Daily,4.5
+BUS0804,Royal Rider,R020,Trichy,Chennai,Royal Rider Express,Volvo Multi Axle,22:30,07:30,9h 0m,330,879,Chathiram Bus Stand,Tambaram,36,2,"Blanket,Pillow,Water",Weekends,4.6
+BUS0805,SkyBus,R013,Chennai,Puducherry,SkyBus Express,BharatBenz Sleeper,08:45,20:45,12h 0m,170,720,Koyambedu,New Bus Stand,40,7,"AC,WiFi,Charging",Weekdays,3.9
+BUS0806,Express King,R013,Chennai,Puducherry,Express King Express,BharatBenz Sleeper,23:45,09:45,10h 0m,170,585,Guindy,New Bus Stand,36,31,"Blanket,Pillow,Water",Weekdays,4.1
+BUS0807,Happy Journey,R019,Salem,Chennai,Happy Journey Express,AC Seater,00:30,11:00,10h 30m,345,997,New Bus Stand,Perungalathur,45,23,"AC,Live Tracking",Daily,5.0
+BUS0808,Star Line,R021,Tirunelveli,Chennai,Star Line Express,AC Seater,10:30,14:45,4h 15m,630,1521,New Bus Stand,Guindy,36,22,"Luxury Seat,WiFi",Weekdays,4.6
+BUS0809,Elite Travels,R023,Puducherry,Chennai,Elite Travels Express,Non AC Sleeper,18:00,06:15,12h 15m,170,685,New Bus Stand,Guindy,40,14,"Blanket,Pillow,Water",Daily,4.5
+BUS0810,GreenLine Travels,R016,Chennai,Tirupati,GreenLine Travels Express,Non AC Seater,02:00,10:30,8h 30m,150,561,Tambaram,Central Bus Stand,40,1,"Luxury Seat,WiFi",Daily,4.4
+BUS0811,Southern Express,R005,Chennai,Erode,Southern Express Express,Semi Sleeper,14:45,02:00,11h 15m,400,1237,Guindy,Perundurai,36,9,"AC,Blanket,Pillow",Weekdays,4.8
+BUS0812,SkyBus,R011,Chennai,Dindigul,SkyBus Express,AC Seater,19:30,01:15,5h 45m,420,1039,Perungalathur,Bus Stand,36,16,"WiFi,Charging,Water",Weekends,4.2
+BUS0813,Comfort Bus,R010,Chennai,Thanjavur,Comfort Bus Express,Luxury Sleeper,09:00,21:00,12h 0m,350,932,Tambaram,New Bus Stand,36,22,"AC,Blanket,Pillow",Daily,4.0
+BUS0814,SkyBus,R019,Salem,Chennai,SkyBus Express,AC Seater,17:45,04:15,10h 30m,345,990,New Bus Stand,Vandalur,36,23,"Charging,Reading Light",Daily,4.3
+BUS0815,Galaxy Bus,R017,Madurai,Chennai,Galaxy Bus Express,Non AC Sleeper,12:30,20:30,8h 0m,460,1169,Mattuthavani,Tambaram,45,12,"AC,Live Tracking",Daily,4.4
+BUS0816,Metro Connect,R014,Chennai,Hosur,Metro Connect Express,Non AC Seater,05:00,16:45,11h 45m,310,965,Koyambedu,Bus Stand,36,11,"AC,Blanket,Pillow",Weekdays,4.6
+BUS0817,Express King,R013,Chennai,Puducherry,Express King Express,Non AC Sleeper,11:00,18:15,7h 15m,170,675,Perungalathur,New Bus Stand,36,7,"AC,Blanket,Pillow",Weekends,4.5
+BUS0818,Southern Express,R023,Puducherry,Chennai,Southern Express Express,Volvo Multi Axle,18:00,23:45,5h 45m,170,653,New Bus Stand,Vandalur,40,29,"Luxury Seat,WiFi",Weekends,4.5
+BUS0819,Prime Bus,R010,Chennai,Thanjavur,Prime Bus Express,Volvo Multi Axle,21:00,08:15,11h 15m,350,877,Guindy,New Bus Stand,40,23,"Charging,Reading Light",Daily,4.6
+BUS0820,Fast Wheels,R008,Chennai,Nagercoil,Fast Wheels Express,Non AC Seater,15:30,23:30,8h 0m,705,1777,Koyambedu,Vadasery Bus Stand,36,26,"Luxury Seat,WiFi",Daily,4.5
+BUS0821,Prime Bus,R006,Chennai,Tiruppur,Prime Bus Express,AC Seater,07:45,15:15,7h 30m,475,1241,Tambaram,New Bus Stand,40,22,"WiFi,Charging,Water",Daily,4.9
+BUS0822,SkyBus,R023,Puducherry,Chennai,SkyBus Express,Non AC Seater,04:15,09:45,5h 30m,170,532,New Bus Stand,Perungalathur,45,10,"AC,WiFi,Charging",Weekends,4.8
+BUS0823,Galaxy Bus,R012,Chennai,Karaikudi,Galaxy Bus Express,AC Seater,18:30,06:30,12h 0m,410,1012,Koyambedu,Bus Stand,45,1,"Luxury Seat,WiFi",Weekends,4.3
+BUS0824,City Link,R001,Chennai,Madurai,City Link Express,Volvo Multi Axle,09:15,13:30,4h 15m,460,1352,Vandalur,Mattuthavani Bus Stand,40,22,"Blanket,Pillow,Water",Weekdays,4.2
+BUS0825,City Link,R012,Chennai,Karaikudi,City Link Express,AC Sleeper,11:45,22:15,10h 30m,410,1291,Guindy,Bus Stand,36,36,"Charging,Reading Light",Weekdays,4.5
+BUS0826,Royal Rider,R021,Tirunelveli,Chennai,Royal Rider Express,Luxury Sleeper,23:15,09:15,10h 0m,630,1775,New Bus Stand,Perungalathur,40,34,"Blanket,Pillow,Water",Weekends,4.2
+BUS0827,Star Line,R021,Tirunelveli,Chennai,Star Line Express,AC Sleeper,17:00,02:00,9h 0m,630,1611,New Bus Stand,Tambaram,40,2,"AC,Blanket,Pillow",Weekends,4.5
+BUS0828,Southern Express,R013,Chennai,Puducherry,Southern Express Express,Non AC Sleeper,23:00,10:30,11h 30m,170,575,Chengalpattu,New Bus Stand,36,15,"Blanket,Pillow,Water",Weekdays,4.5
+BUS0829,City Link,R021,Tirunelveli,Chennai,City Link Express,Volvo Multi Axle,16:30,20:00,3h 30m,630,1757,New Bus Stand,Tambaram,40,36,"WiFi,Charging,Water",Daily,4.4
+BUS0830,Comfort Bus,R010,Chennai,Thanjavur,Comfort Bus Express,Semi Sleeper,13:45,19:15,5h 30m,350,1065,Vandalur,New Bus Stand,40,18,"Luxury Seat,WiFi",Weekdays,4.3
+BUS0831,City Link,R004,Chennai,Salem,City Link Express,Luxury Sleeper,17:45,04:00,10h 15m,345,951,Koyambedu,Old Bus Stand,45,36,"Blanket,Pillow,Water",Weekends,4.5
+BUS0832,Royal Rider,R019,Salem,Chennai,Royal Rider Express,Volvo Multi Axle,02:45,12:30,9h 45m,345,993,New Bus Stand,Guindy,45,29,"Charging,Reading Light",Weekdays,4.7
+BUS0833,Prime Bus,R014,Chennai,Hosur,Prime Bus Express,Volvo Multi Axle,09:45,17:45,8h 0m,310,850,Tambaram,Bus Stand,40,11,"GPS,USB Charging",Weekdays,4.7
+BUS0834,Victory Travels,R004,Chennai,Salem,Victory Travels Express,AC Sleeper,01:45,11:15,9h 30m,345,1090,Chengalpattu,New Bus Stand,36,10,"Blanket,Pillow,Water",Daily,3.9
+BUS0835,Prime Bus,R012,Chennai,Karaikudi,Prime Bus Express,Non AC Sleeper,01:15,13:00,11h 45m,410,1115,Koyambedu,Bus Stand,45,19,"AC,WiFi,Charging",Weekdays,3.9
+BUS0836,Star Line,R010,Chennai,Thanjavur,Star Line Express,Volvo Multi Axle,12:30,16:45,4h 15m,350,1044,Vandalur,New Bus Stand,40,31,"AC,WiFi,Charging",Weekdays,4.9
+BUS0837,Metro Connect,R010,Chennai,Thanjavur,Metro Connect Express,Volvo Multi Axle,09:15,16:15,7h 0m,350,1036,Tambaram,New Bus Stand,36,4,"GPS,USB Charging",Daily,4.2
+BUS0838,Royal Rider,R006,Chennai,Tiruppur,Royal Rider Express,BharatBenz Sleeper,20:15,00:30,4h 15m,475,1381,Koyambedu,Avinashi,45,32,"AC,Blanket,Pillow",Weekends,4.3
+BUS0839,Elite Travels,R013,Chennai,Puducherry,Elite Travels Express,Luxury Sleeper,10:30,22:45,12h 15m,170,583,Perungalathur,New Bus Stand,36,36,"AC,Live Tracking",Weekends,4.1
+BUS0840,Happy Journey,R019,Salem,Chennai,Happy Journey Express,BharatBenz Sleeper,16:45,01:45,9h 0m,345,1006,Old Bus Stand,Koyambedu,36,2,"Charging,Reading Light",Weekends,4.8
+BUS0841,Happy Journey,R007,Chennai,Tirunelveli,Happy Journey Express,Non AC Seater,14:45,19:30,4h 45m,630,1642,Koyambedu,Junction,40,29,"Blanket,Pillow,Water",Weekends,4.6
+BUS0842,Happy Journey,R019,Salem,Chennai,Happy Journey Express,Semi Sleeper,19:45,00:00,4h 15m,345,931,Old Bus Stand,Koyambedu,36,10,"GPS,USB Charging",Weekdays,5.0
+BUS0843,Prime Bus,R025,Tirupati,Chennai,Prime Bus Express,Non AC Sleeper,03:00,09:45,6h 45m,150,553,Central Bus Stand,Koyambedu,45,3,"Charging,Reading Light",Weekdays,4.2
+BUS0844,SkyBus,R012,Chennai,Karaikudi,SkyBus Express,BharatBenz Sleeper,14:45,20:00,5h 15m,410,1202,Guindy,Bus Stand,36,17,"AC,Live Tracking",Weekends,4.4
+BUS0845,Sunrise Coaches,R006,Chennai,Tiruppur,Sunrise Coaches Express,Volvo Multi Axle,23:30,07:15,7h 45m,475,1176,Koyambedu,New Bus Stand,40,28,"GPS,USB Charging",Weekdays,3.9
+BUS0846,Galaxy Bus,R025,Tirupati,Chennai,Galaxy Bus Express,Non AC Sleeper,20:00,04:00,8h 0m,150,481,Central Bus Stand,Koyambedu,36,24,"AC,Blanket,Pillow",Weekdays,3.9
+BUS0847,Galaxy Bus,R017,Madurai,Chennai,Galaxy Bus Express,Non AC Seater,06:45,11:15,4h 30m,460,1243,Mattuthavani,Vandalur,45,16,"AC,Blanket,Pillow",Weekdays,4.1
+BUS0848,Victory Travels,R003,Chennai,Trichy,Victory Travels Express,Semi Sleeper,02:45,09:00,6h 15m,330,1023,Perungalathur,Srirangam,36,14,"WiFi,Charging,Water",Weekdays,4.0
+BUS0849,Comfort Bus,R009,Chennai,Kanyakumari,Comfort Bus Express,Luxury Sleeper,23:45,10:45,11h 0m,710,1743,Guindy,Bus Stand,36,20,"AC,Live Tracking",Weekends,4.2
+BUS0850,Comfort Bus,R009,Chennai,Kanyakumari,Comfort Bus Express,Non AC Sleeper,16:45,02:15,9h 30m,710,1880,Perungalathur,Bus Stand,40,13,"AC,WiFi,Charging",Weekdays,4.7
+BUS0851,Star Line,R007,Chennai,Tirunelveli,Star Line Express,Semi Sleeper,08:45,17:15,8h 30m,630,1714,Perungalathur,New Bus Stand,45,5,"AC,Blanket,Pillow",Weekdays,4.1
+BUS0852,Royal Rider,R004,Chennai,Salem,Royal Rider Express,Luxury Sleeper,01:15,05:45,4h 30m,345,1130,Chengalpattu,New Bus Stand,40,10,"Blanket,Pillow,Water",Weekdays,4.0
+BUS0853,SkyBus,R001,Chennai,Madurai,SkyBus Express,Semi Sleeper,17:15,23:30,6h 15m,460,1223,Vandalur,Mattuthavani Bus Stand,45,25,"AC,WiFi,Charging",Daily,4.6
+BUS0854,Elite Travels,R014,Chennai,Hosur,Elite Travels Express,BharatBenz Sleeper,01:15,10:00,8h 45m,310,1022,Perungalathur,Bus Stand,40,36,"AC,Live Tracking",Weekdays,5.0
+BUS0855,Happy Journey,R005,Chennai,Erode,Happy Journey Express,AC Sleeper,04:00,07:45,3h 45m,400,1033,Vandalur,Perundurai,45,26,"GPS,USB Charging",Daily,4.1
+BUS0856,Sunrise Coaches,R007,Chennai,Tirunelveli,Sunrise Coaches Express,Luxury Sleeper,08:15,16:45,8h 30m,630,1779,Chengalpattu,New Bus Stand,45,12,"AC,Live Tracking",Daily,4.3
+BUS0857,Comfort Bus,R020,Trichy,Chennai,Comfort Bus Express,Non AC Sleeper,11:45,19:00,7h 15m,330,925,Central Bus Stand,Perungalathur,36,11,"WiFi,Charging,Water",Weekdays,4.9
+BUS0858,Smart Coach,R003,Chennai,Trichy,Smart Coach Express,BharatBenz Sleeper,06:45,19:30,12h 45m,330,1046,Perungalathur,Chathiram Bus Stand,36,12,"Luxury Seat,WiFi",Weekdays,4.7
+BUS0859,City Link,R025,Tirupati,Chennai,City Link Express,BharatBenz Sleeper,08:00,20:45,12h 45m,150,601,Central Bus Stand,Guindy,40,3,"GPS,USB Charging",Weekdays,3.9
+BUS0860,Prime Bus,R008,Chennai,Nagercoil,Prime Bus Express,Non AC Seater,14:45,18:45,4h 0m,705,1674,Vandalur,Vadasery Bus Stand,36,5,"AC,WiFi,Charging",Weekdays,4.5
+BUS0861,Smart Coach,R005,Chennai,Erode,Smart Coach Express,Volvo Multi Axle,11:00,20:30,9h 30m,400,1202,Vandalur,Perundurai,36,26,"AC,WiFi,Charging",Weekdays,4.6
+BUS0862,Express King,R015,Chennai,Bengaluru,Express King Express,Non AC Sleeper,00:00,07:15,7h 15m,345,1118,Tambaram,Electronic City,40,24,"GPS,USB Charging",Weekdays,4.5
+BUS0863,Victory Travels,R014,Chennai,Hosur,Victory Travels Express,AC Seater,06:45,19:00,12h 15m,310,861,Guindy,Bus Stand,45,15,"Charging,Reading Light",Weekends,4.7
+BUS0864,Elite Travels,R013,Chennai,Puducherry,Elite Travels Express,Non AC Seater,16:45,03:45,11h 0m,170,694,Perungalathur,New Bus Stand,40,28,"GPS,USB Charging",Weekends,4.0
+BUS0865,Blue Bird,R013,Chennai,Puducherry,Blue Bird Express,Non AC Sleeper,23:15,07:45,8h 30m,170,609,Chengalpattu,New Bus Stand,36,28,"Luxury Seat,WiFi",Daily,4.2
+BUS0866,Golden Route,R008,Chennai,Nagercoil,Golden Route Express,BharatBenz Sleeper,17:45,20:45,3h 0m,705,1771,Perungalathur,Vadasery Bus Stand,45,27,"Luxury Seat,WiFi",Weekdays,4.1
+BUS0867,Elite Travels,R004,Chennai,Salem,Elite Travels Express,Volvo Multi Axle,15:00,00:00,9h 0m,345,990,Chengalpattu,Old Bus Stand,36,24,"Blanket,Pillow,Water",Daily,5.0
+BUS0868,Elite Travels,R013,Chennai,Puducherry,Elite Travels Express,BharatBenz Sleeper,21:45,06:15,8h 30m,170,542,Chengalpattu,New Bus Stand,40,23,"Blanket,Pillow,Water",Weekdays,4.4
+BUS0869,Happy Journey,R011,Chennai,Dindigul,Happy Journey Express,Non AC Sleeper,01:15,10:30,9h 15m,420,1051,Guindy,Bus Stand,36,10,"AC,WiFi,Charging",Weekends,3.9
+BUS0870,Sunrise Coaches,R003,Chennai,Trichy,Sunrise Coaches Express,Non AC Sleeper,11:00,19:30,8h 30m,330,834,Guindy,Srirangam,40,1,"GPS,USB Charging",Daily,4.4
+BUS0871,Blue Bird,R007,Chennai,Tirunelveli,Blue Bird Express,Non AC Sleeper,17:45,22:45,5h 0m,630,1495,Vandalur,New Bus Stand,40,21,"AC,Blanket,Pillow",Daily,4.3
+BUS0872,Golden Route,R008,Chennai,Nagercoil,Golden Route Express,Volvo Multi Axle,06:15,10:00,3h 45m,705,1826,Tambaram,Vadasery Bus Stand,36,24,"Charging,Reading Light",Weekdays,4.9
+BUS0873,Prime Bus,R016,Chennai,Tirupati,Prime Bus Express,Luxury Sleeper,18:00,21:15,3h 15m,150,694,Koyambedu,Central Bus Stand,45,32,"AC,Live Tracking",Weekends,4.2
+BUS0874,Sunrise Coaches,R013,Chennai,Puducherry,Sunrise Coaches Express,Semi Sleeper,17:00,02:30,9h 30m,170,488,Perungalathur,New Bus Stand,40,12,"AC,WiFi,Charging",Weekdays,4.0
+BUS0875,Southern Express,R025,Tirupati,Chennai,Southern Express Express,BharatBenz Sleeper,06:00,14:30,8h 30m,150,502,Central Bus Stand,Koyambedu,45,8,"WiFi,Charging,Water",Weekdays,3.9
+BUS0876,Golden Route,R024,Bengaluru,Chennai,Golden Route Express,Semi Sleeper,09:00,20:45,11h 45m,345,965,Majestic,Koyambedu,45,22,"AC,WiFi,Charging",Weekdays,3.8
+BUS0877,Victory Travels,R008,Chennai,Nagercoil,Victory Travels Express,Non AC Seater,00:30,07:15,6h 45m,705,1742,Tambaram,Vadasery Bus Stand,36,27,"Charging,Reading Light",Weekends,4.2
+BUS0878,GreenLine Travels,R024,Bengaluru,Chennai,GreenLine Travels Express,Semi Sleeper,21:00,05:00,8h 0m,345,1040,Majestic,Vandalur,45,17,"WiFi,Charging,Water",Weekdays,4.3
+BUS0879,Happy Journey,R007,Chennai,Tirunelveli,Happy Journey Express,Volvo Multi Axle,04:15,14:30,10h 15m,630,1543,Guindy,New Bus Stand,40,18,"WiFi,Charging,Water",Daily,4.9
+BUS0880,City Link,R015,Chennai,Bengaluru,City Link Express,Non AC Seater,14:00,23:45,9h 45m,345,946,Guindy,Kempegowda Bus Station,40,16,"GPS,USB Charging",Weekends,5.0
+BUS0881,Rainbow Coaches,R012,Chennai,Karaikudi,Rainbow Coaches Express,Non AC Seater,23:15,03:15,4h 0m,410,1297,Guindy,Bus Stand,45,3,"WiFi,Charging,Water",Weekends,4.3
+BUS0882,Smart Coach,R023,Puducherry,Chennai,Smart Coach Express,Volvo Multi Axle,18:00,22:30,4h 30m,170,757,New Bus Stand,Vandalur,40,12,"AC,Live Tracking",Weekdays,4.9
+BUS0883,Comfort Bus,R005,Chennai,Erode,Comfort Bus Express,Non AC Seater,11:00,18:30,7h 30m,400,1030,Chengalpattu,Perundurai,36,4,"Charging,Reading Light",Daily,4.1
+BUS0884,Happy Journey,R004,Chennai,Salem,Happy Journey Express,Non AC Seater,12:00,18:30,6h 30m,345,860,Tambaram,Old Bus Stand,40,29,"Blanket,Pillow,Water",Weekdays,4.3
+BUS0885,Golden Route,R025,Tirupati,Chennai,Golden Route Express,Non AC Seater,23:00,07:30,8h 30m,150,605,Central Bus Stand,Tambaram,36,18,"AC,WiFi,Charging",Weekdays,4.2
+BUS0886,Galaxy Bus,R013,Chennai,Puducherry,Galaxy Bus Express,Luxury Sleeper,23:00,02:30,3h 30m,170,652,Tambaram,New Bus Stand,45,11,"GPS,USB Charging",Daily,4.3
+BUS0887,Galaxy Bus,R004,Chennai,Salem,Galaxy Bus Express,Volvo Multi Axle,18:30,06:45,12h 15m,345,902,Vandalur,New Bus Stand,45,35,"Charging,Reading Light",Weekends,4.8
+BUS0888,Royal Rider,R023,Puducherry,Chennai,Royal Rider Express,AC Seater,19:45,00:15,4h 30m,170,476,New Bus Stand,Guindy,40,9,"AC,Live Tracking",Weekdays,3.8
+BUS0889,Prime Bus,R022,Nagercoil,Chennai,Prime Bus Express,Volvo Multi Axle,12:00,21:45,9h 45m,705,1905,Vadasery Bus Stand,Perungalathur,45,3,"AC,Blanket,Pillow",Weekends,4.4
+BUS0890,Sunrise Coaches,R024,Bengaluru,Chennai,Sunrise Coaches Express,Luxury Sleeper,23:45,11:15,11h 30m,345,1061,Electronic City,Tambaram,45,23,"AC,Blanket,Pillow",Weekdays,3.9
+BUS0891,Elite Travels,R013,Chennai,Puducherry,Elite Travels Express,Non AC Sleeper,01:45,05:45,4h 0m,170,713,Vandalur,New Bus Stand,45,9,"Luxury Seat,WiFi",Daily,4.3
+BUS0892,Golden Route,R001,Chennai,Madurai,Golden Route Express,AC Sleeper,19:30,01:15,5h 45m,460,1371,Guindy,Periyar Bus Stand,45,21,"GPS,USB Charging",Weekdays,4.4
+BUS0893,Royal Rider,R014,Chennai,Hosur,Royal Rider Express,Luxury Sleeper,23:15,03:45,4h 30m,310,981,Vandalur,Bus Stand,36,31,"AC,Blanket,Pillow",Weekdays,3.8
+BUS0894,Southern Express,R020,Trichy,Chennai,Southern Express Express,AC Sleeper,18:30,05:45,11h 15m,330,953,Chathiram Bus Stand,Perungalathur,36,16,"AC,WiFi,Charging",Weekdays,4.5
+BUS0895,Smart Coach,R001,Chennai,Madurai,Smart Coach Express,Non AC Seater,12:30,22:15,9h 45m,460,1343,Koyambedu,Periyar Bus Stand,45,5,"Blanket,Pillow,Water",Weekends,3.9
+BUS0896,Victory Travels,R007,Chennai,Tirunelveli,Victory Travels Express,Luxury Sleeper,09:45,21:15,11h 30m,630,1624,Tambaram,New Bus Stand,40,18,"AC,Live Tracking",Weekends,4.2
+BUS0897,Victory Travels,R016,Chennai,Tirupati,Victory Travels Express,AC Seater,17:45,04:15,10h 30m,150,436,Vandalur,Central Bus Stand,36,23,"AC,Live Tracking",Daily,4.1
+BUS0898,Express King,R002,Chennai,Coimbatore,Express King Express,AC Seater,03:15,08:45,5h 30m,510,1341,Chengalpattu,Ukkadam,45,25,"GPS,USB Charging",Daily,4.8
+BUS0899,Rainbow Coaches,R021,Tirunelveli,Chennai,Rainbow Coaches Express,BharatBenz Sleeper,15:45,21:30,5h 45m,630,1600,New Bus Stand,Guindy,45,27,"AC,WiFi,Charging",Daily,4.8
+BUS0900,Fast Wheels,R006,Chennai,Tiruppur,Fast Wheels Express,AC Seater,09:30,15:15,5h 45m,475,1155,Koyambedu,New Bus Stand,40,19,"AC,Live Tracking",Weekends,3.9
+BUS0901,Express King,R016,Chennai,Tirupati,Express King Express,Non AC Sleeper,23:15,12:00,12h 45m,150,560,Vandalur,Central Bus Stand,40,32,"WiFi,Charging,Water",Weekends,4.7
+BUS0902,Express King,R014,Chennai,Hosur,Express King Express,Non AC Sleeper,00:45,06:30,5h 45m,310,833,Koyambedu,Bus Stand,45,28,"GPS,USB Charging",Weekends,3.9
+BUS0903,Southern Express,R010,Chennai,Thanjavur,Southern Express Express,Semi Sleeper,23:00,02:00,3h 0m,350,901,Perungalathur,New Bus Stand,40,28,"Blanket,Pillow,Water",Weekdays,4.7
+BUS0904,Happy Journey,R002,Chennai,Coimbatore,Happy Journey Express,AC Sleeper,02:30,11:45,9h 15m,510,1436,Vandalur,Gandhipuram,45,5,"AC,Blanket,Pillow",Weekends,4.2
+BUS0905,Smart Coach,R010,Chennai,Thanjavur,Smart Coach Express,AC Seater,18:30,03:00,8h 30m,350,1075,Perungalathur,New Bus Stand,36,31,"Charging,Reading Light",Weekends,4.3
+BUS0906,Elite Travels,R006,Chennai,Tiruppur,Elite Travels Express,Luxury Sleeper,20:15,01:00,4h 45m,475,1331,Tambaram,New Bus Stand,45,28,"GPS,USB Charging",Daily,4.7
+BUS0907,Blue Bird,R007,Chennai,Tirunelveli,Blue Bird Express,AC Sleeper,01:00,09:30,8h 30m,630,1751,Tambaram,New Bus Stand,45,19,"Luxury Seat,WiFi",Weekdays,4.3
+BUS0908,Sunrise Coaches,R006,Chennai,Tiruppur,Sunrise Coaches Express,Volvo Multi Axle,05:00,09:15,4h 15m,475,1406,Koyambedu,Avinashi,40,1,"AC,Blanket,Pillow",Daily,4.1
+BUS0909,Happy Journey,R010,Chennai,Thanjavur,Happy Journey Express,Volvo Multi Axle,19:00,04:15,9h 15m,350,975,Perungalathur,New Bus Stand,40,11,"GPS,USB Charging",Weekdays,4.4
+BUS0910,Sunrise Coaches,R010,Chennai,Thanjavur,Sunrise Coaches Express,Non AC Sleeper,18:00,05:15,11h 15m,350,1016,Tambaram,New Bus Stand,36,19,"AC,WiFi,Charging",Daily,3.8
+BUS0911,Metro Connect,R003,Chennai,Trichy,Metro Connect Express,Semi Sleeper,09:30,17:15,7h 45m,330,936,Guindy,Chathiram Bus Stand,45,24,"AC,Live Tracking",Daily,4.0
+BUS0912,Fast Wheels,R005,Chennai,Erode,Fast Wheels Express,Non AC Sleeper,20:30,05:15,8h 45m,400,1202,Guindy,Perundurai,40,2,"AC,Blanket,Pillow",Weekends,4.5
+BUS0913,Express King,R021,Tirunelveli,Chennai,Express King Express,Semi Sleeper,18:00,00:15,6h 15m,630,1526,New Bus Stand,Perungalathur,36,28,"WiFi,Charging,Water",Weekdays,4.1
+BUS0914,GreenLine Travels,R005,Chennai,Erode,GreenLine Travels Express,BharatBenz Sleeper,10:15,16:30,6h 15m,400,1107,Chengalpattu,Central Bus Stand,40,10,"AC,WiFi,Charging",Weekdays,4.1
+BUS0915,Express King,R003,Chennai,Trichy,Express King Express,AC Sleeper,19:15,00:00,4h 45m,330,976,Perungalathur,Chathiram Bus Stand,40,9,"WiFi,Charging,Water",Daily,4.7
+BUS0916,Royal Rider,R011,Chennai,Dindigul,Royal Rider Express,BharatBenz Sleeper,19:00,22:15,3h 15m,420,1311,Vandalur,Bus Stand,40,17,"Luxury Seat,WiFi",Daily,4.3
+BUS0917,City Link,R009,Chennai,Kanyakumari,City Link Express,Luxury Sleeper,16:00,19:30,3h 30m,710,1699,Koyambedu,Bus Stand,45,25,"Luxury Seat,WiFi",Weekdays,4.6
+BUS0918,Southern Express,R005,Chennai,Erode,Southern Express Express,Semi Sleeper,13:15,20:00,6h 45m,400,1073,Guindy,Perundurai,40,27,"Charging,Reading Light",Weekdays,4.1
+BUS0919,Blue Bird,R024,Bengaluru,Chennai,Blue Bird Express,Non AC Seater,01:30,07:00,5h 30m,345,1148,Kempegowda Bus Station,Guindy,40,21,"Luxury Seat,WiFi",Weekends,4.9
+BUS0920,Comfort Bus,R004,Chennai,Salem,Comfort Bus Express,AC Seater,03:15,12:30,9h 15m,345,894,Tambaram,Old Bus Stand,36,14,"Charging,Reading Light",Weekends,4.4
+BUS0921,Southern Express,R025,Tirupati,Chennai,Southern Express Express,AC Seater,03:00,11:30,8h 30m,150,449,Central Bus Stand,Perungalathur,40,29,"AC,Blanket,Pillow",Weekdays,4.0
+BUS0922,SkyBus,R016,Chennai,Tirupati,SkyBus Express,BharatBenz Sleeper,05:45,10:30,4h 45m,150,502,Chengalpattu,Central Bus Stand,45,14,"Luxury Seat,WiFi",Daily,4.2
+BUS0923,Happy Journey,R007,Chennai,Tirunelveli,Happy Journey Express,Semi Sleeper,04:30,08:30,4h 0m,630,1629,Perungalathur,New Bus Stand,36,13,"AC,Blanket,Pillow",Daily,4.1
+BUS0924,Rainbow Coaches,R020,Trichy,Chennai,Rainbow Coaches Express,BharatBenz Sleeper,12:30,19:30,7h 0m,330,949,Chathiram Bus Stand,Koyambedu,36,7,"GPS,USB Charging",Weekdays,4.5
+BUS0925,Comfort Bus,R022,Nagercoil,Chennai,Comfort Bus Express,AC Seater,14:45,20:45,6h 0m,705,1889,Vadasery Bus Stand,Koyambedu,36,25,"Luxury Seat,WiFi",Daily,4.6
+BUS0926,Southern Express,R018,Coimbatore,Chennai,Southern Express Express,Luxury Sleeper,18:00,03:45,9h 45m,510,1225,Ukkadam,Tambaram,36,29,"Luxury Seat,WiFi",Weekends,4.4
+BUS0927,GreenLine Travels,R014,Chennai,Hosur,GreenLine Travels Express,Non AC Seater,23:00,02:15,3h 15m,310,1032,Perungalathur,Bus Stand,40,5,"Luxury Seat,WiFi",Weekdays,4.0
+BUS0928,Blue Bird,R022,Nagercoil,Chennai,Blue Bird Express,Non AC Sleeper,22:00,10:45,12h 45m,705,1887,Vadasery Bus Stand,Tambaram,40,31,"AC,WiFi,Charging",Daily,4.0
+BUS0929,Smart Coach,R004,Chennai,Salem,Smart Coach Express,Volvo Multi Axle,15:30,22:00,6h 30m,345,969,Vandalur,Old Bus Stand,40,25,"AC,Live Tracking",Weekends,4.2
+BUS0930,GreenLine Travels,R024,Bengaluru,Chennai,GreenLine Travels Express,AC Sleeper,00:00,10:00,10h 0m,345,884,Majestic,Vandalur,45,16,"AC,WiFi,Charging",Daily,4.7
+BUS0931,Galaxy Bus,R004,Chennai,Salem,Galaxy Bus Express,Volvo Multi Axle,04:30,15:45,11h 15m,345,890,Vandalur,Old Bus Stand,45,22,"WiFi,Charging,Water",Weekends,5.0
+BUS0932,Star Line,R025,Tirupati,Chennai,Star Line Express,BharatBenz Sleeper,04:15,14:30,10h 15m,150,470,Central Bus Stand,Koyambedu,40,36,"Blanket,Pillow,Water",Weekends,5.0
+BUS0933,Comfort Bus,R012,Chennai,Karaikudi,Comfort Bus Express,AC Sleeper,10:00,20:30,10h 30m,410,1095,Guindy,Bus Stand,36,19,"AC,Blanket,Pillow",Weekends,4.2
+BUS0934,Metro Connect,R004,Chennai,Salem,Metro Connect Express,Semi Sleeper,00:30,04:15,3h 45m,345,1066,Koyambedu,New Bus Stand,36,27,"Charging,Reading Light",Weekends,4.1
+BUS0935,Elite Travels,R021,Tirunelveli,Chennai,Elite Travels Express,Non AC Sleeper,17:45,00:00,6h 15m,630,1638,New Bus Stand,Vandalur,45,15,"AC,Blanket,Pillow",Weekdays,3.8
+BUS0936,GreenLine Travels,R007,Chennai,Tirunelveli,GreenLine Travels Express,AC Seater,14:30,22:45,8h 15m,630,1769,Tambaram,New Bus Stand,40,17,"GPS,USB Charging",Daily,4.2
+BUS0937,Victory Travels,R005,Chennai,Erode,Victory Travels Express,AC Seater,07:45,18:00,10h 15m,400,1125,Tambaram,Central Bus Stand,45,19,"AC,Live Tracking",Weekdays,4.5
+BUS0938,Express King,R016,Chennai,Tirupati,Express King Express,Semi Sleeper,10:30,19:30,9h 0m,150,501,Koyambedu,Central Bus Stand,40,10,"AC,WiFi,Charging",Daily,4.2
+BUS0939,Happy Journey,R017,Madurai,Chennai,Happy Journey Express,Volvo Multi Axle,00:15,11:30,11h 15m,460,1195,Periyar Bus Stand,Tambaram,36,14,"Luxury Seat,WiFi",Weekends,4.0
+BUS0940,Victory Travels,R020,Trichy,Chennai,Victory Travels Express,Luxury Sleeper,08:15,17:15,9h 0m,330,868,Chathiram Bus Stand,Vandalur,36,14,"Luxury Seat,WiFi",Daily,4.5
+BUS0941,Rainbow Coaches,R015,Chennai,Bengaluru,Rainbow Coaches Express,Luxury Sleeper,05:15,18:00,12h 45m,345,1139,Guindy,Kempegowda Bus Station,45,29,"Blanket,Pillow,Water",Weekends,4.7
+BUS0942,Victory Travels,R021,Tirunelveli,Chennai,Victory Travels Express,Volvo Multi Axle,23:00,08:45,9h 45m,630,1782,New Bus Stand,Tambaram,36,23,"Luxury Seat,WiFi",Weekends,3.9
+BUS0943,Victory Travels,R002,Chennai,Coimbatore,Victory Travels Express,Luxury Sleeper,06:00,12:30,6h 30m,510,1359,Tambaram,Singanallur,36,11,"AC,WiFi,Charging",Daily,4.4
+BUS0944,Smart Coach,R019,Salem,Chennai,Smart Coach Express,Non AC Sleeper,03:30,15:00,11h 30m,345,998,New Bus Stand,Guindy,45,30,"AC,Live Tracking",Weekends,4.0
+BUS0945,Express King,R020,Trichy,Chennai,Express King Express,Non AC Sleeper,16:00,19:15,3h 15m,330,944,Central Bus Stand,Tambaram,36,2,"Charging,Reading Light",Weekends,4.0
+BUS0946,Rainbow Coaches,R001,Chennai,Madurai,Rainbow Coaches Express,Non AC Sleeper,00:30,10:45,10h 15m,460,1333,Chengalpattu,Anna Nagar,36,27,"AC,WiFi,Charging",Weekdays,4.3
+BUS0947,Galaxy Bus,R010,Chennai,Thanjavur,Galaxy Bus Express,Volvo Multi Axle,22:45,02:45,4h 0m,350,1035,Perungalathur,New Bus Stand,45,14,"AC,Blanket,Pillow",Weekdays,4.4
+BUS0948,Sunrise Coaches,R016,Chennai,Tirupati,Sunrise Coaches Express,AC Seater,15:30,23:15,7h 45m,150,450,Vandalur,Central Bus Stand,40,2,"AC,WiFi,Charging",Weekdays,4.0
+BUS0949,SkyBus,R007,Chennai,Tirunelveli,SkyBus Express,AC Seater,03:45,15:30,11h 45m,630,1559,Koyambedu,Junction,36,36,"AC,WiFi,Charging",Weekends,4.1
+BUS0950,Victory Travels,R010,Chennai,Thanjavur,Victory Travels Express,Volvo Multi Axle,12:30,15:30,3h 0m,350,933,Tambaram,New Bus Stand,45,9,"GPS,USB Charging",Weekdays,4.7
+BUS0951,Golden Route,R024,Bengaluru,Chennai,Golden Route Express,BharatBenz Sleeper,23:45,11:30,11h 45m,345,913,Majestic,Perungalathur,36,15,"GPS,USB Charging",Weekends,4.1
+BUS0952,Blue Bird,R022,Nagercoil,Chennai,Blue Bird Express,Non AC Sleeper,22:15,05:15,7h 0m,705,1845,Vadasery Bus Stand,Guindy,36,26,"Charging,Reading Light",Daily,3.9
+BUS0953,Fast Wheels,R011,Chennai,Dindigul,Fast Wheels Express,Volvo Multi Axle,11:00,23:30,12h 30m,420,1168,Tambaram,Bus Stand,45,10,"Charging,Reading Light",Daily,4.6
+BUS0954,Fast Wheels,R012,Chennai,Karaikudi,Fast Wheels Express,Volvo Multi Axle,08:15,12:45,4h 30m,410,1300,Vandalur,Bus Stand,45,32,"WiFi,Charging,Water",Daily,4.2
+BUS0955,Smart Coach,R013,Chennai,Puducherry,Smart Coach Express,Luxury Sleeper,17:30,23:30,6h 0m,170,684,Koyambedu,New Bus Stand,36,4,"AC,WiFi,Charging",Daily,4.1
+BUS0956,Prime Bus,R013,Chennai,Puducherry,Prime Bus Express,AC Sleeper,05:45,12:00,6h 15m,170,655,Chengalpattu,New Bus Stand,36,9,"WiFi,Charging,Water",Weekends,4.2
+BUS0957,Royal Rider,R001,Chennai,Madurai,Royal Rider Express,AC Sleeper,07:30,19:15,11h 45m,460,1389,Chengalpattu,Periyar Bus Stand,40,23,"Luxury Seat,WiFi",Daily,3.8
+BUS0958,Prime Bus,R023,Puducherry,Chennai,Prime Bus Express,Volvo Multi Axle,09:30,16:30,7h 0m,170,498,New Bus Stand,Vandalur,36,1,"WiFi,Charging,Water",Weekdays,4.3
+BUS0959,Prime Bus,R021,Tirunelveli,Chennai,Prime Bus Express,BharatBenz Sleeper,21:30,10:15,12h 45m,630,1566,New Bus Stand,Perungalathur,40,14,"AC,WiFi,Charging",Daily,4.9
+BUS0960,Elite Travels,R005,Chennai,Erode,Elite Travels Express,BharatBenz Sleeper,13:45,00:45,11h 0m,400,1235,Vandalur,Perundurai,45,22,"AC,Live Tracking",Daily,4.8
+BUS0961,Smart Coach,R017,Madurai,Chennai,Smart Coach Express,Volvo Multi Axle,20:00,08:15,12h 15m,460,1408,Mattuthavani,Tambaram,36,24,"AC,WiFi,Charging",Daily,4.5
+BUS0962,Galaxy Bus,R018,Coimbatore,Chennai,Galaxy Bus Express,AC Seater,19:00,02:30,7h 30m,510,1287,Gandhipuram,Perungalathur,45,15,"Luxury Seat,WiFi",Weekends,4.4
+BUS0963,Elite Travels,R009,Chennai,Kanyakumari,Elite Travels Express,BharatBenz Sleeper,14:15,21:00,6h 45m,710,1948,Koyambedu,Bus Stand,45,6,"AC,Blanket,Pillow",Daily,4.4
+BUS0964,City Link,R015,Chennai,Bengaluru,City Link Express,Non AC Seater,00:30,07:00,6h 30m,345,917,Tambaram,Kempegowda Bus Station,40,2,"AC,Blanket,Pillow",Weekdays,4.8
+BUS0965,GreenLine Travels,R012,Chennai,Karaikudi,GreenLine Travels Express,AC Seater,23:45,04:15,4h 30m,410,1104,Vandalur,Bus Stand,40,1,"Blanket,Pillow,Water",Daily,4.8
+BUS0966,Happy Journey,R008,Chennai,Nagercoil,Happy Journey Express,Luxury Sleeper,18:45,05:15,10h 30m,705,1676,Vandalur,Vadasery Bus Stand,45,26,"Luxury Seat,WiFi",Daily,4.1
+BUS0967,Blue Bird,R025,Tirupati,Chennai,Blue Bird Express,AC Sleeper,17:45,00:15,6h 30m,150,474,Central Bus Stand,Guindy,40,36,"WiFi,Charging,Water",Daily,4.7
+BUS0968,Fast Wheels,R022,Nagercoil,Chennai,Fast Wheels Express,BharatBenz Sleeper,21:30,10:00,12h 30m,705,1662,Vadasery Bus Stand,Tambaram,36,15,"Luxury Seat,WiFi",Weekends,4.7
+BUS0969,Blue Bird,R014,Chennai,Hosur,Blue Bird Express,Luxury Sleeper,07:30,17:30,10h 0m,310,976,Guindy,Bus Stand,40,12,"AC,Blanket,Pillow",Daily,3.9
+BUS0970,Southern Express,R018,Coimbatore,Chennai,Southern Express Express,AC Sleeper,10:00,22:30,12h 30m,510,1284,Gandhipuram,Koyambedu,40,29,"Charging,Reading Light",Weekdays,4.8
+BUS0971,GreenLine Travels,R007,Chennai,Tirunelveli,GreenLine Travels Express,Luxury Sleeper,10:00,22:30,12h 30m,630,1721,Perungalathur,Junction,36,35,"Luxury Seat,WiFi",Weekdays,3.9
+BUS0972,GreenLine Travels,R021,Tirunelveli,Chennai,GreenLine Travels Express,Non AC Seater,19:00,04:00,9h 0m,630,1642,New Bus Stand,Perungalathur,45,31,"WiFi,Charging,Water",Weekdays,4.3
+BUS0973,City Link,R006,Chennai,Tiruppur,City Link Express,Semi Sleeper,12:00,00:15,12h 15m,475,1319,Vandalur,New Bus Stand,45,3,"Blanket,Pillow,Water",Weekdays,3.9
+BUS0974,Happy Journey,R014,Chennai,Hosur,Happy Journey Express,Luxury Sleeper,13:15,19:15,6h 0m,310,950,Perungalathur,Bus Stand,36,10,"AC,Live Tracking",Weekends,4.9
+BUS0975,Metro Connect,R004,Chennai,Salem,Metro Connect Express,Volvo Multi Axle,15:45,23:00,7h 15m,345,1144,Guindy,Old Bus Stand,40,26,"Blanket,Pillow,Water",Daily,4.1
+BUS0976,Southern Express,R015,Chennai,Bengaluru,Southern Express Express,Volvo Multi Axle,03:30,12:00,8h 30m,345,1122,Chengalpattu,Majestic,40,30,"AC,Blanket,Pillow",Daily,4.7
+BUS0977,Royal Rider,R010,Chennai,Thanjavur,Royal Rider Express,Non AC Seater,02:30,09:00,6h 30m,350,979,Chengalpattu,New Bus Stand,40,8,"Luxury Seat,WiFi",Weekends,4.6
+BUS0978,Victory Travels,R017,Madurai,Chennai,Victory Travels Express,Non AC Seater,19:45,23:30,3h 45m,460,1130,Mattuthavani,Guindy,36,32,"Luxury Seat,WiFi",Weekdays,3.9
+BUS0979,Smart Coach,R022,Nagercoil,Chennai,Smart Coach Express,Luxury Sleeper,03:00,10:00,7h 0m,705,1702,Vadasery Bus Stand,Perungalathur,36,11,"Blanket,Pillow,Water",Weekdays,4.0
+BUS0980,Blue Bird,R006,Chennai,Tiruppur,Blue Bird Express,BharatBenz Sleeper,09:15,18:45,9h 30m,475,1249,Tambaram,New Bus Stand,45,26,"AC,Live Tracking",Weekdays,4.3
+BUS0981,SkyBus,R025,Tirupati,Chennai,SkyBus Express,Semi Sleeper,01:00,05:00,4h 0m,150,456,Central Bus Stand,Tambaram,45,21,"AC,WiFi,Charging",Daily,4.6
+BUS0982,Fast Wheels,R005,Chennai,Erode,Fast Wheels Express,Luxury Sleeper,02:30,12:15,9h 45m,400,1238,Tambaram,Perundurai,45,1,"Luxury Seat,WiFi",Weekdays,4.5
+BUS0983,Express King,R024,Bengaluru,Chennai,Express King Express,Semi Sleeper,20:30,05:30,9h 0m,345,953,Majestic,Guindy,45,33,"GPS,USB Charging",Weekdays,4.9
+BUS0984,GreenLine Travels,R025,Tirupati,Chennai,GreenLine Travels Express,BharatBenz Sleeper,06:00,17:30,11h 30m,150,557,Central Bus Stand,Guindy,45,14,"WiFi,Charging,Water",Weekdays,5.0
+BUS0985,Galaxy Bus,R005,Chennai,Erode,Galaxy Bus Express,Luxury Sleeper,15:00,03:30,12h 30m,400,1141,Tambaram,Central Bus Stand,36,2,"WiFi,Charging,Water",Weekends,4.5
+BUS0986,Golden Route,R009,Chennai,Kanyakumari,Golden Route Express,Semi Sleeper,16:00,23:15,7h 15m,710,1957,Guindy,Bus Stand,36,23,"GPS,USB Charging",Weekdays,4.4
+BUS0987,City Link,R016,Chennai,Tirupati,City Link Express,Non AC Seater,17:45,23:00,5h 15m,150,659,Koyambedu,Central Bus Stand,45,14,"AC,Live Tracking",Weekdays,5.0
+BUS0988,City Link,R021,Tirunelveli,Chennai,City Link Express,AC Sleeper,05:15,16:30,11h 15m,630,1618,New Bus Stand,Koyambedu,45,3,"AC,Blanket,Pillow",Daily,4.9
+BUS0989,Victory Travels,R005,Chennai,Erode,Victory Travels Express,AC Seater,00:00,05:00,5h 0m,400,1258,Chengalpattu,Central Bus Stand,45,24,"Blanket,Pillow,Water",Weekends,4.5
+BUS0990,Rainbow Coaches,R020,Trichy,Chennai,Rainbow Coaches Express,BharatBenz Sleeper,19:45,02:00,6h 15m,330,942,Central Bus Stand,Guindy,36,8,"GPS,USB Charging",Weekdays,3.8
+BUS0991,SkyBus,R004,Chennai,Salem,SkyBus Express,Volvo Multi Axle,13:30,22:15,8h 45m,345,1148,Perungalathur,Old Bus Stand,40,3,"Luxury Seat,WiFi",Weekends,4.2
+BUS0992,Happy Journey,R005,Chennai,Erode,Happy Journey Express,AC Seater,02:30,06:00,3h 30m,400,1139,Koyambedu,Perundurai,45,33,"AC,Blanket,Pillow",Weekends,4.4
+BUS0993,Elite Travels,R011,Chennai,Dindigul,Elite Travels Express,AC Sleeper,21:30,04:15,6h 45m,420,1204,Vandalur,Bus Stand,36,26,"AC,Live Tracking",Weekends,4.5
+BUS0994,Elite Travels,R014,Chennai,Hosur,Elite Travels Express,Volvo Multi Axle,21:00,04:00,7h 0m,310,864,Perungalathur,Bus Stand,36,18,"AC,Blanket,Pillow",Weekends,4.7
+BUS0995,Elite Travels,R016,Chennai,Tirupati,Elite Travels Express,Volvo Multi Axle,02:45,10:00,7h 15m,150,477,Koyambedu,Central Bus Stand,45,16,"AC,WiFi,Charging",Daily,4.1
+BUS0996,City Link,R003,Chennai,Trichy,City Link Express,Luxury Sleeper,06:45,10:30,3h 45m,330,911,Vandalur,Central Bus Stand,45,8,"GPS,USB Charging",Weekdays,4.4
+BUS0997,City Link,R001,Chennai,Madurai,City Link Express,BharatBenz Sleeper,23:00,08:30,9h 30m,460,1320,Chengalpattu,Periyar Bus Stand,36,26,"WiFi,Charging,Water",Weekdays,3.9
+BUS0998,Prime Bus,R013,Chennai,Puducherry,Prime Bus Express,Semi Sleeper,02:15,15:00,12h 45m,170,717,Vandalur,New Bus Stand,45,27,"GPS,USB Charging",Weekdays,4.1
+BUS0999,Prime Bus,R003,Chennai,Trichy,Prime Bus Express,Luxury Sleeper,07:00,14:30,7h 30m,330,826,Tambaram,Chathiram Bus Stand,45,8,"AC,Live Tracking",Daily,4.5
+BUS1000,Star Line,R005,Chennai,Erode,Star Line Express,AC Seater,08:30,12:00,3h 30m,400,981,Koyambedu,Central Bus Stand,40,5,"AC,Blanket,Pillow",Daily,4.3
