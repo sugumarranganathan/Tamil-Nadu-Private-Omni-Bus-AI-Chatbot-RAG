@@ -1,7 +1,7 @@
-gradio
-pandas
-numpy
+rapidfuzz>=3.0.0
 faiss-cpu
 sentence-transformers
-transformers
+pandas
+numpy
+scikit-learn
 torch
